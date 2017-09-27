@@ -1,0 +1,82 @@
+#Directorys for scripts and reference files
+anaconda_path="/usr2/people/scorad/anaconda2/bin/python"
+RB_TDNAseq_dir="/usr2/people/scorad/ElifeSubmission2017/BitBucket/RB-TDNAseq/"
+ref_files=$RB_TDNAseq_dir"Reference_Files/"
+codebase=$RB_TDNAseq_dir"Code/"
+primerFiles=$ref_files"TDNAmodels/model_pDP11BC"
+pool=$ref_files"RtBC42pool"
+
+#Files and prefixes for outputs
+fastqDir=$RB_TDNAseq_dir"Sequence_Data/BarSeq_data/"
+resultsDir=$RB_TDNAseq_dir"BarSeq_Results/"
+
+expShortName="BarSeq"
+barseqPrefix=""
+barseqSuffix=".fastq"
+febaMetaData=$expShortName"_metadata.txt"
+
+
+#Replicates to be analyzed
+indexlist=(Aux_Arg_A Aux_Arg_B Aux_Arg_C Aux_DO_A Aux_DO_B Aux_DO_C Aux_Met_A Aux_Met_B Aux_Met_C Aux_T0_A Aux_T0_B Aux_T0_C Aux_YNB_A Aux_YNB_B Aux_YNB_C FACS_AllA FACS_AllB FACS_AllC FACS_BotA FACS_BotB FACS_BotC FACS_T0A FACS_T0B FACS_T0C FACS_TopA FACS_TopB FACS_TopC Buoy_40FB_A Buoy_40FB_B Buoy_40FB_C Buoy_40FM_A Buoy_40FM_B Buoy_40FM_C Buoy_40FW_A Buoy_40FW_B Buoy_40FW_C Buoy_T0_A Buoy_T0_B Buoy_T0_C Buoy_T40_A Buoy_T40_B Buoy_T40_C OA_T0A OA_T0B OA_T0C OA_YNB_Gluc_A OA_YNB_Gluc_B OA_YNB_Gluc_C OA_YNB_OA_A OA_YNB_OA_B OA_YNB_OA_C Buoy_Y40_A Buoy_Y40_B Buoy_Y40_C Buoy_Y40_FB_A Buoy_Y40_FB_B Buoy_Y40_FB_C Buoy_Y40_FM_A Buoy_Y40_FM_B Buoy_Y40_FM_C Buoy_Y40_FT_A Buoy_Y40_FT_B Buoy_Y40_FT_C Buoy_YPD_T0_A Buoy_YPD_T0_B Buoy_YPD_T0_C YPD_T0A YPD_T0B YPD_T0C YPD_YPDA YPD_YPDB YPD_YPDC RA_T0A RA_T0B RA_T0C RA_YNB_Gluc_A RA_YNB_Gluc_B RA_YNB_Gluc_C RA_YNB_MR_A RA_YNB_MR_B RA_YNB_MR_C RA_YNB_RA_A RA_YNB_RA_B RA_YNB_RA_C)
+
+
+#Replicates and Time-zero pairings for Barseq Analysis
+conditionsList="Aux_Arg:[Aux_Arg_A,Aux_Arg_B,Aux_Arg_C],Aux_DOC:[Aux_DO_A,Aux_DO_B,Aux_DO_C],Aux_Met:[Aux_Met_A,Aux_Met_B,Aux_Met_C],Aux_T0:[Aux_T0_A,Aux_T0_B,Aux_T0_C],Aux_YNB_Gluc:[Aux_YNB_A,Aux_YNB_B,Aux_YNB_C],FACS_All:[FACS_AllA,FACS_AllB,FACS_AllC],FACS_Bot:[FACS_BotA,FACS_BotB,FACS_BotC],FACS_T0:[FACS_T0A,FACS_T0B,FACS_T0C],FACS_Top:[FACS_TopA,FACS_TopB,FACS_TopC],Buoy_Bot:[Buoy_40FB_A,Buoy_40FB_B,Buoy_40FB_C],Buoy_Med:[Buoy_40FM_A,Buoy_40FM_B,Buoy_40FM_C],Buoy_Top:[Buoy_40FW_A,Buoy_40FW_B,Buoy_40FW_C],Buoy_T0:[Buoy_T0_A,Buoy_T0_B,Buoy_T0_C],Buoy_All:[Buoy_T40_A,Buoy_T40_B,Buoy_T40_C],OA_T0:[OA_T0A,OA_T0B,OA_T0C],OA_YNB_Gluc:[OA_YNB_Gluc_A,OA_YNB_Gluc_B,OA_YNB_Gluc_C],OA_Oleic:[OA_YNB_OA_A,OA_YNB_OA_B,OA_YNB_OA_C],Buoy_YPD_All:[Buoy_Y40_A,Buoy_Y40_B,Buoy_Y40_C],Buoy_YPD_Bot:[Buoy_Y40_FB_A,Buoy_Y40_FB_B,Buoy_Y40_FB_C],Buoy_YPD_Med:[Buoy_Y40_FM_A,Buoy_Y40_FM_B,Buoy_Y40_FM_C],Buoy_YPD_Top:[Buoy_Y40_FT_A,Buoy_Y40_FT_B,Buoy_Y40_FT_C],Buoy_YPD_T0:[Buoy_YPD_T0_A,Buoy_YPD_T0_B,Buoy_YPD_T0_C],YPD_T0:[YPD_T0A,YPD_T0B,YPD_T0C],YPD_YPD:[YPD_YPDA,YPD_YPDB,YPD_YPDC],RA_T0:[RA_T0A,RA_T0B,RA_T0C],RA_YNB_Gluc:[RA_YNB_Gluc_A,RA_YNB_Gluc_B,RA_YNB_Gluc_C],RA_MRA:[RA_YNB_MR_A,RA_YNB_MR_B,RA_YNB_MR_C],RA_RA:[RA_YNB_RA_A,RA_YNB_RA_B,RA_YNB_RA_C]"
+
+compareList="[[Aux_YNB_Gluc,Aux_T0],[Aux_DOC,Aux_T0],[Aux_Met,Aux_T0],[Aux_Arg,Aux_T0],[Aux_DOC,Aux_YNB_Gluc],[Aux_Met,Aux_YNB_Gluc],[Aux_Arg,Aux_YNB_Gluc],[YPD_YPD,YPD_T0],[YPD_YPD,Aux_YNB_Gluc],[OA_YNB_Gluc,OA_T0],[OA_Oleic,OA_T0],[OA_Oleic,OA_YNB_Gluc],[RA_YNB_Gluc,RA_T0],[RA_MRA,RA_T0],[RA_RA,RA_T0],[RA_MRA,RA_YNB_Gluc],[RA_RA,RA_YNB_Gluc],[Buoy_YPD_All,Buoy_YPD_T0],[Buoy_YPD_Top,Buoy_YPD_Bot],[Buoy_All,Buoy_T0],[Buoy_Top,Buoy_Bot],[FACS_All,FACS_T0],[FACS_Top,FACS_Bot]]"
+
+compareT="[[Aux_DOC,Aux_YNB_Gluc],[Aux_Met,Aux_YNB_Gluc],[Aux_Arg,Aux_YNB_Gluc],[YPD_YPD,Aux_YNB_Gluc],[OA_Oleic,OA_YNB_Gluc],[RA_MRA,RA_YNB_Gluc],[RA_RA,RA_YNB_Gluc],[Buoy_YPD_Top,Buoy_YPD_Bot],[Buoy_Top,Buoy_Bot],[FACS_Top,FACS_Bot]]"
+
+
+###BarSeq Analysis Section####
+##
+##Mutlicodes block.
+##
+##   -index option must match index feild in FEBA_BarSeq.tsv
+##   -genomicBarcodes must be followed by the offeset from -preseq to expected barcode position
+##   nnnnnnATCAGATTGTCGTTTCCCGCCTTCAGTTTAAACTATCAGTGTTTGANNNNNNNNNNNNNNNNNNN   Transposon Model
+##   ---------------------------------TTAAACTAT----------
+##      33 pre-expected bases         |preseq | 10 var bases |  20 bases from genome used for barcode
+##
+
+
+#echo 
+#echo '---<===Running MultiCodes===>---'
+
+#mkdir "$resultsDir"barcodeCounts
+#for i in ${indexlist[@]}; do
+#echo $i
+#"$codebase"RB-TDNAseq_scripts/MultiCodes_Variable_Length.pl -index $i -nPreExpected 15 -preseq AGCGTACG -postseq AGAG -out "$resultsDir"barcodeCounts/"$i" < "$fastqDir$barseqPrefix$i$barseqSuffix"
+#done
+
+
+##
+##combineBarSeq block
+##
+echo
+echo '---<===Running combineBarSeq===>---'
+CodeFiles=''
+for i in ${indexlist[@]};do
+CodeFiles=$CodeFiles" "$resultsDir"barcodeCounts/"$i".codes"
+done
+"$codebase"RB-TnSeq_scripts/combineBarSeq.pl $resultsDir$expShortName $pool $CodeFiles
+
+##
+##Compute Wilcoxon Signed Rank Statistics
+##
+$anaconda_path "$codebase"RB-TDNAseq_scripts/Wilcoxon.py -p $resultsDir$expShortName.poolcount -b $pool -o "$expShortName" -c "$conditionsList" -t "$compareList"
+
+
+echo
+echo Running BarSeqR
+mkdir "$expShortName"_Replicates
+cp $resultsDir$expShortName".poolcount" $resultsDir"setA.poolcount"
+cp $ref_files"genesUsed" $resultsDir$expShortName"_Replicates/genesUsed"
+"$codebase"RB-TDNAseq_scripts/BarSeqR_modified.pl -org "$expShortName" -indir "$resultsDir" -exps "$febaMetaData" -outdir "$expShortName"_Replicates -poolfile "$pool" -genesfile "$ref_files"genes.GC
+
+mkdir "$expShortName"_Averaged
+$anaconda_path "$codebase"RB-TDNAseq_scripts/AverageReplicates.py -i "$expShortName"_Replicates -c "$conditionsList" -o "$expShortName"_Averaged
+
+$anaconda_path "$codebase"RB-TDNAseq_scripts/ResultsSummary.py -f "$expShortName"_Averaged -w "$expShortName"_Wilcoxon.txt -o "$expShortName"_summary.txt -t "$compareT" -r "set[A-Z]"
+
+exit

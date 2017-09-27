@@ -1,0 +1,20 @@
+These scripts were used to process flow cytometry data for Rhodosporidium toruloides cultures stained with BODIPY 493/503 as a measure of relative TAG content.
+
+Stained cells were processed on a Guava HT flow cytometer, sampling 10,000 cells per culture with the inCyte software suite.  Exported data in list-mode format from each run are compiled the RawData directory, in sub-directories by date.
+
+Averages are compiled and matched to meta data by running the script GuavaSummayrStats.py like so:
+
+python GuavaSummaryStats.py --metadata BODIPY_metadata_lipid_accumulation.txt --path RawData
+
+GuavaSummaryStats.py saves the result as BODIPY_sample_stats.txt
+
+
+The script RelativeBODIPY.py takes those results and normalizes BODIPY for mutants strains to the average signal in a reference strain from the same batch of cultures, plotting the comparison and saving a statistical summary.
+
+For example:
+
+python RelativeBODIPY.py --input BODIPY_sample_stats.txt --output High_Lipid_Candidates --list High_Lipid_Candidate_Strains.txt --ref "APA 4140"
+
+will output:
+High_Lipid_Candidates.pdf
+High_Lipid_Candidates_statsSummary.txt
