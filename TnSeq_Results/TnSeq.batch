@@ -1,0 +1,58 @@
+#Directorys for scripts and reference files
+anaconda_path="/usr2/people/scorad/anaconda2/bin/python"
+RB_TDNAseq_dir="/usr2/people/scorad/ElifeSubmission2017/BitBucket/RB-TDNAseq/"
+ref_files=$RB_TDNAseq_dir"Reference_Files/"
+codebase=$RB_TDNAseq_dir"Code/"
+primerFile=$ref_files"TDNAmodels/model_pDP11BC"
+genomeSequence=$ref_files"RTO4_scaffolds.fasta"
+genesGFF=$ref_files"RTO4_genes.gff3"
+
+
+#Files and prefixes for outputs
+#TnSeq example data is available at https://www.ncbi.nlm.nih.gov/sra/?term=SRP116146
+fastqDir=$RB_TDNAseq_dir"Sequence_Data/TnSeq_data/"
+tnseqSuffix="_R1_001.fastq"
+resultsDir=$RB_TDNAseq_dir"TnSeq_Results/"
+poolBaseName="RB-TDNAseq_insertion_pool"
+
+#Names of individual sequence libraries
+indexlist=(APA_DJP_011_S1_L001 APA_DJP_012_S2_L002 APA_DJP_013_S1_L001 APA_DJP_014_S2_L002 RtBC-31-65_S1_L001 RtBC-31-69_S10_L001 RtBC31-JS65_S1_L001 RtBC31-JS69_S8_L001 RtBC-32-65_S2_L001 RtBC-32-69_S11_L001 RtBC32-JS65_S2_L001 RtBC32-JS69_S9_L001 RtBC-37-65_S3_L001 RtBC-37-69_S12_L001 RtBC37-JS65_S3_L001 RtBC37-JS69_S10_L001 RtBC-38-65_S4_L001 RtBC-38-69_S13_L001 RtBC38-JS65_S4_L001 RtBC38-JS69_S11_L001 RtBC39a-JS65_S5_L001 RtBC39a-JS69_S12_L001 RtBC39b-JS65_S6_L001 RtBC39b-JS69_S13_L001 RtBC39c-JS65_S7_L001 RtBC39c-JS69_S14_L001 RtBC-40-65_S5_L001 RtBC-40-69_S14_L001 RtBC-42b-1-65_S6_L001 RtBC-42b-1-69_S15_L001 RtBC-42b-2-65_S7_L001 RtBC-42b-2-69_S16_L001 RtBC-42b-3-65-1_S8_L001 RtBC23-JS58_S2_L001 RtBC23-JS65_S1_L001 JS65_S1_L001 JS65-thawed_S5_L001 JS67_S2_L001 68_S11_L001 JS69_S3_L001 JS71_S4_L001 72_S12_L001 APA_DJP_015a_S1_L001 APA_DJP_015b_S2_L001 APA_DJP_015c_S3_L001 APA_DJP_015d_S4_L001 APA_DJP_015e_S5_L001 APA_DJP_015f_S6_L001 APA_DJP_015g_S7_L001 APA_DJP_015h_S8_L001 APA_DJP_015i_S9_L001 APA_DJP_015j_S10_L001 APA_DJP_015k_S11_L001 APA_DJP_016a_S12_L002 APA_DJP_016b_S13_L002 APA_DJP_016c_S14_L002 APA_DJP_016d_S15_L002 APA_DJP_016e_S16_L002 APA_DJP_016f_S17_L002 APA_DJP_016g_S18_L002 APA_DJP_016h_S19_L002 APA_DJP_016i_S20_L002 APA_DJP_016j_S21_L002 APA_DJP_016k_S22_L002)
+
+##
+##Map locations of T-DNA insertions with MapTnSeq_Trimmed.pl
+##
+echo
+echo
+echo '---<===Running MapTnSeq===>---'
+for i in ${indexlist[@]}; do
+echo 
+echo 'Mapping reads from '$fastqPrefix_$i'.fastq...'
+TnSeqCommand=$codebase"RB-TDNAseq_scripts/MapTnSeq_Trimmed.pl -trim 10 -model "$primerFile" -first "$fastqDir$i$tnseqSuffix" -genome "$genomeSequence" > "$resultsDir$i".tab"
+eval "$TnSeqCommand"
+done
+
+##
+##Find useful barcodes (unique, anamibuously mapping barcodes) with RandomPoolConcatamers.py
+##
+echo 
+echo '---<===Running RandomPoolConcatamers===>---'
+TnSeqFiles=$resultsDir${indexlist[0]}'.tab'
+for i in ${indexlist[@]:1:(${#indexlist[*]}-1)}; do
+TnSeqFiles=$TnSeqFiles','$resultsDir$i'.tab'
+done
+/usr2/people/scorad/anaconda2/bin/python "$codebase"RB-TDNAseq_scripts/RandomPoolConcatamers.py --input $TnSeqFiles --output "$resultsDir$poolBaseName" --offbytwo
+
+##
+##Annotate insertion locations relative to gene models iwth InsertionLocationJGI.py
+##
+echo
+echo '---<===Finding Gene Locations===>---'
+/usr2/people/scorad/anaconda2/bin/python "$codebase"RB-TDNAseq_scripts/InsertionLocationJGI.py --pool_file "$resultsDir$poolBaseName" --output "$resultsDir$poolBaseName" --gff "$genesGFF"
+/usr2/people/scorad/anaconda2/bin/python "$codebase"RB-TDNAseq_scripts/InsertionLocationJGI.py --pool_file "$resultsDir$poolBaseName"_ambiguous --output "$resultsDir$poolBaseName"_ambiguous --gff "$genesGFF"
+
+##
+##Produce summary stats on the distribution of useful T-DNA insertions with InsertBias.py 
+##Note: event thought this script only saves figures as PDFs it may still throw and error when running on server unless you start the ssh session with the -X flag
+##
+
+/usr2/people/scorad/anaconda2/bin/python "$codebase"RB-TDNAseq_scripts/InsertBias.py --input "$resultsDir$poolBaseName"_genes.txt --fasta "$genomeSequence" --genes "$genesGFF"

@@ -1,0 +1,476 @@
+barcode	rcbarcode	nTot	n	scaffold	strand	pos	type	nMainLocation	nTot.1	nPastEnd	All genomic mappings	All pastEnd mappings	nearest_gene	location	CDS_fraction	Basepair_from_CDS	exon
+GGAGGTCTGTTTCCTGTGTC	GACACAGGAAACAGACCTCC	8	8	scaffold_1	+	314182	Amb	2	8	6	[('scaffold_1:314182:+', 2)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0, 'pastEnd:5705:+': 2, 'pastEnd:1:+': 1}	8497	coding_region	53	0	exon
+TTGAGTCCAAGCCCCAGTAT	ATACTGGGGCTTGGACTCAA	1	1	scaffold_1	+	779290	Amb	1	1	0	[('scaffold_1:779290:+', 1)]	{'Null:0:+': 0}	8695	intergenic_promoter	-1	-41	intergenic
+ATTGTGTGGGAAGTGCGTGG	CCACGCACTTCCCACACAAT	1	0	scaffold_1	-	779293	Amb	1	1	0	[('scaffold_1:779293:-', 1)]	{'Null:0:+': 0}	8695	intergenic_promoter	-1	-44	intergenic
+GGCTTTTCAGTCGTTTTGTT	AACAAAACGACTGAAAAGCC	1	1	scaffold_1	-	779312	Amb	1	1	0	[('scaffold_1:779312:-', 1)]	{'Null:0:+': 0}	8695	intergenic_promoter	-1	-63	intergenic
+TCTGAAGCTCATTTATACCA	TGGTATAAATGAGCTTCAGA	1	1	scaffold_1	-	879371	Amb	1	1	0	[('scaffold_1:879371:-', 1)]	{'Null:0:+': 0}	8746	intergenic_terminator	-1	3668	intergenic
+TATGTACAGAAATATCCGTT	AACGGATATTTCTGTACATA	2	2	scaffold_1	+	946807	Amb	2	2	0	[('scaffold_1:946807:+', 2)]	{'Null:0:+': 0}	8775	5_prime_UTR	-1	-236	5_prime_UTR
+GAGTTAAGTTTTTACTGTTA	TAACAGTAAAAACTTAACTC	1	1	scaffold_1	+	962281	Amb	1	1	0	[('scaffold_1:962281:+', 1)]	{'Null:0:+': 0}	8778	intergenic_promoter	-1	-28	intergenic
+GCTTATAGTCTAGAGGTGTA	TACACCTCTAGACTATAAGC	1	1	scaffold_1	+	962608	Amb	1	1	0	[('scaffold_1:962608:+', 1)]	{'Null:0:+': 0}	8779	intergenic_terminator	-1	2282	intergenic
+GCTTGGGCCACTCGCTCGTT	AACGAGCGAGTGGCCCAAGC	1	1	scaffold_1	+	993457	Amb	1	1	0	[('scaffold_1:993457:+', 1)]	{'Null:0:+': 0}	8794	intergenic_promoter	-1	-113	intergenic
+TACTCTCGCGCGTAAGGCTA	TAGCCTTACGCGCGAGAGTA	2	2	scaffold_1	+	994324	Amb	1	2	1	[('scaffold_1:994324:+', 1)]	{'pastEnd:7729:-': 1, 'Null:0:+': 0}	8795	5_prime_UTR	-1	-237	5_prime_UTR
+TTTGATCAAGCCCTGTGGTC	GACCACAGGGCTTGATCAAA	4	4	scaffold_1	+	1131338	Amb	3	4	1	[('scaffold_1:1131338:+', 3)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	8849	intergenic_promoter	-1	-6605	intergenic
+GTCCTTAGATCTTGTTTAA	TTAAACAAGATCTAAGGAC	1	0	scaffold_1	+	1132826	Amb	1	1	0	[('scaffold_1:1132826:+', 1)]	{'Null:0:+': 0}	8849	intergenic_promoter	-1	-8093	intergenic
+CGTGAAAGTGCTTGATGGTT	AACCATCAAGCACTTTCACG	5	5	scaffold_1	+	1132829	Amb	2	5	3	[('scaffold_1:1132829:+', 2)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0, 'pastEnd:1:+': 1}	8849	intergenic_promoter	-1	-8096	intergenic
+AACTCTGATCCGTTATTTCG	CGAAATAACGGATCAGAGTT	12	12	scaffold_1	+	1137961	Amb	2	12	10	[('scaffold_1:1137961:+', 2)]	{'pastEnd:5704:+': 5, 'pastEnd:5715:+': 5, 'Null:0:+': 0}	8850	intergenic_terminator	-1	9036	intergenic
+ACGTGCGGCGTACGAGTAAT	ATTACTCGTACGCCGCACGT	1	1	scaffold_1	+	1139002	Amb	1	1	0	[('scaffold_1:1139002:+', 1)]	{'Null:0:+': 0}	8850	intergenic_terminator	-1	7995	intergenic
+GGGATGTTGCGGGAACATCT	AGATGTTCCCGCAACATCCC	3	3	scaffold_1	+	1140026	Amb	3	3	0	[('scaffold_1:1140026:+', 3)]	{'Null:0:+': 0}	8850	intergenic_terminator	-1	6971	intergenic
+GCCGATGTTATTTAAATGGG	CCCATTTAAATAACATCGGC	1	1	scaffold_1	+	1147285	Amb	1	1	0	[('scaffold_1:1147285:+', 1)]	{'Null:0:+': 0}	8850	5_prime_UTR	-1	-288	5_prime_UTR
+TCGCACTTTTTTAGGTGGGA	TCCCACCTAAAAAAGTGCGA	1	1	scaffold_1	-	1177646	Amb	1	1	0	[('scaffold_1:1177646:-', 1)]	{'Null:0:+': 0}	8864	intergenic_promoter	-1	-25	intergenic
+CCCAGCGTTAGACAATAAGG	CCTTATTGTCTAACGCTGGG	2	2	scaffold_1	+	1177722	Amb	2	2	0	[('scaffold_1:1177722:+', 2)]	{'Null:0:+': 0}	8864	coding_region	5	0	intron
+TTTTTCAAGAGTTCACGACC	GGTCGTGAACTCTTGAAAAA	1	1	scaffold_1	-	1177722	Amb	1	1	0	[('scaffold_1:1177722:-', 1)]	{'Null:0:+': 0}	8864	coding_region	5	0	intron
+ATTTTGTTGTAGAGGGAATC	GATTCCCTCTACAACAAAAT	12	12	scaffold_1	-	1179594	Amb	3	12	9	[('scaffold_1:1179594:-', 3)]	{'pastEnd:5704:+': 7, 'Null:0:+': 0, 'pastEnd:1:+': 2}	8865	coding_region	8	0	exon
+TCTTTTTTTGAGTTTCCTGT	ACAGGAAACTCAAAAAAAGA	2	2	scaffold_1	+	1180343	Amb	2	2	0	[('scaffold_1:1180343:+', 2)]	{'Null:0:+': 0}	8865	intergenic_promoter	-1	-669	intergenic
+GTGAGCTTATGGGTGTATCA	TGATACACCCATAAGCTCAC	1	1	scaffold_1	-	1180628	Amb	1	1	0	[('scaffold_1:1180628:-', 1)]	{'Null:0:+': 0}	8866	intergenic_terminator	-1	2467	intergenic
+CACTGTTAGTACTTGATATT	AATATCAAGTACTAACAGTG	2	2	scaffold_1	+	1180629	Amb	2	2	0	[('scaffold_1:1180629:+', 2)]	{'Null:0:+': 0}	8866	intergenic_terminator	-1	2466	intergenic
+TGGGACGGGCTTTTCTGGTG	CACCAGAAAAGCCCGTCCCA	7	7	scaffold_1	+	1183077	Amb	1	7	6	[('scaffold_1:1183077:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0, 'pastEnd:1:+': 4}	8866	coding_region	1	0	exon
+ATGAGAGCGCTCTGCCGAGT	ACTCGGCAGAGCGCTCTCAT	7	7	scaffold_1	+	1184648	Amb	2	7	5	[('scaffold_1:1184648:+', 2)]	{'pastEnd:5704:+': 3, 'pastEnd:5712:+': 2, 'Null:0:+': 0}	8867	intergenic_terminator	-1	3983	intergenic
+AAAAGACGTTTTAGTTTAGA	TCTAAACTAAAACGTCTTTT	1	1	scaffold_1	+	1184699	Amb	1	1	0	[('scaffold_1:1184699:+', 1)]	{'Null:0:+': 0}	8867	intergenic_terminator	-1	3932	intergenic
+TCTTTAGAGATTGTAGCTTG	CAAGCTACAATCTCTAAAGA	9	9	scaffold_1	-	1184820	Amb	3	9	6	[('scaffold_1:1184820:-', 3)]	{'pastEnd:5704:+': 3, 'pastEnd:7716:-': 3, 'Null:0:+': 0}	8867	intergenic_terminator	-1	3811	intergenic
+ATTAGGCGGGATCGCGGTTA	TAACCGCGATCCCGCCTAAT	2	2	scaffold_1	-	1185148	Amb	1	2	1	[('scaffold_1:1185148:-', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	8867	intergenic_terminator	-1	3483	intergenic
+GGAAATCCCCGCGTACTTTT	AAAAGTACGCGGGGATTTCC	3	3	scaffold_1	+	1754000	Amb	3	3	0	[('scaffold_1:1754000:+', 3)]	{'Null:0:+': 0}	9103	coding_region	3	0	intron
+CTTATTTTTGTCTCAACAAT	ATTGTTGAGACAAAAATAAG	1	0	scaffold_1	-	1925409	Amb	1	1	0	[('scaffold_1:1925409:-', 1)]	{'Null:0:+': 0}	9178	intergenic_promoter	-1	-87	intergenic
+CTCCACTCTGGTTCTCTGTC	GACAGAGAACCAGAGTGGAG	3	3	scaffold_1	-	1927004	Amb	2	3	1	[('scaffold_1:1927004:-', 1), ('scaffold_1:1925260:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	9178	intergenic_terminator	-1	1508	intergenic
+GTCATACCGCTTAATGGGTG	CACCCATTAAGCGGTATGAC	1	1	scaffold_1	+	1937314	Amb	1	1	0	[('scaffold_1:1937314:+', 1)]	{'Null:0:+': 0}	9182	intergenic_terminator	-1	4425	intergenic
+CGGTGCAAGCAGTGACCGTT	AACGGTCACTGCTTGCACCG	1	1	scaffold_10	+	105869	Amb	1	1	0	[('scaffold_10:105869:+', 1)]	{'Null:0:+': 0}	9339	coding_region	50	0	exon
+CGTATGGTCAGCGTCCAGTA	TACTGGACGCTGACCATACG	1	1	scaffold_10	+	149696	Amb	1	1	0	[('scaffold_10:149696:+', 1)]	{'Null:0:+': 0}	9360	coding_region	76	0	exon
+TCCAACCCGGGCAAATGCTC	GAGCATTTGCCCGGGTTGGA	7	5	scaffold_10	-	249134	Amb	2	7	5	[('scaffold_10:249134:-', 2)]	{'pastEnd:5704:+': 5, 'Null:0:+': 0}	9401	coding_region	93	0	exon
+CTGTCGATAGTTAGTATGGC	GCCATACTAACTATCGACAG	2	2	scaffold_10	+	485157	Amb	2	2	0	[('scaffold_10:485157:+', 2)]	{'Null:0:+': 0}	9501	coding_region	1	0	exon
+CAGTCGTAAGGTGTGGTGTC	GACACCACACCTTACGACTG	3	3	scaffold_10	+	499347	Amb	2	3	1	[('scaffold_10:499347:+', 2)]	{'Null:0:+': 0, 'pastEnd:1:+': 1}	9507	5_prime_UTR	-1	-108	5_prime_UTR
+TTAACTCTTTCACGATATCT	AGATATCGTGAAAGAGTTAA	1	1	scaffold_10	+	640104	Amb	1	1	0	[('scaffold_10:640104:+', 1)]	{'Null:0:+': 0}	9570	5_prime_UTR	-1	-50	5_prime_UTR
+TGAGACGATCATTGGTTTTA	TAAAACCAATGATCGTCTCA	1	1	scaffold_10	+	640200	Amb	1	1	0	[('scaffold_10:640200:+', 1)]	{'Null:0:+': 0}	9570	coding_region	5	0	intron
+TTGGTAGAGGTCAGGGGACG	CGTCCCCTGACCTCTACCAA	8	8	scaffold_10	+	644697	Amb	1	8	7	[('scaffold_10:644697:+', 1)]	{'pastEnd:5704:+': 2, 'pastEnd:5710:+': 3, 'Null:0:+': 0, 'pastEnd:7751:-': 2}	9572	coding_region	77	0	exon
+GTGGGAGGATGAGTCGACAT	ATGTCGACTCATCCTCCCAC	2	1	scaffold_10	+	645325	Amb	1	2	1	[('scaffold_10:645325:+', 1)]	{'pastEnd:5706:+': 1, 'Null:0:+': 0}	9572	coding_region	1	0	exon
+TTTTCGGGTATCCCTTATAA	TTATAAGGGATACCCGAAAA	1	1	scaffold_10	+	645434	Amb	1	1	0	[('scaffold_10:645434:+', 1)]	{'Null:0:+': 0}	9572	5_prime_UTR	-1	-98	5_prime_UTR
+CATTCCTAGGCGGAAGTGAA	TTCACTTCCGCCTAGGAATG	1	1	scaffold_10	-	645639	Amb	1	1	0	[('scaffold_10:645639:-', 1)]	{'Null:0:+': 0}	9573	intergenic_terminator	-1	860	intergenic
+TGCACATCCGTCCTGAGGTT	AACCTCAGGACGGATGTGCA	1	0	scaffold_10	+	878659	Amb	1	1	0	[('scaffold_10:878659:+', 1)]	{'Null:0:+': 0}	9673	intergenic_terminator	-1	2124	intergenic
+GGCCCTCATCACGGGTGTC	GACACCCGTGATGAGGGCC	1	1	scaffold_10	+	878770	Amb	1	1	0	[('scaffold_10:878770:+', 1)]	{'Null:0:+': 0}	9673	intergenic_terminator	-1	2013	intergenic
+ACCGTTTTGGCTGCTGGAAC	GTTCCAGCAGCCAAAACGGT	5	5	scaffold_10	+	888215	Amb	1	5	4	[('scaffold_10:888215:+', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 4}	9675	intergenic_terminator	-1	849	intergenic
+CAGGTTTTTGTGCAAGGCT	AGCCTTGCACAAAAACCTG	1	1	scaffold_11	-	84908	Amb	1	1	0	[('scaffold_11:84908:-', 1)]	{'Null:0:+': 0}	9726	intergenic_promoter	-1	-147	intergenic
+GCGGTCTTCAAGGGTGGAG	CTCCACCCTTGAAGACCGC	2	2	scaffold_11	-	159533	Amb	2	2	0	[('scaffold_11:159533:-', 2)]	{'Null:0:+': 0}	9758	coding_region	89	0	exon
+GTCCTGTTTAGCGGCTCTGT	ACAGAGCCGCTAAACAGGAC	8	8	scaffold_11	+	265570	Amb	3	8	5	[('scaffold_11:265570:+', 3)]	{'pastEnd:7336:-': 4, 'Null:0:+': 0, 'pastEnd:5714:+': 1}	9798	coding_region	16	0	exon
+CGGACCTAGATTTAAGGTGT	ACACCTTAAATCTAGGTCCG	5	5	scaffold_11	+	383655	Amb	3	5	0	[('scaffold_11:383655:+', 3), ('scaffold_2:209214:-', 2)]	{'Null:0:+': 0}	9840	coding_region	20	0	exon
+CAACTTCATGAATGGGACGC	GCGTCCCATTCATGAAGTTG	1	1	scaffold_11	+	404438	Amb	1	1	0	[('scaffold_11:404438:+', 1)]	{'Null:0:+': 0}	9849	coding_region	75	0	intron
+TTACACTTTGTTGGGTAATA	TATTACCCAACAAAGTGTAA	4	4	scaffold_11	+	691920	Amb	1	4	3	[('scaffold_11:691920:+', 1)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0}	9967	5_prime_UTR	-1	-101	5_prime_UTR
+ACGAGGGCGAGGGAAGGCTC	GAGCCTTCCCTCGCCCTCGT	1	1	scaffold_11	+	839379	Amb	1	1	0	[('scaffold_11:839379:+', 1)]	{'Null:0:+': 0}	10032	coding_region	98	0	exon
+GTTTTGAATGTGCGCTTT	AAAGCGCACATTCAAAAC	3	2	scaffold_11	-	859460	Amb	2	3	0	[('scaffold_11:859460:-', 2), ('scaffold_11:554230:+', 1)]	{'Null:0:+': 0}	10041	intergenic_terminator	-1	1336	intergenic
+GATGATTGCACATTGTTCTT	AAGAACAATGTGCAATCATC	3	3	scaffold_11	+	859489	Amb	1	3	2	[('scaffold_11:859489:+', 1)]	{'pastEnd:7753:-': 1, 'Null:0:+': 0, 'pastEnd:5704:-': 1}	10042	intergenic_promoter	-1	-712	intergenic
+TTGTGTGATTCACCGGGTAT	ATACCCGGTGAATCACACAA	2	2	scaffold_11	-	859509	Amb	1	2	0	[('scaffold_11:859509:-', 1), ('scaffold_11:839358:+', 1)]	{'Null:0:+': 0}	10042	intergenic_promoter	-1	-692	intergenic
+GGTTGCTATGGTATGTTTTT	AAAAACATACCATAGCAACC	1	0	scaffold_12	-	52	Amb	1	1	0	[('scaffold_12:52:-', 1)]	{'Null:0:+': 0}	10074	intergenic_terminator	-1	1139	intergenic
+TGCCTAGATGACCATACATC	GATGTATGGTCATCTAGGCA	1	1	scaffold_12	+	786808	Amb	1	1	0	[('scaffold_12:786808:+', 1)]	{'Null:0:+': 0}	10398	coding_region	64	0	exon
+ATGGGTTATAAACCTTGATC	GATCAAGGTTTATAACCCAT	1	1	scaffold_13	-	10366	Amb	1	1	0	[('scaffold_13:10366:-', 1)]	{'Null:0:+': 0}	10442	coding_region	24	0	exon
+GTAACCTGTACACTATCCCG	CGGGATAGTGTACAGGTTAC	2	1	scaffold_13	-	279853	Amb	1	2	1	[('scaffold_13:279853:-', 1)]	{'Null:0:+': 0, 'pastEnd:143:-': 1}	10549	coding_region	50	0	exon
+TTGGGAACGGTCCAGCAGTG	CACTGCTGGACCGTTCCCAA	8	6	scaffold_13	+	521574	Amb	2	8	6	[('scaffold_13:521574:+', 2)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0, 'pastEnd:5703:-': 3}	10649	3_prime_UTR	-1	2491	3_prime_UTR
+AATAACTCGGCTGCATGCCA	TGGCATGCAGCCGAGTTATT	2	2	scaffold_13	+	711546	Amb	2	2	0	[('scaffold_13:711546:+', 2)]	{'Null:0:+': 0}	10731	intergenic_terminator	-1	1587	intergenic
+CTAAACGTTTTTGGACATT	AATGTCCAAAAACGTTTAG	5	5	scaffold_14	+	180948	Amb	1	5	4	[('scaffold_14:180948:+', 1)]	{'pastEnd:5704:+': 2, 'pastEnd:5786:+': 1, 'Null:0:+': 0, 'pastEnd:5724:+': 1}	10825	intergenic_terminator	-1	3215	intergenic
+ACTCACGATGTATACCGATC	GATCGGTATACATCGTGAGT	2	2	scaffold_14	-	403360	Amb	1	2	1	[('scaffold_14:403360:-', 1)]	{'pastEnd:5735:+': 1, 'Null:0:+': 0}	10911	intergenic_promoter	-1	-79	intergenic
+CGCCTAGCTAAGATGGATTA	TAATCCATCTTAGCTAGGCG	6	6	scaffold_14	-	448143	Amb	3	6	2	[('scaffold_14:448143:-', 3), ('scaffold_14:448136:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	10929	coding_region	29	0	intron
+ACCCAGTTAGCTGTTTCTCT	AGAGAAACAGCTAACTGGGT	2	2	scaffold_14	-	505171	Amb	2	2	0	[('scaffold_14:505171:-', 2)]	{'Null:0:+': 0}	10954	intergenic_terminator	-1	1400	intergenic
+CGATTGTCTCTGTCTTGG	CCAAGACAGAGACAATCG	3	3	scaffold_14	+	520152	Amb	3	3	0	[('scaffold_14:520152:+', 3)]	{'Null:0:+': 0}	10954	intergenic_terminator	-1	16381	intergenic
+TTGCGTTACGGGTTAGGCAG	CTGCCTAACCCGTAACGCAA	4	4	scaffold_14	-	520473	Amb	2	4	2	[('scaffold_14:520473:-', 2)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	10954	intergenic_terminator	-1	16702	intergenic
+GTGGTGTTGAACGAAACGGG	CCCGTTTCGTTCAACACCAC	4	4	scaffold_14	+	521912	Amb	4	4	0	[('scaffold_14:521912:+', 4)]	{'Null:0:+': 0}	10954	intergenic_terminator	-1	18141	intergenic
+TCGTTTTCACCTCTCGGCGT	ACGCCGAGAGGTGAAAACGA	1	1	scaffold_14	+	522968	Amb	1	1	0	[('scaffold_14:522968:+', 1)]	{'Null:0:+': 0}	10954	intergenic_terminator	-1	19197	intergenic
+ATAGCTGCATCTTTAACACG	CGTGTTAAAGATGCAGCTAT	2	2	scaffold_14	+	524605	Amb	1	2	1	[('scaffold_14:524605:+', 1)]	{'pastEnd:5709:+': 1, 'Null:0:+': 0}	10955	intergenic_terminator	-1	20312	intergenic
+ATATTCGAAAGCCGGGGAAT	ATTCCCCGGCTTTCGAATAT	4	4	scaffold_14	+	524639	Amb	1	4	3	[('scaffold_14:524639:+', 1)]	{'pastEnd:5704:+': 1, 'pastEnd:5735:+': 2, 'Null:0:+': 0}	10955	intergenic_terminator	-1	20278	intergenic
+TCAAGGGGCCTGCCGGCGCG	CGCGCCGGCAGGCCCCTTGA	1	1	scaffold_14	+	524645	Amb	1	1	0	[('scaffold_14:524645:+', 1)]	{'Null:0:+': 0}	10955	intergenic_terminator	-1	20272	intergenic
+CATCTCGTGTGTGCTCTAAC	GTTAGAGCACACACGAGATG	1	1	scaffold_14	+	524678	Amb	1	1	0	[('scaffold_14:524678:+', 1)]	{'Null:0:+': 0}	10955	intergenic_terminator	-1	20239	intergenic
+AGATAGCGATACAGTCTGCT	AGCAGACTGTATCGCTATCT	1	1	scaffold_14	+	524679	Amb	1	1	0	[('scaffold_14:524679:+', 1)]	{'Null:0:+': 0}	10955	intergenic_terminator	-1	20238	intergenic
+ATTTACTTGTTTGTAGCAGG	CCTGCTACAAACAAGTAAAT	3	3	scaffold_14	+	524764	Amb	1	3	2	[('scaffold_14:524764:+', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 1, 'pastEnd:5704:-': 1}	10955	intergenic_terminator	-1	20153	intergenic
+AACACTCGCGTGATCGATTG	CAATCGATCACGCGAGTGTT	1	1	scaffold_14	-	533727	Amb	1	1	0	[('scaffold_14:533727:-', 1)]	{'Null:0:+': 0}	10955	intergenic_terminator	-1	11190	intergenic
+AGGGTACTCCTAGGACACCA	TGGTGTCCTAGGAGTACCCT	1	1	scaffold_14	-	535611	Amb	1	1	0	[('scaffold_14:535611:-', 1)]	{'Null:0:+': 0}	10955	intergenic_terminator	-1	9306	intergenic
+TTAAAGCTGGGAATCTATTG	CAATAGATTCCCAGCTTTAA	1	1	scaffold_14	-	535674	Amb	1	1	0	[('scaffold_14:535674:-', 1)]	{'Null:0:+': 0}	10955	intergenic_terminator	-1	9243	intergenic
+GGTCCGGGTTTTGTTCTAGT	ACTAGAACAAAACCCGGACC	6	6	scaffold_14	-	535831	Amb	2	6	4	[('scaffold_14:535831:-', 2)]	{'Null:0:+': 0, 'pastEnd:1:+': 4}	10955	intergenic_terminator	-1	9086	intergenic
+AAAGCGGTATCACGGTTTAA	TTAAACCGTGATACCGCTTT	1	1	scaffold_14	-	535838	Amb	1	1	0	[('scaffold_14:535838:-', 1)]	{'Null:0:+': 0}	10955	intergenic_terminator	-1	9079	intergenic
+GATGTGGCATTAAGATTTTC	GAAAATCTTAATGCCACATC	3	3	scaffold_14	-	536030	Amb	3	3	0	[('scaffold_14:536030:-', 3)]	{'Null:0:+': 0}	10955	intergenic_terminator	-1	8887	intergenic
+TGGTTCTGCTTCATATTACT	AGTAATATGAAGCAGAACCA	3	3	scaffold_14	+	536040	Amb	1	3	2	[('scaffold_14:536040:+', 1)]	{'pastEnd:5703:+': 1, 'Null:0:+': 0, 'pastEnd:5720:+': 1}	10955	intergenic_terminator	-1	8877	intergenic
+ACTACTCGGGTCCGCGGTG	CACCGCGGACCCGAGTAGT	2	2	scaffold_14	-	536162	Amb	2	2	0	[('scaffold_14:536162:-', 2)]	{'Null:0:+': 0}	10955	intergenic_terminator	-1	8755	intergenic
+TTGATATGTCGACATTAACT	AGTTAATGTCGACATATCAA	2	2	scaffold_14	-	536168	Amb	1	2	1	[('scaffold_14:536168:-', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	10955	intergenic_terminator	-1	8749	intergenic
+ACGTATACGCGAGTTACCAG	CTGGTAACTCGCGTATACGT	1	1	scaffold_14	-	536194	Amb	1	1	0	[('scaffold_14:536194:-', 1)]	{'Null:0:+': 0}	10955	intergenic_terminator	-1	8723	intergenic
+TTTATCTAGACCCTGTCGTT	AACGACAGGGTCTAGATAAA	2	2	scaffold_14	+	536366	Amb	2	2	0	[('scaffold_14:536366:+', 2)]	{'Null:0:+': 0}	10955	intergenic_terminator	-1	8551	intergenic
+GATAAGCTATATCCAGTATT	AATACTGGATATAGCTTATC	1	1	scaffold_14	-	536373	Amb	1	1	0	[('scaffold_14:536373:-', 1)]	{'Null:0:+': 0}	10955	intergenic_terminator	-1	8544	intergenic
+TGTACGGAACCCGCTCCATC	GATGGAGCGGGTTCCGTACA	2	2	scaffold_14	-	536472	Amb	1	2	1	[('scaffold_14:536472:-', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	10955	intergenic_terminator	-1	8445	intergenic
+TTTTCCTTAGCTTTATGGGA	TCCCATAAAGCTAAGGAAAA	1	1	scaffold_14	-	536683	Amb	1	1	0	[('scaffold_14:536683:-', 1)]	{'Null:0:+': 0}	10955	intergenic_terminator	-1	8234	intergenic
+CTCATCATTGCATCCTGTCA	TGACAGGATGCAATGATGAG	2	2	scaffold_14	+	536755	Amb	1	2	1	[('scaffold_14:536755:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	10955	intergenic_terminator	-1	8162	intergenic
+GTTTTAAGGGGAAACCACGT	ACGTGGTTTCCCCTTAAAAC	1	1	scaffold_14	-	537128	Amb	1	1	0	[('scaffold_14:537128:-', 1)]	{'Null:0:+': 0}	10955	intergenic_terminator	-1	7789	intergenic
+TTATGATATGCATCACCGGG	CCCGGTGATGCATATCATAA	4	4	scaffold_14	-	537217	Amb	2	4	2	[('scaffold_14:537217:-', 2)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0, 'pastEnd:1:+': 1}	10955	intergenic_terminator	-1	7700	intergenic
+GTTACCTTGCCTGTCTTCTC	GAGAAGACAGGCAAGGTAAC	2	2	scaffold_14	-	537233	Amb	1	2	1	[('scaffold_14:537233:-', 1)]	{'pastEnd:5710:+': 1, 'Null:0:+': 0}	10955	intergenic_terminator	-1	7684	intergenic
+GCCAAATGGCGGAGATTTCA	TGAAATCTCCGCCATTTGGC	6	6	scaffold_14	-	537257	Amb	4	6	0	[('scaffold_14:537257:-', 4), ('scaffold_7:1342417:-', 2)]	{'Null:0:+': 0}	10955	intergenic_terminator	-1	7660	intergenic
+GTCACCGCTGATCGGGGGTC	GACCCCCGATCAGCGGTGAC	5	5	scaffold_14	+	537275	Amb	5	5	0	[('scaffold_14:537275:+', 5)]	{'Null:0:+': 0}	10955	intergenic_terminator	-1	7642	intergenic
+GTCGGGTGTCTAAGTGAAAG	CTTTCACTTAGACACCCGAC	1	1	scaffold_14	+	591735	Amb	1	1	0	[('scaffold_14:591735:+', 1)]	{'Null:0:+': 0}	10979	3_prime_UTR	-1	438	3_prime_UTR
+CGTATGCCCAGAAGCCGTGC	GCACGGCTTCTGGGCATACG	1	1	scaffold_14	+	638427	Amb	1	1	0	[('scaffold_14:638427:+', 1)]	{'Null:0:+': 0}	11000	coding_region	99	0	exon
+CATGAAGGCGAGCTTCCCAC	GTGGGAAGCTCGCCTTCATG	7	7	scaffold_14	-	665327	Amb	1	7	6	[('scaffold_14:665327:-', 1)]	{'pastEnd:5704:+': 6, 'Null:0:+': 0}	11012	coding_region	9	0	exon
+TTCTTGCGCGCTACAATGCT	AGCATTGTAGCGCGCAAGAA	7	4	scaffold_14	+	779161	Amb	4	7	3	[('scaffold_14:779161:+', 3), ('scaffold_4:641436:+', 1)]	{'pastEnd:6198:+': 2, 'pastEnd:5704:+': 1, 'Null:0:+': 0}	11053	intergenic_promoter	-1	-87	intergenic
+AGATTCTCATCGGTTTCTTA	TAAGAAACCGATGAGAATCT	5	5	scaffold_14	+	779161	Amb	1	5	4	[('scaffold_14:779161:+', 1)]	{'pastEnd:5704:+': 1, 'pastEnd:5756:+': 2, 'Null:0:+': 0, 'pastEnd:1:+': 1}	11053	intergenic_promoter	-1	-87	intergenic
+GCACATAACATCTGTCGACC	GGTCGACAGATGTTATGTGC	1	0	scaffold_14	+	779162	Amb	1	1	0	[('scaffold_14:779162:+', 1)]	{'Null:0:+': 0}	11053	intergenic_promoter	-1	-88	intergenic
+TGGATAGGGAGTAAATCGTC	GACGATTTACTCCCTATCCA	2	1	scaffold_14	+	779162	Amb	1	2	1	[('scaffold_14:779162:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	11053	intergenic_promoter	-1	-88	intergenic
+AGGCTCTCTAAGTCGTTAGG	CCTAACGACTTAGAGAGCCT	3	3	scaffold_15	+	285012	Amb	3	3	0	[('scaffold_15:285012:+', 3)]	{'Null:0:+': 0}	11181	coding_region	13	0	exon
+CCTCCAATCTGGTAGTTATT	AATAACTACCAGATTGGAGG	2	2	scaffold_15	+	285155	Amb	2	2	0	[('scaffold_15:285155:+', 2)]	{'Null:0:+': 0}	11181	coding_region	2	0	exon
+GCTTACCAACATCCTCACTA	TAGTGAGGATGTTGGTAAGC	3	3	scaffold_15	+	286781	Amb	1	3	2	[('scaffold_15:286781:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	11183	5_prime_UTR	-1	-100	5_prime_UTR
+TGGAAATCGTACATTTTTC	GAAAAATGTACGATTTCCA	5	5	scaffold_15	+	300084	Amb	2	5	3	[('scaffold_15:300084:+', 2)]	{'Null:0:+': 0, 'pastEnd:1:+': 3}	11189	intergenic_terminator	-1	1301	intergenic
+TGGCAAACATTACGCTGTTT	AAACAGCGTAATGTTTGCCA	1	1	scaffold_15	+	302342	Amb	1	1	0	[('scaffold_15:302342:+', 1)]	{'Null:0:+': 0}	11190	coding_region	48	0	exon
+TGCTAGTTTGCCGACTACAC	GTGTAGTCGGCAAACTAGCA	2	2	scaffold_15	+	525820	Amb	1	2	1	[('scaffold_15:525820:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	11281	intergenic_promoter	-1	-479	intergenic
+TTTCTGGATACGTTGCCTT	AAGGCAACGTATCCAGAAA	1	1	scaffold_15	+	528539	Amb	1	1	0	[('scaffold_15:528539:+', 1)]	{'Null:0:+': 0}	11282	intergenic_terminator	-1	2243	intergenic
+CGTATATGGCCTAGGTTCTG	CAGAACCTAGGCCATATACG	2	2	scaffold_15	+	538817	Amb	2	2	0	[('scaffold_15:538817:+', 2)]	{'Null:0:+': 0}	11284	intergenic_terminator	-1	3280	intergenic
+CTCGATCACATCCGGGTGGT	ACCACCCGGATGTGATCGAG	1	1	scaffold_15	+	550055	Amb	1	1	0	[('scaffold_15:550055:+', 1)]	{'Null:0:+': 0}	11285	intergenic_promoter	-1	-2502	intergenic
+GACAGCTGCCGGCATTAACT	AGTTAATGCCGGCAGCTGTC	2	0	scaffold_15	+	553057	Amb	2	2	0	[('scaffold_15:553057:+', 2)]	{'Null:0:+': 0}	11286	intergenic_terminator	-1	2050	intergenic
+CCTTAGAATAATGGTGAGAC	GTCTCACCATTATTCTAAGG	2	2	scaffold_16	-	81425	Amb	2	2	0	[('scaffold_16:81425:-', 2)]	{'Null:0:+': 0}	11384	5_prime_UTR	-1	-49	5_prime_UTR
+CACCCCCTATTGCCGGGATC	GATCCCGGCAATAGGGGGTG	1	1	scaffold_16	-	81858	Amb	1	1	0	[('scaffold_16:81858:-', 1)]	{'Null:0:+': 0}	11384	intergenic_promoter	-1	-482	intergenic
+TCTTATGGTATGCGATAGCA	TGCTATCGCATACCATAAGA	6	6	scaffold_16	+	82444	Amb	3	6	3	[('scaffold_16:82444:+', 3)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0}	11385	intergenic_terminator	-1	782	intergenic
+TACGCTACTGTGAACATGAA	TTCATGTTCACAGTAGCGTA	4	4	scaffold_16	+	90334	Amb	4	4	0	[('scaffold_16:90334:+', 4)]	{'Null:0:+': 0}	11386	intergenic_promoter	-1	-5497	intergenic
+TCCGATTAGGTGAGGAGCCA	TGGCTCCTCACCTAATCGGA	2	2	scaffold_16	+	114184	Amb	2	2	0	[('scaffold_16:114184:+', 2)]	{'Null:0:+': 0}	11388	intergenic_terminator	-1	834	intergenic
+TTGCAGCCATATCAGGATAT	ATATCCTGATATGGCTGCAA	5	5	scaffold_16	+	114405	Amb	3	5	2	[('scaffold_16:114405:+', 3)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	11388	3_prime_UTR	-1	613	3_prime_UTR
+CGTGTAGGGAGGATTCTGAT	ATCAGAATCCTCCCTACACG	1	1	scaffold_16	+	114549	Amb	1	1	0	[('scaffold_16:114549:+', 1)]	{'Null:0:+': 0}	11388	3_prime_UTR	-1	469	3_prime_UTR
+CCGGGCGGGATTCGATTTAC	GTAAATCGAATCCCGCCCGG	1	1	scaffold_16	-	114961	Amb	1	1	0	[('scaffold_16:114961:-', 1)]	{'Null:0:+': 0}	11388	coding_region	17	0	exon
+ATCGTGGAGATTCTATAATT	AATTATAGAATCTCCACGAT	2	2	scaffold_16	-	248399	Amb	1	2	1	[('scaffold_16:248399:-', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	11440	coding_region	18	0	exon
+ATTGCAATGCAGCTGGCACT	AGTGCCAGCTGCATTGCAAT	1	1	scaffold_16	+	318937	Amb	1	1	0	[('scaffold_16:318937:+', 1)]	{'Null:0:+': 0}	11468	3_prime_UTR	-1	638	3_prime_UTR
+ATCAGACTAATTGGTAGAAT	ATTCTACCAATTAGTCTGAT	26	21	scaffold_16	+	465437	Amb	5	26	21	[('scaffold_16:465437:+', 5)]	{'pastEnd:5704:+': 21, 'Null:0:+': 0}	11531	intergenic_promoter	-1	-775	intergenic
+TGGCACCATTCTGTACACGC	GCGTGTACAGAATGGTGCCA	2	2	scaffold_16	-	465821	Amb	1	2	1	[('scaffold_16:465821:-', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	11532	intergenic_promoter	-1	-477	intergenic
+CACGTATGGGCGTTTGGCTA	TAGCCAAACGCCCATACGTG	10	10	scaffold_16	-	469108	Amb	4	10	6	[('scaffold_16:469108:-', 4)]	{'Null:0:+': 0, 'pastEnd:5716:+': 3, 'pastEnd:5703:-': 3}	11534	coding_region	9	0	intron
+CATAATTAATTTAGCTCAAT	ATTGAGCTAAATTAATTATG	1	1	scaffold_16	-	469252	Amb	1	1	0	[('scaffold_16:469252:-', 1)]	{'Null:0:+': 0}	11534	coding_region	12	0	intron
+CTTTGTGTCTGGTTTACGTG	CACGTAAACCAGACACAAAG	1	1	scaffold_16	+	470546	Amb	1	1	0	[('scaffold_16:470546:+', 1)]	{'Null:0:+': 0}	11534	coding_region	42	0	exon
+TTTATTTTCTTTTTTCGTGG	CCACGAAAAAAGAAAATAAA	1	1	scaffold_16	+	474087	Amb	1	1	0	[('scaffold_16:474087:+', 1)]	{'Null:0:+': 0}	11535	coding_region	19	0	exon
+TCAGGAATGTTTGTTCTGCC	GGCAGAACAAACATTCCTGA	1	1	scaffold_16	+	474095	Amb	1	1	0	[('scaffold_16:474095:+', 1)]	{'Null:0:+': 0}	11535	coding_region	19	0	exon
+CACTGCTCAGCGCAGCTTTG	CAAAGCTGCGCTGAGCAGTG	2	2	scaffold_16	-	474971	Amb	1	2	1	[('scaffold_16:474971:-', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	11535	coding_region	60	0	exon
+TAATTCTTGAGTGTGTGACA	TGTCACACACTCAAGAATTA	5	5	scaffold_16	+	475969	Amb	1	5	4	[('scaffold_16:475969:+', 1)]	{'pastEnd:5704:+': 4, 'Null:0:+': 0}	11535	3_prime_UTR	-1	2301	3_prime_UTR
+TTTCCAGTTGTTCAACCTTG	CAAGGTTGAACAACTGGAAA	4	3	scaffold_17	-	29	Amb	1	4	3	[('scaffold_17:29:-', 1)]	{'pastEnd:5726:+': 1, 'Null:0:+': 0, 'pastEnd:1:+': 2}	11537	intergenic_promoter	-1	-500	intergenic
+TCTATGACCCATCGGTATTC	GAATACCGATGGGTCATAGA	2	2	scaffold_17	+	317588	Amb	2	2	0	[('scaffold_17:317588:+', 2)]	{'Null:0:+': 0}	11661	intergenic_promoter	-1	-615	intergenic
+CGAGGGCTCACCTGCTAACA	TGTTAGCAGGTGAGCCCTCG	1	1	scaffold_17	-	432726	Amb	1	1	0	[('scaffold_17:432726:-', 1)]	{'Null:0:+': 0}	11710	intergenic_terminator	-1	2420	intergenic
+GGTCTTGTCGAGCGATTCAG	CTGAATCGCTCGACAAGACC	3	3	scaffold_17	+	491032	Amb	3	3	0	[('scaffold_17:491032:+', 3)]	{'Null:0:+': 0}	11726	5_prime_UTR	-1	-215	5_prime_UTR
+GGCAGTGTGCGCATAGTGTG	CACACTATGCGCACACTGCC	2	2	scaffold_17	+	506237	Amb	2	2	0	[('scaffold_17:506237:+', 2)]	{'Null:0:+': 0}	11735	5_prime_UTR	-1	-209	5_prime_UTR
+ATCGTACGGACGTGCTTTT	AAAAGCACGTCCGTACGAT	2	2	scaffold_17	+	506252	Amb	2	2	0	[('scaffold_17:506252:+', 2)]	{'Null:0:+': 0}	11735	5_prime_UTR	-1	-194	5_prime_UTR
+CCAGCAGGCGCGCGCCCGCG	CGCGGGCGCGCGCCTGCTGG	2	2	scaffold_18	+	33	Amb	1	2	1	[('scaffold_18:33:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	11769	intergenic_terminator	-1	1015	intergenic
+AGGGTTTAGCTGTTCGTAGA	TCTACGAACAGCTAAACCCT	1	1	scaffold_18	+	34	Amb	1	1	0	[('scaffold_18:34:+', 1)]	{'Null:0:+': 0}	11769	intergenic_terminator	-1	1014	intergenic
+TTGGAATCTATTTGGTTATC	GATAACCAAATAGATTCCAA	1	1	scaffold_18	+	102	Amb	1	1	0	[('scaffold_18:102:+', 1)]	{'Null:0:+': 0}	11769	intergenic_terminator	-1	946	intergenic
+TCGGATTGAATCTCGATTT	AAATCGAGATTCAATCCGA	1	1	scaffold_18	-	116	Amb	1	1	0	[('scaffold_18:116:-', 1)]	{'Null:0:+': 0}	11769	intergenic_terminator	-1	932	intergenic
+TGGTCTAATGGTGTGTGTAT	ATACACACACCATTAGACCA	1	1	scaffold_18	-	154	Amb	1	1	0	[('scaffold_18:154:-', 1)]	{'Null:0:+': 0}	11769	intergenic_terminator	-1	894	intergenic
+CGCAGGATGGGGAGTTCCAG	CTGGAACTCCCCATCCTGCG	3	3	scaffold_18	+	187	Amb	3	3	0	[('scaffold_18:187:+', 3)]	{'Null:0:+': 0}	11769	3_prime_UTR	-1	861	3_prime_UTR
+AGCTCGGCACCTATAAATAA	TTATTTATAGGTGCCGAGCT	3	3	scaffold_18	+	204	Amb	1	3	2	[('scaffold_18:204:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0, 'pastEnd:5711:+': 1}	11769	3_prime_UTR	-1	844	3_prime_UTR
+TCATGTTTATGGTCCGGTT	AACCGGACCATAAACATGA	5	5	scaffold_18	-	207	Amb	2	5	3	[('scaffold_18:207:-', 2)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0}	11769	3_prime_UTR	-1	841	3_prime_UTR
+ATGTAATTTATACATACGAA	TTCGTATGTATAAATTACAT	1	1	scaffold_18	+	257	Amb	1	1	0	[('scaffold_18:257:+', 1)]	{'Null:0:+': 0}	11769	coding_region	94	0	exon
+CGCACTCCTTATTTTCCTAG	CTAGGAAAATAAGGAGTGCG	1	1	scaffold_18	-	488	Amb	1	1	0	[('scaffold_18:488:-', 1)]	{'Null:0:+': 0}	11769	coding_region	67	0	exon
+AGTTTCATCCTTAATGATGA	TCATCATTAAGGATGAAACT	5	5	scaffold_18	-	949	Amb	1	5	4	[('scaffold_18:949:-', 1)]	{'Null:0:+': 0, 'pastEnd:2054:+': 3, 'pastEnd:1:+': 1}	11769	coding_region	11	0	intron
+AGTTGGATCGTCGATGAGGG	CCCTCATCGACGATCCAACT	2	2	scaffold_18	+	1047	Amb	2	2	0	[('scaffold_18:1047:+', 2)]	{'Null:0:+': 0}	11769	coding_region	0	0	exon
+GCTATGTTATGGGAAGATC	GATCTTCCCATAACATAGC	1	1	scaffold_18	-	1679	Amb	1	1	0	[('scaffold_18:1679:-', 1)]	{'Null:0:+': 0}	11770	coding_region	81	0	intron
+GCCGCGCAAGTTTGAATGGC	GCCATTCAAACTTGCGCGGC	1	1	scaffold_18	-	4016	Amb	1	1	0	[('scaffold_18:4016:-', 1)]	{'Null:0:+': 0}	11771	intergenic_terminator	-1	3411	intergenic
+GGGACCTGTACGATAATGCG	CGCATTATCGTACAGGTCCC	3	3	scaffold_18	+	7260	Amb	1	3	2	[('scaffold_18:7260:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	11771	coding_region	5	0	exon
+TGTAAGGCAGATCCATACGT	ACGTATGGATCTGCCTTACA	1	1	scaffold_18	-	7378	Amb	1	1	0	[('scaffold_18:7378:-', 1)]	{'Null:0:+': 0}	11771	coding_region	1	0	exon
+ATAGTATCCCAGTGGGTGTG	CACACCCACTGGGATACTAT	1	0	scaffold_18	+	7382	Amb	1	1	0	[('scaffold_18:7382:+', 1)]	{'Null:0:+': 0}	11771	coding_region	1	0	exon
+ATAATCGATGAGAATAGCCT	AGGCTATTCTCATCGATTAT	2	2	scaffold_18	+	7820	Amb	1	2	1	[('scaffold_18:7820:+', 1)]	{'Null:0:+': 0, 'pastEnd:5711:+': 1}	11772	3_prime_UTR	-1	2159	3_prime_UTR
+CTCGGTGTTTTCAACGAGGT	ACCTCGTTGAAAACACCGAG	2	2	scaffold_18	+	7912	Amb	2	2	0	[('scaffold_18:7912:+', 2)]	{'Null:0:+': 0}	11772	3_prime_UTR	-1	2067	3_prime_UTR
+TTTAGCTCGCTTCGACCTTT	AAAGGTCGAAGCGAGCTAAA	1	1	scaffold_18	+	10191	Amb	1	1	0	[('scaffold_18:10191:+', 1)]	{'Null:0:+': 0}	11773	coding_region	6	0	exon
+TGTCGTTTAATTAACAGTCG	CGACTGTTAATTAAACGACA	1	1	scaffold_18	-	10287	Amb	1	1	0	[('scaffold_18:10287:-', 1)]	{'Null:0:+': 0}	11773	coding_region	12	0	exon
+TTAGCGGGTCAGTAGCGTTC	GAACGCTACTGACCCGCTAA	1	1	scaffold_2	-	63506	Amb	1	1	0	[('scaffold_2:63506:-', 1)]	{'Null:0:+': 0}	11932	intergenic_promoter	-1	-78	intergenic
+GCGTTGACCTGTATTGAGGA	TCCTCAATACAGGTCAACGC	1	1	scaffold_2	-	131609	Amb	1	1	0	[('scaffold_2:131609:-', 1)]	{'Null:0:+': 0}	11964	coding_region	24	0	intron
+GTTACGTCAATCTCCTGTC	GACAGGAGATTGACGTAAC	3	2	scaffold_2	+	267768	Amb	2	3	1	[('scaffold_2:267768:+', 1), ('scaffold_2:281207:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	12022	intergenic_promoter	-1	-1590	intergenic
+AGTGTTGCGGTGGGCGGGCA	TGCCCGCCCACCGCAACACT	1	1	scaffold_2	+	279872	Amb	1	1	0	[('scaffold_2:279872:+', 1)]	{'Null:0:+': 0}	12026	intergenic_promoter	-1	-2369	intergenic
+GCCAGCTTCTAGCTGGTTCA	TGAACCAGCTAGAAGCTGGC	2	2	scaffold_2	-	280873	Amb	2	2	0	[('scaffold_2:280873:-', 2)]	{'Null:0:+': 0}	12026	intergenic_promoter	-1	-1368	intergenic
+GTATGGCCCTATCACTCTTT	AAAGAGTGATAGGGCCATAC	2	2	scaffold_2	-	280935	Amb	2	2	0	[('scaffold_2:280935:-', 2)]	{'Null:0:+': 0}	12026	intergenic_promoter	-1	-1306	intergenic
+ATGCTTAGAAATAAGCGGTC	GACCGCTTATTTCTAAGCAT	1	1	scaffold_2	-	281041	Amb	1	1	0	[('scaffold_2:281041:-', 1)]	{'Null:0:+': 0}	12026	intergenic_promoter	-1	-1200	intergenic
+GTAGTCTTACTTTCAAGCGT	ACGCTTGAAAGTAAGACTAC	1	1	scaffold_2	+	281067	Amb	1	1	0	[('scaffold_2:281067:+', 1)]	{'Null:0:+': 0}	12026	intergenic_promoter	-1	-1174	intergenic
+AGCCAGCTGAAGTATACCTG	CAGGTATACTTCAGCTGGCT	1	1	scaffold_2	-	281116	Amb	1	1	0	[('scaffold_2:281116:-', 1)]	{'Null:0:+': 0}	12026	intergenic_promoter	-1	-1125	intergenic
+AGTCATCTGGTAAATAGAAG	CTTCTATTTACCAGATGACT	7	7	scaffold_2	-	281238	Amb	3	7	4	[('scaffold_2:281238:-', 3)]	{'pastEnd:5712:+': 4, 'Null:0:+': 0}	12026	intergenic_promoter	-1	-1003	intergenic
+AGTTACGCGATTGCAGTCTG	CAGACTGCAATCGCGTAACT	4	4	scaffold_2	+	281565	Amb	4	4	0	[('scaffold_2:281565:+', 3), ('scaffold_2:281566:-', 1)]	{'Null:0:+': 0}	12026	intergenic_promoter	-1	-676	intergenic
+CGGTCCACATTTTTGAAACG	CGTTTCAAAAATGTGGACCG	4	4	scaffold_2	+	287814	Amb	1	4	3	[('scaffold_2:287814:+', 1)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0}	12030	coding_region	15	0	intron
+GTCGATGATATTCTTCCACG	CGTGGAAGAATATCATCGAC	1	1	scaffold_2	+	360926	Amb	1	1	0	[('scaffold_2:360926:+', 1)]	{'Null:0:+': 0}	12058	intergenic_terminator	-1	4748	intergenic
+AATGCAGTGCATCGTCGTT	AACGACGATGCACTGCATT	2	2	scaffold_2	+	365315	Amb	2	2	0	[('scaffold_2:365315:+', 2)]	{'Null:0:+': 0}	12059	intergenic_promoter	-1	-891	intergenic
+GTCCCAGCTATTGGAGTCAG	CTGACTCCAATAGCTGGGAC	23	20	scaffold_2	+	439664	Amb	3	23	20	[('scaffold_2:439664:+', 3)]	{'pastEnd:5704:+': 12, 'pastEnd:7356:-': 2, 'Null:0:+': 0, 'pastEnd:5705:+': 6}	12094	intergenic_terminator	-1	1166	intergenic
+CTCGGGTTCGGTTGACTGGT	ACCAGTCAACCGAACCCGAG	1	1	scaffold_2	+	546266	Amb	1	1	0	[('scaffold_2:546266:+', 1)]	{'Null:0:+': 0}	12139	coding_region	96	0	exon
+AGTCGTAATGTCATTGGCCT	AGGCCAATGACATTACGACT	2	2	scaffold_2	-	677323	Amb	2	2	0	[('scaffold_2:677323:-', 2)]	{'Null:0:+': 0}	12195	coding_region	7	0	exon
+TTTGATTTTAAAGCGCTTA	TAAGCGCTTTAAAATCAAA	1	1	scaffold_2	+	1109829	Amb	1	1	0	[('scaffold_2:1109829:+', 1)]	{'Null:0:+': 0}	12365	intergenic_promoter	-1	-162	intergenic
+TATGCAACTAAAGCTCGAAA	TTTCGAGCTTTAGTTGCATA	1	1	scaffold_2	+	1132612	Amb	1	1	0	[('scaffold_2:1132612:+', 1)]	{'Null:0:+': 0}	12373	coding_region	13	0	exon
+TTCCCGGTATTGTAGCATTC	GAATGCTACAATACCGGGAA	2	2	scaffold_2	+	1425588	Amb	1	2	1	[('scaffold_2:1425588:+', 1)]	{'pastEnd:7070:-': 1, 'Null:0:+': 0}	12500	coding_region	82	0	exon
+GGTGTAAAGGTAAACATA	TATGTTTACCTTTACACC	1	1	scaffold_2	+	1481093	Amb	1	1	0	[('scaffold_2:1481093:+', 1)]	{'Null:0:+': 0}	12520	intergenic_terminator	-1	2782	intergenic
+GAGAGGTGGCTTCCGTTAAG	CTTAACGGAAGCCACCTCTC	2	2	scaffold_20	+	5914	Amb	1	2	1	[('scaffold_20:5914:+', 1)]	{'Null:0:+': 0, 'pastEnd:5711:+': 1}	12719	intergenic_promoter	-1	-5149	intergenic
+CACAGCTCGCCTCACATGCT	AGCATGTGAGGCGAGCTGTG	1	1	scaffold_20	+	6530	Amb	1	1	0	[('scaffold_20:6530:+', 1)]	{'Null:0:+': 0}	12719	intergenic_promoter	-1	-4533	intergenic
+ATCTTTCTGTATGCTGCGCG	CGCGCAGCATACAGAAAGAT	3	3	scaffold_20	+	8024	Amb	3	3	0	[('scaffold_20:8024:+', 2), ('scaffold_3:1851446:+', 1)]	{'Null:0:+': 0}	12719	intergenic_promoter	-1	-3039	intergenic
+GTCTATTGGACCCTAGGTTA	TAACCTAGGGTCCAATAGAC	5	5	scaffold_20	+	8602	Amb	5	5	0	[('scaffold_20:8602:+', 5)]	{'Null:0:+': 0}	12719	intergenic_promoter	-1	-2461	intergenic
+GCTTTGGGTAAAAGTCTCAG	CTGAGACTTTTACCCAAAGC	2	2	scaffold_20	+	8682	Amb	2	2	0	[('scaffold_20:8682:+', 2)]	{'Null:0:+': 0}	12719	intergenic_promoter	-1	-2381	intergenic
+GGTCACTGATTTTTAAAGTG	CACTTTAAAAATCAGTGACC	3	3	scaffold_20	+	8811	Amb	1	3	2	[('scaffold_20:8811:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0, 'pastEnd:5794:+': 1}	12719	intergenic_promoter	-1	-2252	intergenic
+GCTAATGGTCACCTGCGATC	GATCGCAGGTGACCATTAGC	3	2	scaffold_20	+	9966	Amb	1	3	2	[('scaffold_20:9966:+', 1)]	{'pastEnd:7944:-': 1, 'Null:0:+': 0, 'pastEnd:1:+': 1}	12719	intergenic_promoter	-1	-1097	intergenic
+ATATGAACCCTCGGTGGTTT	AAACCACCGAGGGTTCATAT	3	3	scaffold_20	+	10003	Amb	3	3	0	[('scaffold_20:10003:+', 3)]	{'Null:0:+': 0}	12719	intergenic_promoter	-1	-1060	intergenic
+TAGGTGTCTTTCCAGTGCAG	CTGCACTGGAAAGACACCTA	2	2	scaffold_20	+	10082	Amb	1	2	1	[('scaffold_20:10082:+', 1)]	{'pastEnd:311:+': 1, 'Null:0:+': 0}	12719	intergenic_promoter	-1	-981	intergenic
+AGAGGGTCTCATTATTAGCA	TGCTAATAATGAGACCCTCT	1	1	scaffold_20	+	10259	Amb	1	1	0	[('scaffold_20:10259:+', 1)]	{'Null:0:+': 0}	12719	intergenic_promoter	-1	-804	intergenic
+TTATACTTAAGACGTGGTCC	GGACCACGTCTTAAGTATAA	1	1	scaffold_20	+	10514	Amb	1	1	0	[('scaffold_20:10514:+', 1)]	{'Null:0:+': 0}	12719	intergenic_promoter	-1	-549	intergenic
+ACTCGTTCGACAATGTTGAG	CTCAACATTGTCGAACGAGT	1	1	scaffold_20	+	10533	Amb	1	1	0	[('scaffold_20:10533:+', 1)]	{'Null:0:+': 0}	12719	intergenic_promoter	-1	-530	intergenic
+GATTGATTCATTTGGATAA	TTATCCAAATGAATCAATC	2	2	scaffold_20	+	10545	Amb	2	2	0	[('scaffold_20:10545:+', 2)]	{'Null:0:+': 0}	12719	intergenic_promoter	-1	-518	intergenic
+GACTGGGAAGATTTATTTAT	ATAAATAAATCTTCCCAGTC	3	3	scaffold_20	+	10549	Amb	2	3	1	[('scaffold_20:10549:+', 2)]	{'Null:0:+': 0, 'pastEnd:5746:+': 1}	12719	intergenic_promoter	-1	-514	intergenic
+TCCTTTTCCGGGCTGCGGAC	GTCCGCAGCCCGGAAAAGGA	2	1	scaffold_20	+	10562	Amb	1	2	1	[('scaffold_20:10562:+', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 1}	12719	intergenic_promoter	-1	-501	intergenic
+CCCTAAATATTAGACAGTCC	GGACTGTCTAATATTTAGGG	1	1	scaffold_20	+	10590	Amb	1	1	0	[('scaffold_20:10590:+', 1)]	{'Null:0:+': 0}	12719	intergenic_promoter	-1	-473	intergenic
+CCGTGAAGGCATCATGAATT	AATTCATGATGCCTTCACGG	8	8	scaffold_20	+	10627	Amb	2	8	6	[('scaffold_20:10627:+', 2)]	{'pastEnd:5704:+': 5, 'Null:0:+': 0, 'pastEnd:1:+': 1}	12719	intergenic_promoter	-1	-436	intergenic
+CGAGATGTATTGACACAGAG	CTCTGTGTCAATACATCTCG	1	1	scaffold_20	+	10644	Amb	1	1	0	[('scaffold_20:10644:+', 1)]	{'Null:0:+': 0}	12719	intergenic_promoter	-1	-419	intergenic
+AAGGTTCCGTGTTTAGCGCT	AGCGCTAAACACGGAACCTT	1	1	scaffold_20	+	10657	Amb	1	1	0	[('scaffold_20:10657:+', 1)]	{'Null:0:+': 0}	12719	intergenic_promoter	-1	-406	intergenic
+GATTCAAGTAGAAAAAAAAC	GTTTTTTTTCTACTTGAATC	2	2	scaffold_20	+	10657	Amb	1	2	1	[('scaffold_20:10657:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	12719	intergenic_promoter	-1	-406	intergenic
+AAACATTCTTAAGCTCATTT	AAATGAGCTTAAGAATGTTT	2	2	scaffold_20	+	10789	Amb	1	2	1	[('scaffold_20:10789:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	12719	intergenic_promoter	-1	-274	intergenic
+ACAGTCGAGCTACTACTTCC	GGAAGTAGTAGCTCGACTGT	2	2	scaffold_20	+	10798	Amb	2	2	0	[('scaffold_20:10798:+', 2)]	{'Null:0:+': 0}	12719	intergenic_promoter	-1	-265	intergenic
+TCTTATTCGTTTGTAGTTTA	TAAACTACAAACGAATAAGA	2	2	scaffold_20	+	10937	Amb	1	2	1	[('scaffold_20:10937:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	12719	intergenic_promoter	-1	-126	intergenic
+TCGGTGTGGTCCTACTTGT	ACAAGTAGGACCACACCGA	4	4	scaffold_20	-	17606	Amb	2	4	2	[('scaffold_20:17606:-', 2)]	{'pastEnd:5704:+': 1, 'pastEnd:4444:-': 1, 'Null:0:+': 0}	12723	3_prime_UTR	-1	843	3_prime_UTR
+CCCATGCCGAAAGCTGCGGG	CCCGCAGCTTTCGGCATGGG	2	1	scaffold_20	+	19759	Amb	1	2	0	[('scaffold_20:19759:+', 1), ('scaffold_20:19758:-', 1)]	{'Null:0:+': 0}	12723	intergenic_promoter	-1	-1310	intergenic
+GGGTGTTATGATTTAGCACT	AGTGCTAAATCATAACACCC	1	1	scaffold_21	+	10919	Amb	1	1	0	[('scaffold_21:10919:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GTTTGTTTGTATTCAACTTG	CAAGTTGAATACAAACAAAC	4	4	scaffold_21	+	11600	Amb	1	4	3	[('scaffold_21:11600:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0, 'pastEnd:5703:-': 2}	empty_scaffold	intergenic	-1	NA	intergenic
+TAAGACACCGATTTTGTCGC	GCGACAAAATCGGTGTCTTA	2	0	scaffold_21	+	11670	Amb	2	2	0	[('scaffold_21:11670:+', 2)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+AATTGGTCCCAAGGAAGCAA	TTGCTTCCTTGGGACCAATT	1	1	scaffold_21	+	11690	Amb	1	1	0	[('scaffold_21:11690:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TCGTTCGTTCTAGAGGAGTT	AACTCCTCTAGAACGAACGA	1	1	scaffold_21	+	11742	Amb	1	1	0	[('scaffold_21:11742:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GAAGGCGTTTGGCGGGGGGG	CCCCCCCGCCAAACGCCTTC	9	9	scaffold_21	+	12196	Amb	9	9	0	[('scaffold_21:12196:+', 9)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TGAATATCACTTTGTCGAGG	CCTCGACAAAGTGATATTCA	1	1	scaffold_21	+	12935	Amb	1	1	0	[('scaffold_21:12935:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TCAGGTTTGCGTTGACGGTT	AACCGTCAACGCAAACCTGA	2	2	scaffold_21	+	13204	Amb	1	2	1	[('scaffold_21:13204:+', 1)]	{'Null:0:+': 0, 'pastEnd:6040:+': 1}	empty_scaffold	intergenic	-1	NA	intergenic
+AGGTACACCTATCGGCGCC	GGCGCCGATAGGTGTACCT	2	2	scaffold_21	+	13245	Amb	2	2	0	[('scaffold_21:13245:+', 2)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TAAAAGGATCGCTCCACCTT	AAGGTGGAGCGATCCTTTTA	1	1	scaffold_21	+	13295	Amb	1	1	0	[('scaffold_21:13295:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+ACTGGTATTCTGCAGTCATG	CATGACTGCAGAATACCAGT	2	2	scaffold_21	+	13443	Amb	2	2	0	[('scaffold_21:13443:+', 2)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TTCTAATTGTAGCAGGTACG	CGTACCTGCTACAATTAGAA	2	1	scaffold_21	+	13479	Amb	1	2	1	[('scaffold_21:13479:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GTATGAGCCAAGCGGAGGTT	AACCTCCGCTTGGCTCATAC	1	1	scaffold_21	+	13668	Amb	1	1	0	[('scaffold_21:13668:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TAGGCAACGTAGACTTTCCT	AGGAAAGTCTACGTTGCCTA	1	1	scaffold_21	+	14076	Amb	1	1	0	[('scaffold_21:14076:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TGCGTCATCCGCACGTTTTG	CAAAACGTGCGGATGACGCA	5	5	scaffold_21	+	14409	Amb	2	5	3	[('scaffold_21:14409:+', 2)]	{'pastEnd:5717:+': 1, 'pastEnd:4193:+': 2, 'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TGTTGGTGTCGTCGCCGCAC	GTGCGGCGACGACACCAACA	1	1	scaffold_21	+	14567	Amb	1	1	0	[('scaffold_21:14567:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GATTAAATGCAGGAGGGGA	TCCCCTCCTGCATTTAATC	1	1	scaffold_21	+	14857	Amb	1	1	0	[('scaffold_21:14857:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GTCGCGTTTTAATGTGTTTT	AAAACACATTAAAACGCGAC	1	1	scaffold_21	+	15007	Amb	1	1	0	[('scaffold_21:15007:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TCTCGCCATTATCACGAGTA	TACTCGTGATAATGGCGAGA	2	2	scaffold_21	+	15165	Amb	2	2	0	[('scaffold_21:15165:+', 2)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TACTGTCCGAAGCGTTGGGG	CCCCAACGCTTCGGACAGTA	1	1	scaffold_21	+	15493	Amb	1	1	0	[('scaffold_21:15493:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+CGCTTTTATACGTGGAAGGC	GCCTTCCACGTATAAAAGCG	3	3	scaffold_21	+	15550	Amb	2	3	1	[('scaffold_21:15550:+', 2)]	{'pastEnd:5710:+': 1, 'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GAAAGCCCCGTGCTTTAGG	CCTAAAGCACGGGGCTTTC	2	2	scaffold_21	+	15793	Amb	1	2	1	[('scaffold_21:15793:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GTCTTTAACGTCTGATTGGG	CCCAATCAGACGTTAAAGAC	2	2	scaffold_21	+	16970	Amb	2	2	0	[('scaffold_21:16970:+', 2)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TACCCTGCGACTTTTCTCTG	CAGAGAAAAGTCGCAGGGTA	17	16	scaffold_24	+	6748	Amb	7	17	10	[('scaffold_24:6748:+', 5), ('scaffold_29:12197:+', 2)]	{'pastEnd:5704:+': 8, 'pastEnd:5709:+': 1, 'pastEnd:7691:-': 1, 'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+CACCCTGCGACTTTTCTCTG	CAGAGAAAAGTCGCAGGGTG	1	1	scaffold_24	+	6748	Amb	1	1	0	[('scaffold_24:6748:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+ATCGTGAGAAATTATATAAA	TTTATATAATTTCTCACGAT	3	3	scaffold_24	+	7122	Amb	1	3	2	[('scaffold_24:7122:+', 1)]	{'pastEnd:5712:+': 1, 'Null:0:+': 0, 'pastEnd:1:+': 1}	empty_scaffold	intergenic	-1	NA	intergenic
+TGTCATTACCCTCGAGGGTT	AACCCTCGAGGGTAATGACA	1	1	scaffold_24	+	7169	Amb	1	1	0	[('scaffold_24:7169:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TACGTTGGTTGAGACGTGCT	AGCACGTCTCAACCAACGTA	2	2	scaffold_24	+	7347	Amb	2	2	0	[('scaffold_24:7347:+', 2)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TATTATGTTACTTTGCTTGT	ACAAGCAAAGTAACATAATA	1	1	scaffold_24	+	7407	Amb	1	1	0	[('scaffold_24:7407:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+CGTGAGTTTCGCATCACTAC	GTAGTGATGCGAAACTCACG	1	1	scaffold_24	+	7502	Amb	1	1	0	[('scaffold_24:7502:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+CGCGGGCAATTTCGTCGAGG	CCTCGACGAAATTGCCCGCG	3	3	scaffold_24	+	7608	Amb	1	3	2	[('scaffold_24:7608:+', 1)]	{'pastEnd:5704:+': 1, 'pastEnd:5709:+': 1, 'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TAGTACGTGATTTTAATTTA	TAAATTAAAATCACGTACTA	2	2	scaffold_24	+	7675	Amb	2	2	0	[('scaffold_24:7675:+', 2)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GGTTTTTGCAGTTGGCAAGA	TCTTGCCAACTGCAAAAACC	3	3	scaffold_24	+	7680	Amb	1	3	2	[('scaffold_24:7680:+', 1)]	{'Null:0:+': 0, 'pastEnd:5703:-': 2}	empty_scaffold	intergenic	-1	NA	intergenic
+TTCTCGTCGCCATATTTGCT	AGCAAATATGGCGACGAGAA	1	1	scaffold_24	+	7695	Amb	1	1	0	[('scaffold_24:7695:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TTGGTACTTAGAAAGTTATT	AATAACTTTCTAAGTACCAA	1	1	scaffold_24	+	7699	Amb	1	1	0	[('scaffold_24:7699:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TAATTTCACCCAGCGAGCCC	GGGCTCGCTGGGTGAAATTA	1	1	scaffold_24	+	7706	Amb	1	1	0	[('scaffold_24:7706:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GATTCGTGTTGTCATACTGG	CCAGTATGACAACACGAATC	1	1	scaffold_24	+	7725	Amb	1	1	0	[('scaffold_24:7725:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GGTTAGAATTAGCCAATAGT	ACTATTGGCTAATTCTAACC	1	1	scaffold_24	-	15968	Amb	1	1	0	[('scaffold_24:15968:-', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TATGCTGTTCATCCGCATTG	CAATGCGGATGAACAGCATA	1	1	scaffold_28	+	3309	Amb	1	1	0	[('scaffold_28:3309:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+CTGATCGGTAGGTGACAAT	ATTGTCACCTACCGATCAG	1	1	scaffold_28	+	3336	Amb	1	1	0	[('scaffold_28:3336:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GCTTCTTATCTCTTCAGAC	GTCTGAAGAGATAAGAAGC	4	2	scaffold_28	+	5305	Amb	2	4	2	[('scaffold_28:5305:+', 2)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TACTCCTTATTTCGGTTACC	GGTAACCGAAATAAGGAGTA	2	2	scaffold_28	+	5422	Amb	2	2	0	[('scaffold_28:5422:+', 2)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+CGTACTGCGTGCGTAATCGG	CCGATTACGCACGCAGTACG	4	4	scaffold_28	+	8161	Amb	3	4	1	[('scaffold_28:8161:+', 3)]	{'Null:0:+': 0, 'pastEnd:4878:+': 1}	empty_scaffold	intergenic	-1	NA	intergenic
+CTAACCTGGCGATGTGCCCC	GGGGCACATCGCCAGGTTAG	4	4	scaffold_28	+	9147	Amb	1	4	3	[('scaffold_28:9147:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0, 'pastEnd:1:+': 2}	empty_scaffold	intergenic	-1	NA	intergenic
+GGCTGTTTACATTCTCGTAT	ATACGAGAATGTAAACAGCC	1	1	scaffold_28	+	9286	Amb	1	1	0	[('scaffold_28:9286:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TCGTTCATCAACTATTCGTT	AACGAATAGTTGATGAACGA	4	4	scaffold_28	+	9863	Amb	2	4	2	[('scaffold_28:9863:+', 2)]	{'pastEnd:6031:-': 1, 'Null:0:+': 0, 'pastEnd:1:+': 1}	empty_scaffold	intergenic	-1	NA	intergenic
+CTTCCTGGACTACGTGATAG	CTATCACGTAGTCCAGGAAG	4	4	scaffold_28	+	10739	Amb	2	4	1	[('scaffold_28:10739:+', 2), ('scaffold_6:207214:+', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 1}	empty_scaffold	intergenic	-1	NA	intergenic
+TTTTGTTGATAGTCTGCGTA	TACGCAGACTATCAACAAAA	3	3	scaffold_28	+	11126	Amb	1	3	2	[('scaffold_28:11126:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GTAGCAAGTATGAGTGCGTC	GACGCACTCATACTTGCTAC	3	3	scaffold_28	+	11419	Amb	3	3	0	[('scaffold_28:11419:+', 3)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+ACTTTAAACGTCATAATGTG	CACATTATGACGTTTAAAGT	2	2	scaffold_28	+	11853	Amb	1	2	1	[('scaffold_28:11853:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GACTCTGTTGGACGTCGTCG	CGACGACGTCCAACAGAGTC	2	2	scaffold_28	+	12293	Amb	2	2	0	[('scaffold_28:12293:+', 2)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TGATTGACGGGCCTGTAAC	GTTACAGGCCCGTCAATCA	1	1	scaffold_28	+	12475	Amb	1	1	0	[('scaffold_28:12475:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+AGACGCGGACGCAGGGAATT	AATTCCCTGCGTCCGCGTCT	1	1	scaffold_28	+	12475	Amb	1	1	0	[('scaffold_28:12475:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TGTGTCATTTTGCAATTATG	CATAATTGCAAAATGACACA	1	1	scaffold_28	+	12477	Amb	1	1	0	[('scaffold_28:12477:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GGTGATATGAATCAAATTCA	TGAATTTGATTCATATCACC	4	4	scaffold_28	+	14680	Amb	2	4	2	[('scaffold_28:14680:+', 2)]	{'pastEnd:5735:+': 2, 'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+CTCAGGTCGGGGTCATTCT	AGAATGACCCCGACCTGAG	1	1	scaffold_28	+	14924	Amb	1	1	0	[('scaffold_28:14924:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TTGATATATTGCCGTTTGA	TCAAACGGCAATATATCAA	2	2	scaffold_28	+	15190	Amb	1	2	1	[('scaffold_28:15190:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+CTCTGAACGTAGGTTTGTCT	AGACAAACCTACGTTCAGAG	2	2	scaffold_28	+	15783	Amb	2	2	0	[('scaffold_28:15783:+', 2)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TGAAGGAATGTCATTGCCTC	GAGGCAATGACATTCCTTCA	1	1	scaffold_29	-	884	Amb	1	1	0	[('scaffold_29:884:-', 1)]	{'Null:0:+': 0}	12725	coding_region	68	0	exon
+GAGCCCGACAAAGGTTCCCA	TGGGAACCTTTGTCGGGCTC	2	2	scaffold_29	-	2977	Amb	2	2	0	[('scaffold_29:2977:-', 2)]	{'Null:0:+': 0}	12726	coding_region	33	0	intron
+GAGTCTTGGACGTAGGTGGT	ACCACCTACGTCCAAGACTC	2	2	scaffold_29	-	3985	Amb	2	2	0	[('scaffold_29:3985:-', 2)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-682	intergenic
+ATGTGTATATTGTTGGTCTG	CAGACCAACAATATACACAT	4	4	scaffold_29	+	4005	Amb	2	4	2	[('scaffold_29:4005:+', 2)]	{'Null:0:+': 0, 'pastEnd:5705:+': 2}	12726	intergenic_promoter	-1	-702	intergenic
+GCGACGGAACCCTGTAGGCG	CGCCTACAGGGTTCCGTCGC	1	1	scaffold_29	-	5472	Amb	1	1	0	[('scaffold_29:5472:-', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-2169	intergenic
+GCAAATCGAGGATTCTATGC	GCATAGAATCCTCGATTTGC	3	3	scaffold_29	-	5809	Amb	3	3	0	[('scaffold_29:5809:-', 3)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-2506	intergenic
+GGAGGGGCTTCCCTCGCACG	CGTGCGAGGGAAGCCCCTCC	2	2	scaffold_29	+	6376	Amb	1	2	1	[('scaffold_29:6376:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	12726	intergenic_promoter	-1	-3073	intergenic
+TGATAAAATTTTTGCTGCTG	CAGCAGCAAAAATTTTATCA	4	4	scaffold_29	+	7608	Amb	2	4	2	[('scaffold_29:7608:+', 2)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	12726	intergenic_promoter	-1	-4305	intergenic
+AAGGGCGCAATAATCGTATG	CATACGATTATTGCGCCCTT	4	4	scaffold_29	+	7647	Amb	4	4	0	[('scaffold_29:7647:+', 4)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-4344	intergenic
+AAGTCTGTGAATTTATAAGC	GCTTATAAATTCACAGACTT	1	1	scaffold_29	+	7657	Amb	1	1	0	[('scaffold_29:7657:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-4354	intergenic
+ACAGTTTTGTTTAACATTGA	TCAATGTTAAACAAAACTGT	1	1	scaffold_29	+	7851	Amb	1	1	0	[('scaffold_29:7851:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-4548	intergenic
+ATGTTTTGCCAGAGAAGTTA	TAACTTCTCTGGCAAAACAT	1	1	scaffold_29	+	8397	Amb	1	1	0	[('scaffold_29:8397:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-5094	intergenic
+TGTACAGTGTGGGAGAGTTG	CAACTCTCCCACACTGTACA	1	1	scaffold_29	+	8886	Amb	1	1	0	[('scaffold_29:8886:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-5583	intergenic
+TAAGAGTGTAATTCCACATA	TATGTGGAATTACACTCTTA	2	2	scaffold_29	+	8947	Amb	2	2	0	[('scaffold_29:8947:+', 2)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-5644	intergenic
+ACGACTGGTAGCAGACGTGT	ACACGTCTGCTACCAGTCGT	2	2	scaffold_29	+	9174	Amb	2	2	0	[('scaffold_29:9174:+', 2)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-5871	intergenic
+TCAAAGTTGTTTACCGTGGG	CCCACGGTAAACAACTTTGA	1	1	scaffold_29	+	9220	Amb	1	1	0	[('scaffold_29:9220:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-5917	intergenic
+GGGCACATTTGCCGTAAAAA	TTTTTACGGCAAATGTGCCC	5	1	scaffold_29	+	9496	Amb	4	5	1	[('scaffold_29:9496:+', 4)]	{'Null:0:+': 0, 'pastEnd:7754:-': 1}	12726	intergenic_promoter	-1	-6193	intergenic
+TGGAAATATTTAAGATGGGT	ACCCATCTTAAATATTTCCA	2	2	scaffold_29	+	10320	Amb	2	2	0	[('scaffold_29:10320:+', 2)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-7017	intergenic
+CTGTTGCTTGTTCCCGGAGT	ACTCCGGGAACAAGCAACAG	5	5	scaffold_29	+	10374	Amb	4	5	1	[('scaffold_29:10374:+', 4)]	{'Null:0:+': 0, 'pastEnd:7119:+': 1}	12726	intergenic_promoter	-1	-7071	intergenic
+CGTATTCATGGCCTACCTGT	ACAGGTAGGCCATGAATACG	3	3	scaffold_29	+	10642	Amb	1	3	2	[('scaffold_29:10642:+', 1)]	{'pastEnd:5710:+': 2, 'Null:0:+': 0}	12726	intergenic_promoter	-1	-7339	intergenic
+AATAACGGACTCGTAAGCGG	CCGCTTACGAGTCCGTTATT	1	1	scaffold_29	+	10947	Amb	1	1	0	[('scaffold_29:10947:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-7644	intergenic
+ACAGGCCATTTTACCGAATA	TATTCGGTAAAATGGCCTGT	3	3	scaffold_29	+	11267	Amb	2	3	1	[('scaffold_29:11267:+', 2)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	12726	intergenic_promoter	-1	-7964	intergenic
+GTTTGTTTTAGCGCCAAGCA	TGCTTGGCGCTAAAACAAAC	1	1	scaffold_29	+	11274	Amb	1	1	0	[('scaffold_29:11274:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-7971	intergenic
+TTAGAGATACGCTTCACGCC	GGCGTGAAGCGTATCTCTAA	1	1	scaffold_29	+	11275	Amb	1	1	0	[('scaffold_29:11275:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-7972	intergenic
+AATGGTGCAGCGAGTATACC	GGTATACTCGCTGCACCATT	4	4	scaffold_29	+	11276	Amb	1	4	3	[('scaffold_29:11276:+', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 3}	12726	intergenic_promoter	-1	-7973	intergenic
+AGTGTACCGGGACTACGAAT	ATTCGTAGTCCCGGTACACT	1	1	scaffold_29	+	11425	Amb	1	1	0	[('scaffold_29:11425:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-8122	intergenic
+ATTAGTCCATTCTGTATCTG	CAGATACAGAATGGACTAAT	4	4	scaffold_29	+	11489	Amb	1	4	3	[('scaffold_29:11489:+', 1)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0}	12726	intergenic_promoter	-1	-8186	intergenic
+CGAGTGTTGCGTAGATTGA	TCAATCTACGCAACACTCG	3	3	scaffold_29	+	11525	Amb	3	3	0	[('scaffold_29:11525:+', 2), ('scaffold_24:7419:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-8222	intergenic
+GGCGAATATAACATGGGATT	AATCCCATGTTATATTCGCC	1	1	scaffold_29	+	11603	Amb	1	1	0	[('scaffold_29:11603:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-8300	intergenic
+TAATAAGACACAAGTCTTCT	AGAAGACTTGTGTCTTATTA	1	1	scaffold_29	+	11603	Amb	1	1	0	[('scaffold_29:11603:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-8300	intergenic
+AGTTATTGATACGTAAGACA	TGTCTTACGTATCAATAACT	1	1	scaffold_29	+	11750	Amb	1	1	0	[('scaffold_29:11750:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-8447	intergenic
+TTTTAGAATTATTGTTTGAC	GTCAAACAATAATTCTAAAA	1	1	scaffold_29	+	11785	Amb	1	1	0	[('scaffold_29:11785:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-8482	intergenic
+TCGGTTAGGATGGCAATCGG	CCGATTGCCATCCTAACCGA	2	1	scaffold_29	+	11833	Amb	1	2	1	[('scaffold_29:11833:+', 1)]	{'Null:0:+': 0, 'pastEnd:7746:-': 1}	12726	intergenic_promoter	-1	-8530	intergenic
+CCGTTTGGCCTGGACGAATG	CATTCGTCCAGGCCAAACGG	6	4	scaffold_29	+	12478	Amb	1	6	5	[('scaffold_29:12478:+', 1)]	{'pastEnd:5703:+': 3, 'Null:0:+': 0, 'pastEnd:7741:-': 2}	12726	intergenic_promoter	-1	-9175	intergenic
+GCCGACGTGTATAGGCGCTT	AAGCGCCTATACACGTCGGC	2	2	scaffold_29	+	13006	Amb	2	2	0	[('scaffold_29:13006:+', 2)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-9703	intergenic
+CTGTCGTGGTCCATTCCCAT	ATGGGAATGGACCACGACAG	1	1	scaffold_29	+	13160	Amb	1	1	0	[('scaffold_29:13160:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-9857	intergenic
+GATCCCGATTACTGTGCTAG	CTAGCACAGTAATCGGGATC	1	1	scaffold_29	+	14914	Amb	1	1	0	[('scaffold_29:14914:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-11611	intergenic
+AGATTGTCTTGGGGGTAACA	TGTTACCCCCAAGACAATCT	1	1	scaffold_29	+	15071	Amb	1	1	0	[('scaffold_29:15071:+', 1)]	{'Null:0:+': 0}	12726	intergenic_promoter	-1	-11768	intergenic
+ACGTTTAGCGAGCAGCAGGG	CCCTGCTGCTCGCTAAACGT	5	5	scaffold_29	+	15226	Amb	3	5	2	[('scaffold_29:15226:+', 3)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	12726	intergenic_promoter	-1	-11923	intergenic
+ATACGATAAAATATATAGGG	CCCTATATATTTTATCGTAT	2	2	scaffold_29	+	15516	Amb	1	2	1	[('scaffold_29:15516:+', 1)]	{'Null:0:+': 0, 'pastEnd:5725:+': 1}	12726	intergenic_promoter	-1	-12213	intergenic
+CTGTCTTTATGTCACGTCGC	GCGACGTGACATAAAGACAG	2	2	scaffold_29	+	15537	Amb	1	2	1	[('scaffold_29:15537:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	12726	intergenic_promoter	-1	-12234	intergenic
+TCGACTCTCTACCTACTTGA	TCAAGTAGGTAGAGAGTCGA	14	12	scaffold_3	+	242984	Amb	3	14	8	[('scaffold_3:242984:+', 3), ('scaffold_3:242962:-', 3)]	{'pastEnd:7472:-': 1, 'pastEnd:5706:+': 2, 'pastEnd:5707:+': 2, 'pastEnd:5714:+': 1, 'pastEnd:5704:+': 2, 'Null:0:+': 0}	12830	intergenic_terminator	-1	1142	intergenic
+TTTATTAGTTGTATGGGAGT	ACTCCCATACAACTAATAAA	2	2	scaffold_3	+	244238	Amb	2	2	0	[('scaffold_3:244238:+', 2)]	{'Null:0:+': 0}	12831	intergenic_terminator	-1	801	intergenic
+AGTTATGCTGGCAAAGGTGA	TCACCTTTGCCAGCATAACT	2	2	scaffold_3	-	570767	Amb	2	2	0	[('scaffold_3:570767:-', 2)]	{'Null:0:+': 0}	12974	coding_region	32	0	exon
+TTTTGCGCAGTCTTGTTGTG	CACAACAAGACTGCGCAAAA	4	4	scaffold_3	+	608973	Amb	2	4	2	[('scaffold_3:608973:+', 2)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	12985	intergenic_promoter	-1	-1812	intergenic
+CAGCAGGGGTTGGAAAACTG	CAGTTTTCCAACCCCTGCTG	2	2	scaffold_3	-	610512	Amb	1	2	1	[('scaffold_3:610512:-', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	12985	intergenic_promoter	-1	-3351	intergenic
+ATCGTGCTATGGATCGTTCT	AGAACGATCCATAGCACGAT	1	1	scaffold_3	-	616324	Amb	1	1	0	[('scaffold_3:616324:-', 1)]	{'Null:0:+': 0}	12987	intergenic_terminator	-1	678	intergenic
+ACCCTTGGTTTTGCAAGGCC	GGCCTTGCAAAACCAAGGGT	6	6	scaffold_3	+	698539	Amb	3	6	3	[('scaffold_3:698539:+', 3)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0}	13021	coding_region	0	0	exon
+TTGACTTTCCATCTGTAATT	AATTACAGATGGAAAGTCAA	18	16	scaffold_3	-	864829	Amb	3	18	15	[('scaffold_3:864829:-', 3)]	{'pastEnd:5704:+': 1, 'pastEnd:5706:+': 7, 'Null:0:+': 0, 'pastEnd:7944:-': 2, 'pastEnd:1:+': 5}	13093	intergenic_terminator	-1	1734	intergenic
+TTGACTTTCCACCTGTAATT	AATTACAGGTGGAAAGTCAA	1	1	scaffold_3	-	864829	Amb	1	1	0	[('scaffold_3:864829:-', 1)]	{'Null:0:+': 0}	13093	intergenic_terminator	-1	1734	intergenic
+TGTATCTGTACTGGGGTGTA	TACACCCCAGTACAGATACA	1	1	scaffold_3	+	902890	Amb	1	1	0	[('scaffold_3:902890:+', 1)]	{'Null:0:+': 0}	13110	intergenic_promoter	-1	-433	intergenic
+GCATGTAGGTTGTCAAGCTA	TAGCTTGACAACCTACATGC	1	1	scaffold_3	+	1442840	Amb	1	1	0	[('scaffold_3:1442840:+', 1)]	{'Null:0:+': 0}	13338	intergenic_promoter	-1	-1497	intergenic
+CAGTGGGCGGTAGGAGCTTT	AAAGCTCCTACCGCCCACTG	2	2	scaffold_3	+	1444597	Amb	2	2	0	[('scaffold_3:1444597:+', 2)]	{'Null:0:+': 0}	13339	intergenic_terminator	-1	4450	intergenic
+GAGATAGACGATCTGTGCGT	ACGCACAGATCGTCTATCTC	2	2	scaffold_3	+	1446536	Amb	2	2	0	[('scaffold_3:1446536:+', 2)]	{'Null:0:+': 0}	13339	intergenic_terminator	-1	2511	intergenic
+CGTCACTGGGCGAATCCTGC	GCAGGATTCGCCCAGTGACG	3	3	scaffold_3	-	1461523	Amb	1	3	2	[('scaffold_3:1461523:-', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	13345	coding_region	45	0	exon
+AGTCTAAGATTTTGACTAT	ATAGTCAAAATCTTAGACT	1	1	scaffold_3	-	1461860	Amb	1	1	0	[('scaffold_3:1461860:-', 1)]	{'Null:0:+': 0}	13345	coding_region	51	0	exon
+ACCTATGTAAAGAAGCGGCC	GGCCGCTTCTTTACATAGGT	6	6	scaffold_3	-	1462499	Amb	3	6	3	[('scaffold_3:1462499:-', 3)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0}	13345	coding_region	63	0	exon
+TGCATCTCCTGGCGCCGATG	CATCGGCGCCAGGAGATGCA	1	1	scaffold_3	+	1512898	Amb	1	1	0	[('scaffold_3:1512898:+', 1)]	{'Null:0:+': 0}	13370	intergenic_promoter	-1	-707	intergenic
+TATGACATTACTTTAACCAT	ATGGTTAAAGTAATGTCATA	5	5	scaffold_3	-	1748511	Amb	2	5	0	[('scaffold_3:1748511:-', 3), ('scaffold_20:10807:+', 2)]	{'Null:0:+': 0}	13466	intergenic_promoter	-1	-142	intergenic
+GCTAATCTGTCAATAAATCC	GGATTTATTGACAGATTAGC	1	1	scaffold_3	+	1848564	Amb	1	1	0	[('scaffold_3:1848564:+', 1)]	{'Null:0:+': 0}	13508	intergenic_terminator	-1	1979	intergenic
+AACACTTAGGCTAAAGTATG	CATACTTTAGCCTAAGTGTT	1	1	scaffold_3	+	1848685	Amb	1	1	0	[('scaffold_3:1848685:+', 1)]	{'Null:0:+': 0}	13508	intergenic_terminator	-1	2100	intergenic
+TTAGGGCCTGTCAGTTGTAT	ATACAACTGACAGGCCCTAA	2	2	scaffold_3	+	1848709	Amb	1	2	1	[('scaffold_3:1848709:+', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 1}	13508	intergenic_terminator	-1	2124	intergenic
+CGGTGTCTGGAGGCTGTGTT	AACACAGCCTCCAGACACCG	3	3	scaffold_3	+	1848712	Amb	3	3	0	[('scaffold_3:1848712:+', 2), ('scaffold_20:10756:+', 1)]	{'Null:0:+': 0}	13508	intergenic_terminator	-1	2127	intergenic
+CATATCTCTCCGCATGTCTC	GAGACATGCGGAGAGATATG	1	1	scaffold_3	+	1848725	Amb	1	1	0	[('scaffold_3:1848725:+', 1)]	{'Null:0:+': 0}	13508	intergenic_terminator	-1	2140	intergenic
+ATCCGCGAGCTGGATTTATC	GATAAATCCAGCTCGCGGAT	3	3	scaffold_3	+	1848840	Amb	2	3	1	[('scaffold_3:1848840:+', 1), ('scaffold_20:10624:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	13508	intergenic_terminator	-1	2255	intergenic
+TGTGAGTGCTGTGATTGTGC	GCACAATCACAGCACTCACA	1	1	scaffold_3	+	1848886	Amb	1	1	0	[('scaffold_3:1848886:+', 1)]	{'Null:0:+': 0}	13508	intergenic_terminator	-1	2301	intergenic
+AGTACACGTGTCAGCTACGT	ACGTAGCTGACACGTGTACT	1	1	scaffold_3	+	1849106	Amb	1	1	0	[('scaffold_3:1849106:+', 1)]	{'Null:0:+': 0}	13508	intergenic_terminator	-1	2521	intergenic
+GTTCCACAATTGTAGTCAA	TTGACTACAATTGTGGAAC	1	1	scaffold_3	+	1849963	Amb	1	1	0	[('scaffold_3:1849963:+', 1)]	{'Null:0:+': 0}	13508	intergenic_terminator	-1	3378	intergenic
+TTCGTTGGCTTGGGATTAGG	CCTAATCCCAAGCCAACGAA	4	1	scaffold_3	+	1849974	Amb	1	4	3	[('scaffold_3:1849974:+', 1)]	{'pastEnd:4438:-': 3, 'Null:0:+': 0}	13508	intergenic_terminator	-1	3389	intergenic
+CTTATTTCCTTAGAAAGCA	TGCTTTCTAAGGAAATAAG	1	1	scaffold_3	+	1850060	Amb	1	1	0	[('scaffold_3:1850060:+', 1)]	{'Null:0:+': 0}	13508	intergenic_terminator	-1	3475	intergenic
+CTGACGGACGGGCATAGGTG	CACCTATGCCCGTCCGTCAG	6	6	scaffold_3	+	1851281	Amb	1	6	5	[('scaffold_3:1851281:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0, 'pastEnd:1:+': 1, 'pastEnd:7199:+': 2}	13508	intergenic_terminator	-1	4696	intergenic
+ATCTATGTTATCTAGTCGTT	AACGACTAGATAACATAGAT	2	2	scaffold_3	+	1851695	Amb	2	2	0	[('scaffold_3:1851695:+', 2)]	{'Null:0:+': 0}	13508	intergenic_terminator	-1	5110	intergenic
+TTGTTTGGTGTTACTGCCAA	TTGGCAGTAACACCAAACAA	1	1	scaffold_3	+	1853307	Amb	1	1	0	[('scaffold_3:1853307:+', 1)]	{'Null:0:+': 0}	13508	intergenic_terminator	-1	6722	intergenic
+CGTTCGCGGAGGCCGCTCGC	GCGAGCGGCCTCCGCGAACG	3	3	scaffold_3	+	1854208	Amb	3	3	0	[('scaffold_3:1854208:+', 3)]	{'Null:0:+': 0}	13508	intergenic_terminator	-1	7623	intergenic
+TTGGTCGGTTTGGGAGGCGT	ACGCCTCCCAAACCGACCAA	1	1	scaffold_3	+	1854559	Amb	1	1	0	[('scaffold_3:1854559:+', 1)]	{'Null:0:+': 0}	13508	intergenic_terminator	-1	7974	intergenic
+AGTTGAGGGGCGCCGTATTT	AAATACGGCGCCCCTCAACT	2	2	scaffold_3	+	1854864	Amb	2	2	0	[('scaffold_3:1854864:+', 2)]	{'Null:0:+': 0}	13508	intergenic_terminator	-1	8279	intergenic
+TAATTGCCTATGCCTTCTTG	CAAGAAGGCATAGGCAATTA	1	1	scaffold_3	+	1855014	Amb	1	1	0	[('scaffold_3:1855014:+', 1)]	{'Null:0:+': 0}	13508	intergenic_terminator	-1	8429	intergenic
+TGGTGCTTAAAGCGAGACCT	AGGTCTCGCTTTAAGCACCA	3	3	scaffold_3	+	1855161	Amb	2	3	1	[('scaffold_3:1855161:+', 2)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	13508	intergenic_terminator	-1	8576	intergenic
+CTGCCCGTTTCTTTTATAC	GTATAAAAGAAACGGGCAG	4	3	scaffold_3	+	1855608	Amb	2	4	2	[('scaffold_3:1855608:+', 1), ('scaffold_4:641439:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	13508	intergenic_terminator	-1	9023	intergenic
+CACAGCTGTTCTCGACAGAA	TTCTGTCGAGAACAGCTGTG	1	1	scaffold_3	+	1856733	Amb	1	1	0	[('scaffold_3:1856733:+', 1)]	{'Null:0:+': 0}	13508	intergenic_terminator	-1	10148	intergenic
+GTCAACTGATTAAGAAGGTG	CACCTTCTTAATCAGTTGAC	3	3	scaffold_3	+	1857137	Amb	3	3	0	[('scaffold_3:1857137:+', 3)]	{'Null:0:+': 0}	13508	intergenic_terminator	-1	10552	intergenic
+ATAAGTCGTATTTTAACAT	ATGTTAAAATACGACTTAT	7	7	scaffold_3	+	1857276	Amb	1	7	6	[('scaffold_3:1857276:+', 1)]	{'pastEnd:5704:+': 4, 'Null:0:+': 0, 'pastEnd:6501:+': 1, 'pastEnd:1:+': 1}	13508	intergenic_terminator	-1	10691	intergenic
+TAAGCTTTGGATGCTAGTAG	CTACTAGCATCCAAAGCTTA	1	1	scaffold_30	+	13353	Amb	1	1	0	[('scaffold_30:13353:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TACCCGTAGCTTCAAGTTGT	ACAACTTGAAGCTACGGGTA	1	1	scaffold_30	+	14612	Amb	1	1	0	[('scaffold_30:14612:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TGTCGTAGTATTCCGTTGGT	ACCAACGGAATACTACGACA	1	1	scaffold_30	+	16773	Amb	1	1	0	[('scaffold_30:16773:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TTTTCATTCTCATCTCTTCA	TGAAGAGATGAGAATGAAAA	1	1	scaffold_30	+	19306	Amb	1	1	0	[('scaffold_30:19306:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GCATTTGGTCTTCTCATGTT	AACATGAGAAGACCAAATGC	2	2	scaffold_30	+	19350	Amb	2	2	0	[('scaffold_30:19350:+', 2)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GTTATTTGGATTCTGAGGTA	TACCTCAGAATCCAAATAAC	1	1	scaffold_30	+	20090	Amb	1	1	0	[('scaffold_30:20090:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GTAAGTATTGTTGCAGAATT	AATTCTGCAACAATACTTAC	3	3	scaffold_30	+	20531	Amb	3	3	0	[('scaffold_30:20531:+', 3)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GTCGTTTTCCACAGCCAACA	TGTTGGCTGTGGAAAACGAC	1	1	scaffold_30	+	21451	Amb	1	1	0	[('scaffold_30:21451:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TTGTAACTATGTTGAGACGT	ACGTCTCAACATAGTTACAA	5	5	scaffold_30	+	21849	Amb	1	5	4	[('scaffold_30:21849:+', 1)]	{'pastEnd:5704:+': 4, 'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+TTCCTTTTTGTGGCGATTGC	GCAATCGCCACAAAAAGGAA	1	1	scaffold_30	+	21850	Amb	1	1	0	[('scaffold_30:21850:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+CAATCAACGCTCTAGGTGG	CCACCTAGAGCGTTGATTG	2	2	scaffold_30	+	21883	Amb	2	2	0	[('scaffold_30:21883:+', 2)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+ATGTTACCTTCATGGTCAAA	TTTGACCATGAAGGTAACAT	1	0	scaffold_30	+	23587	Amb	1	1	0	[('scaffold_30:23587:+', 1)]	{'Null:0:+': 0}	empty_scaffold	intergenic	-1	NA	intergenic
+GTTATTTTACCTTCAGCGTT	AACGCTGAAGGTAAAATAAC	4	4	scaffold_4	+	151561	Amb	2	4	2	[('scaffold_4:151561:+', 2)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	13574	intergenic_promoter	-1	-393	intergenic
+AGTCAATATAGATTTAGCGC	GCGCTAAATCTATATTGACT	1	1	scaffold_4	+	577375	Amb	1	1	0	[('scaffold_4:577375:+', 1)]	{'Null:0:+': 0}	13743	intergenic_promoter	-1	-974	intergenic
+GGGTGTGTACTTTCGCATAA	TTATGCGAAAGTACACACCC	4	4	scaffold_4	+	616141	Amb	2	4	0	[('scaffold_4:616141:+', 2), ('scaffold_17:312495:-', 2)]	{'Null:0:+': 0}	13752	intergenic_terminator	-1	1247	intergenic
+CCAAAGACATCAAGAGTTAA	TTAACTCTTGATGTCTTTGG	3	0	scaffold_4	-	627650	Amb	3	3	0	[('scaffold_4:627650:-', 3)]	{'Null:0:+': 0}	13756	intergenic_terminator	-1	1462	intergenic
+GATTGTAGTACTATGTAGCG	CGCTACATAGTACTACAATC	5	5	scaffold_4	+	641431	Amb	3	5	1	[('scaffold_4:641431:+', 3), ('scaffold_14:779162:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	13761	coding_region	99	0	exon
+ATAGAGCGTTCGGTTTGGTT	AACCAAACCGAACGCTCTAT	1	1	scaffold_4	+	641432	Amb	1	1	0	[('scaffold_4:641432:+', 1)]	{'Null:0:+': 0}	13761	coding_region	99	0	exon
+ATTAGCATTTATTCCGTTTC	GAAACGGAATAAATGCTAAT	3	3	scaffold_4	+	641432	Amb	1	3	2	[('scaffold_4:641432:+', 1)]	{'pastEnd:5724:+': 2, 'Null:0:+': 0}	13761	coding_region	99	0	exon
+CACATGGAATTCTCCGAGC	GCTCGGAGAATTCCATGTG	3	3	scaffold_4	+	641433	Amb	1	3	2	[('scaffold_4:641433:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	13761	coding_region	99	0	exon
+TCATTATTGTGGTCGTTAAG	CTTAACGACCACAATAATGA	1	1	scaffold_4	+	641433	Amb	1	1	0	[('scaffold_4:641433:+', 1)]	{'Null:0:+': 0}	13761	coding_region	99	0	exon
+TTGTCACGAATCAATCTTGA	TCAAGATTGATTCGTGACAA	5	5	scaffold_4	+	641434	Amb	1	5	4	[('scaffold_4:641434:+', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 4}	13761	coding_region	100	0	exon
+TTGCTATCCTGCACAATAGA	TCTATTGTGCAGGATAGCAA	3	2	scaffold_4	+	641434	Amb	1	3	2	[('scaffold_4:641434:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	13761	coding_region	100	0	exon
+GTGCAATGTGTTACTTTGCT	AGCAAAGTAACACATTGCAC	4	4	scaffold_4	+	641435	Amb	2	4	2	[('scaffold_4:641435:+', 2)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	13761	intergenic_terminator	-1	930	intergenic
+CAGCATTGTAGGTAGCCCCT	AGGGGCTACCTACAATGCTG	4	4	scaffold_4	+	641435	Amb	1	4	3	[('scaffold_4:641435:+', 1)]	{'pastEnd:5704:+': 2, 'pastEnd:5713:+': 1, 'Null:0:+': 0}	13761	intergenic_terminator	-1	930	intergenic
+GTTCATAAACAATTGAGAGT	ACTCTCAATTGTTTATGAAC	1	1	scaffold_4	+	641435	Amb	1	1	0	[('scaffold_4:641435:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	930	intergenic
+ATGTTTAACCTTTCACGTCC	GGACGTGAAAGGTTAAACAT	3	2	scaffold_4	+	641435	Amb	1	3	2	[('scaffold_4:641435:+', 1)]	{'pastEnd:6841:+': 1, 'Null:0:+': 0, 'pastEnd:7772:-': 1}	13761	intergenic_terminator	-1	930	intergenic
+CGTTCCCTCTTTCATTGTGG	CCACAATGAAAGAGGGAACG	2	2	scaffold_4	+	641436	Amb	1	2	1	[('scaffold_4:641436:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	13761	intergenic_terminator	-1	931	intergenic
+GTAGTCAAATGTCTTCAGCT	AGCTGAAGACATTTGACTAC	2	1	scaffold_4	+	641436	Amb	1	2	0	[('scaffold_4:641436:+', 1), ('scaffold_6:59:-', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	931	intergenic
+AAGGCTGTGTTCGACGATTC	GAATCGTCGAACACAGCCTT	4	4	scaffold_4	+	641436	Amb	1	4	3	[('scaffold_4:641436:+', 1)]	{'pastEnd:5729:+': 2, 'Null:0:+': 0, 'pastEnd:1:+': 1}	13761	intergenic_terminator	-1	931	intergenic
+GAGGTGTTTGATGTCGCATC	GATGCGACATCAAACACCTC	3	3	scaffold_4	+	641436	Amb	3	3	0	[('scaffold_4:641436:+', 3)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	931	intergenic
+TTATAGACCGTCTGCAAGGC	GCCTTGCAGACGGTCTATAA	1	1	scaffold_4	+	641436	Amb	1	1	0	[('scaffold_4:641436:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	931	intergenic
+TGGTAAAGTAATCGCCATTT	AAATGGCGATTACTTTACCA	1	1	scaffold_4	+	641436	Amb	1	1	0	[('scaffold_4:641436:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	931	intergenic
+ATCAAGGTTTAGCCCTTATG	CATAAGGGCTAAACCTTGAT	1	1	scaffold_4	+	641436	Amb	1	1	0	[('scaffold_4:641436:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	931	intergenic
+CTTGGGATGACCCTTTTTCT	AGAAAAAGGGTCATCCCAAG	1	1	scaffold_4	+	641436	Amb	1	1	0	[('scaffold_4:641436:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	931	intergenic
+TTATCACTAACCTAGTGTGG	CCACACTAGGTTAGTGATAA	1	1	scaffold_4	+	641436	Amb	1	1	0	[('scaffold_4:641436:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	931	intergenic
+CTTTTGTCATCGCCTTGGCC	GGCCAAGGCGATGACAAAAG	1	1	scaffold_4	+	641436	Amb	1	1	0	[('scaffold_4:641436:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	931	intergenic
+TCTTTACTTTCTTTAAGACC	GGTCTTAAAGAAAGTAAAGA	3	2	scaffold_4	+	641437	Amb	2	3	0	[('scaffold_4:641437:+', 2), ('scaffold_6:1546736:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	932	intergenic
+TTCCAGATTACTATGCTTCT	AGAAGCATAGTAATCTGGAA	3	2	scaffold_4	+	641437	Amb	1	3	2	[('scaffold_4:641437:+', 1)]	{'pastEnd:6286:-': 2, 'Null:0:+': 0}	13761	intergenic_terminator	-1	932	intergenic
+ATTACTAGGAGCATATGCA	TGCATATGCTCCTAGTAAT	3	1	scaffold_4	+	641437	Amb	2	3	1	[('scaffold_4:641437:+', 1), ('scaffold_4:641439:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	13761	intergenic_terminator	-1	932	intergenic
+GGGGGGCTGTTTTAGGATGA	TCATCCTAAAACAGCCCCCC	1	0	scaffold_4	+	641437	Amb	1	1	0	[('scaffold_4:641437:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	932	intergenic
+ACGACTCGGGGGATATACTG	CAGTATATCCCCCGAGTCGT	3	3	scaffold_4	+	641437	Amb	1	3	2	[('scaffold_4:641437:+', 1)]	{'pastEnd:6764:-': 1, 'Null:0:+': 0, 'pastEnd:7741:-': 1}	13761	intergenic_terminator	-1	932	intergenic
+GTCTCTGTTCATCGTCCGCT	AGCGGACGATGAACAGAGAC	1	1	scaffold_4	+	641437	Amb	1	1	0	[('scaffold_4:641437:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	932	intergenic
+ACGGTCGTTGTATCATTTTT	AAAAATGATACAACGACCGT	1	0	scaffold_4	+	641438	Amb	1	1	0	[('scaffold_4:641438:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	933	intergenic
+CAGTCTACTAGTCTAGTCTG	CAGACTAGACTAGTAGACTG	10	8	scaffold_4	+	641438	Amb	2	10	8	[('scaffold_4:641438:+', 2)]	{'pastEnd:5704:+': 1, 'pastEnd:5710:+': 7, 'Null:0:+': 0}	13761	intergenic_terminator	-1	933	intergenic
+CCCGCGCTTGAGTTATTCGG	CCGAATAACTCAAGCGCGGG	1	0	scaffold_4	+	641439	Amb	1	1	0	[('scaffold_4:641439:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	934	intergenic
+ATAATGTCAGGTGTATTCGT	ACGAATACACCTGACATTAT	1	0	scaffold_4	+	641439	Amb	1	1	0	[('scaffold_4:641439:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	934	intergenic
+GCGTAAGGCTACCGCTGTCT	AGACAGCGGTAGCCTTACGC	3	2	scaffold_4	+	641439	Amb	1	3	2	[('scaffold_4:641439:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	13761	intergenic_terminator	-1	934	intergenic
+GCGATGGTGAACTGAATTCG	CGAATTCAGTTCACCATCGC	1	0	scaffold_4	+	641439	Amb	1	1	0	[('scaffold_4:641439:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	934	intergenic
+TCTTTATTCATATGTGCGGA	TCCGCACATATGAATAAAGA	3	2	scaffold_4	+	641439	Amb	1	3	2	[('scaffold_4:641439:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	13761	intergenic_terminator	-1	934	intergenic
+AATGGGGTGAGGGGAAAGAG	CTCTTTCCCCTCACCCCATT	2	2	scaffold_4	+	641439	Amb	1	2	1	[('scaffold_4:641439:+', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 1}	13761	intergenic_terminator	-1	934	intergenic
+CGTTTTTAGGTTATGAGTGC	GCACTCATAACCTAAAAACG	10	7	scaffold_4	+	641439	Amb	3	10	7	[('scaffold_4:641439:+', 3)]	{'pastEnd:5704:+': 7, 'Null:0:+': 0}	13761	intergenic_terminator	-1	934	intergenic
+CATATCTGTTGTAATCAAAC	GTTTGATTACAACAGATATG	2	1	scaffold_4	+	641440	Amb	1	2	0	[('scaffold_4:641440:+', 1), ('scaffold_4:641434:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	935	intergenic
+GATATGAGACCACTGAATAG	CTATTCAGTGGTCTCATATC	1	0	scaffold_4	+	641440	Amb	1	1	0	[('scaffold_4:641440:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	935	intergenic
+CGCCTGATTTCTCCACAGGG	CCCTGTGGAGAAATCAGGCG	4	3	scaffold_4	+	641440	Amb	1	4	3	[('scaffold_4:641440:+', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 3}	13761	intergenic_terminator	-1	935	intergenic
+GATCTCGAATCGCGTGGGTT	AACCCACGCGATTCGAGATC	1	0	scaffold_4	+	641440	Amb	1	1	0	[('scaffold_4:641440:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	935	intergenic
+TTATGGTCAGGGACCGGTAT	ATACCGGTCCCTGACCATAA	2	1	scaffold_4	+	641440	Amb	1	2	1	[('scaffold_4:641440:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	13761	intergenic_terminator	-1	935	intergenic
+TCTTGATACAAGTACCCCAA	TTGGGGTACTTGTATCAAGA	7	4	scaffold_4	+	641441	Amb	3	7	4	[('scaffold_4:641441:+', 2), ('scaffold_28:9662:+', 1)]	{'pastEnd:5704:+': 3, 'pastEnd:5709:+': 1, 'Null:0:+': 0}	13761	intergenic_terminator	-1	936	intergenic
+AGGTATTTTTACTAATGTCA	TGACATTAGTAAAAATACCT	1	0	scaffold_4	+	641442	Amb	1	1	0	[('scaffold_4:641442:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	937	intergenic
+GCCTATCGTTTCCGGCAGTG	CACTGCCGGAAACGATAGGC	1	0	scaffold_4	+	641442	Amb	1	1	0	[('scaffold_4:641442:+', 1)]	{'Null:0:+': 0}	13761	intergenic_terminator	-1	937	intergenic
+TATGAATCATACACAGAATT	AATTCTGTGTATGATTCATA	3	3	scaffold_5	+	103126	Amb	2	3	1	[('scaffold_5:103126:+', 2)]	{'Null:0:+': 0, 'pastEnd:5714:+': 1}	13809	5_prime_UTR	-1	-101	5_prime_UTR
+ATATTACTTTAATGTGCCA	TGGCACATTAAAGTAATAT	4	4	scaffold_5	+	457468	Amb	1	4	2	[('scaffold_5:457468:+', 1), ('scaffold_28:10034:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}	13958	intergenic_promoter	-1	-411	intergenic
+GATAGGGTACAGGTCCAGGG	CCCTGGACCTGTACCCTATC	3	3	scaffold_5	-	595693	Amb	1	3	2	[('scaffold_5:595693:-', 1)]	{'pastEnd:5679:+': 1, 'Null:0:+': 0, 'pastEnd:1:+': 1}	14017	coding_region	60	0	exon
+TAGAGTAGTTACCTGGCTTT	AAAGCCAGGTAACTACTCTA	1	1	scaffold_5	-	823848	Amb	1	1	0	[('scaffold_5:823848:-', 1)]	{'Null:0:+': 0}	14109	intergenic_promoter	-1	-75	intergenic
+CGTCCTGAACTCATTCGCAG	CTGCGAATGAGTTCAGGACG	1	1	scaffold_5	+	823862	Amb	1	1	0	[('scaffold_5:823862:+', 1)]	{'Null:0:+': 0}	14109	intergenic_promoter	-1	-61	intergenic
+TAAGGTGCGAGTACATTTAT	ATAAATGTACTCGCACCTTA	1	1	scaffold_5	+	823862	Amb	1	1	0	[('scaffold_5:823862:+', 1)]	{'Null:0:+': 0}	14109	intergenic_promoter	-1	-61	intergenic
+TTATGGCAAGTATTGGTCCC	GGGACCAATACTTGCCATAA	1	1	scaffold_5	-	825620	Amb	1	1	0	[('scaffold_5:825620:-', 1)]	{'Null:0:+': 0}	14109	coding_region	95	0	intron
+CTGCGAGCTGTATAGGTATG	CATACCTATACAGCTCGCAG	2	2	scaffold_5	+	825630	Amb	2	2	0	[('scaffold_5:825630:+', 2)]	{'Null:0:+': 0}	14109	coding_region	95	0	exon
+CTGCTGGTTTGGTTAGTTAT	ATAACTAACCAAACCAGCAG	2	2	scaffold_5	-	1076931	Amb	1	2	1	[('scaffold_5:1076931:-', 1)]	{'pastEnd:5747:+': 1, 'Null:0:+': 0}	14215	intergenic_promoter	-1	-66	intergenic
+GTTCTATGCTTGCGAGTTC	GAACTCGCAAGCATAGAAC	1	1	scaffold_5	-	1465185	Amb	1	1	0	[('scaffold_5:1465185:-', 1)]	{'Null:0:+': 0}	14388	coding_region	55	0	exon
+CTAAGAGGTGCGTTCGTAAA	TTTACGAACGCACCTCTTAG	1	1	scaffold_5	+	1469519	Amb	1	1	0	[('scaffold_5:1469519:+', 1)]	{'Null:0:+': 0}	14390	coding_region	29	0	intron
+TAGCTAAAAGGTAGGTACCT	AGGTACCTACCTTTTAGCTA	1	1	scaffold_5	+	1589508	Amb	1	1	0	[('scaffold_5:1589508:+', 1)]	{'Null:0:+': 0}	14445	intergenic_promoter	-1	-1345	intergenic
+AATGGATACTTCAGTAGTCA	TGACTACTGAAGTATCCATT	2	2	scaffold_5	+	1666691	Amb	1	2	1	[('scaffold_5:1666691:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	14473	intergenic_promoter	-1	-319	intergenic
+CACGCTGAGCAGTGCGGGGG	CCCCCGCACTGCTCAGCGTG	2	2	scaffold_6	-	55	Amb	2	2	0	[('scaffold_6:55:-', 1), ('scaffold_4:641436:+', 1)]	{'Null:0:+': 0}	14474	3_prime_UTR	-1	3603	3_prime_UTR
+GTGCATAGAAAAGAGGGGGA	TCCCCCTCTTTTCTATGCAC	6	5	scaffold_6	-	56	Amb	2	6	3	[('scaffold_6:56:-', 1), ('scaffold_14:779161:+', 1), ('scaffold_10:47354:+', 1)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0}	14474	3_prime_UTR	-1	3602	3_prime_UTR
+AGAGTTAATGGCATACAATC	GATTGTATGCCATTAACTCT	3	2	scaffold_6	-	59	Amb	1	3	2	[('scaffold_6:59:-', 1)]	{'pastEnd:5704:+': 1, 'pastEnd:5777:+': 1, 'Null:0:+': 0}	14474	3_prime_UTR	-1	3599	3_prime_UTR
+ATCGCCTGGAATAGTGAGGC	GCCTCACTATTCCAGGCGAT	6	6	scaffold_6	-	43323	Amb	2	6	1	[('scaffold_6:43323:-', 3), ('scaffold_6:43485:-', 2)]	{'Null:0:+': 0, 'pastEnd:5705:+': 1}	14488	coding_region	1	0	intron
+TTTTTTATTTCGCTTAACCG	CGGTTAAGCGAAATAAAAAA	1	1	scaffold_6	-	843669	Amb	1	1	0	[('scaffold_6:843669:-', 1)]	{'Null:0:+': 0}	14831	intergenic_promoter	-1	-495	intergenic
+ACTTTTAGGTGTAATTACTG	CAGTAATTACACCTAAAAGT	4	4	scaffold_6	+	843759	Amb	1	4	2	[('scaffold_6:843759:+', 1), ('scaffold_10:155184:-', 1)]	{'pastEnd:5704:+': 1, 'pastEnd:5729:+': 1, 'Null:0:+': 0}	14831	intergenic_promoter	-1	-405	intergenic
+ATTTACGTTTTGGTCAGTA	TACTGACCAAAACGTAAAT	1	1	scaffold_6	+	844286	Amb	1	1	0	[('scaffold_6:844286:+', 1)]	{'Null:0:+': 0}	14831	coding_region	11	0	exon
+ATCTTTTTGTCTGATGATCA	TGATCATCAGACAAAAAGAT	2	1	scaffold_6	+	1546716	Amb	1	2	1	[('scaffold_6:1546716:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	15092	intergenic_promoter	-1	-180	intergenic
+GTGCAGAGATGAGATTTGCT	AGCAAATCTCATCTCTGCAC	1	1	scaffold_6	+	1546727	Amb	1	1	0	[('scaffold_6:1546727:+', 1)]	{'Null:0:+': 0}	15092	intergenic_promoter	-1	-191	intergenic
+CCAGTATATTAGGGTTGCTT	AAGCAACCCTAATATACTGG	1	1	scaffold_6	+	1546732	Amb	1	1	0	[('scaffold_6:1546732:+', 1)]	{'Null:0:+': 0}	15092	intergenic_promoter	-1	-196	intergenic
+AGCGTGGGACATGGGTCCTT	AAGGACCCATGTCCCACGCT	3	0	scaffold_6	+	1546736	Amb	3	3	0	[('scaffold_6:1546736:+', 2), ('scaffold_14:779161:+', 1)]	{'Null:0:+': 0}	15092	intergenic_promoter	-1	-200	intergenic
+GATCGTTTAGCATTCAATGC	GCATTGAATGCTAAACGATC	1	0	scaffold_6	+	1546736	Amb	1	1	0	[('scaffold_6:1546736:+', 1)]	{'Null:0:+': 0}	15092	intergenic_promoter	-1	-200	intergenic
+TCGATCAGGTTACATGACAA	TTGTCATGTAACCTGATCGA	4	3	scaffold_6	+	1546740	Amb	1	4	3	[('scaffold_6:1546740:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0, 'pastEnd:5703:-': 1}	15092	intergenic_promoter	-1	-204	intergenic
+AATGTTGTTGGTATAACCGT	ACGGTTATACCAACAACATT	2	2	scaffold_6	+	1546741	Amb	1	2	1	[('scaffold_6:1546741:+', 1)]	{'Null:0:+': 0, 'pastEnd:5705:+': 1}	15092	intergenic_promoter	-1	-205	intergenic
+TTCGCACCTTCGCTGCGTAC	GTACGCAGCGAAGGTGCGAA	3	3	scaffold_6	+	1546743	Amb	1	3	2	[('scaffold_6:1546743:+', 1)]	{'pastEnd:7032:-': 2, 'Null:0:+': 0}	15092	intergenic_promoter	-1	-207	intergenic
+GGCATGGCCGTTAAGTCGAA	TTCGACTTAACGGCCATGCC	1	0	scaffold_6	+	1546745	Amb	1	1	0	[('scaffold_6:1546745:+', 1)]	{'Null:0:+': 0}	15092	intergenic_promoter	-1	-209	intergenic
+TGTCGATTTTTTGTACGCTA	TAGCGTACAAAAAATCGACA	2	1	scaffold_6	+	1546747	Amb	1	2	1	[('scaffold_6:1546747:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	15092	intergenic_promoter	-1	-211	intergenic
+ATAGTTTACTTCCGGGTTAC	GTAACCCGGAAGTAAACTAT	2	1	scaffold_6	+	1546748	Amb	1	2	0	[('scaffold_6:1546748:+', 1), ('scaffold_4:641434:+', 1)]	{'Null:0:+': 0}	15092	intergenic_promoter	-1	-212	intergenic
+ATTGCCGTGTGTGGCACGTC	GACGTGCCACACACGGCAAT	2	1	scaffold_6	+	1546758	Amb	1	2	1	[('scaffold_6:1546758:+', 1)]	{'pastEnd:5708:+': 1, 'Null:0:+': 0}	15092	intergenic_promoter	-1	-222	intergenic
+CGCAGTTCCGAGCCTATGG	CCATAGGCTCGGAACTGCG	1	1	scaffold_6	-	1546800	Amb	1	1	0	[('scaffold_6:1546800:-', 1)]	{'Null:0:+': 0}	15092	intergenic_promoter	-1	-264	intergenic
+CGGTACAACGCCACAACCTA	TAGGTTGTGGCGTTGTACCG	8	8	scaffold_7	-	123165	Amb	2	8	6	[('scaffold_7:123165:-', 2)]	{'pastEnd:5704:+': 2, 'pastEnd:3948:+': 1, 'Null:0:+': 0, 'pastEnd:1:+': 3}	15153	intergenic_terminator	-1	2473	intergenic
+TTACTCCATTCGCGGGGG	CCCCCGCGAATGGAGTAA	1	1	scaffold_7	+	167978	Amb	1	1	0	[('scaffold_7:167978:+', 1)]	{'Null:0:+': 0}	15168	intergenic_promoter	-1	-397	intergenic
+ACTGGCACAAATTTTTGCCT	AGGCAAAAATTTGTGCCAGT	1	1	scaffold_7	-	213905	Amb	1	1	0	[('scaffold_7:213905:-', 1)]	{'Null:0:+': 0}	15192	coding_region	98	0	exon
+GATATCTGGGCTTTTAGTGT	ACACTAAAAGCCCAGATATC	1	1	scaffold_8	+	63312	Amb	1	1	0	[('scaffold_8:63312:+', 1)]	{'Null:0:+': 0}	15716	coding_region	51	0	intron
+TCCGTGAGGAGTATGTGGAA	TTCCACATACTCCTCACGGA	1	1	scaffold_8	+	137195	Amb	1	1	0	[('scaffold_8:137195:+', 1)]	{'Null:0:+': 0}	15748	coding_region	93	0	exon
+TGGTACTCTTGTTGCGTGTG	CACACGCAACAAGAGTACCA	4	4	scaffold_8	-	502734	Amb	3	4	1	[('scaffold_8:502734:-', 3)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	15898	3_prime_UTR	-1	1102	3_prime_UTR
+AGGTCCCCATAGTTCTTCAT	ATGAAGAACTATGGGGACCT	3	3	scaffold_8	+	582563	Amb	2	3	1	[('scaffold_8:582563:+', 2)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	15934	intergenic_promoter	-1	-29	intergenic
+GACCCTTTCCTTCTTTGCTT	AAGCAAAGAAGGAAAGGGTC	6	6	scaffold_8	+	582741	Amb	3	6	3	[('scaffold_8:582741:+', 3)]	{'pastEnd:7356:-': 3, 'Null:0:+': 0}	15934	intergenic_promoter	-1	-207	intergenic
+ACACCACGGGCAAACCGCGG	CCGCGGTTTGCCCGTGGTGT	6	6	scaffold_8	+	582745	Amb	2	6	4	[('scaffold_8:582745:+', 2)]	{'pastEnd:5704:+': 4, 'Null:0:+': 0}	15934	intergenic_promoter	-1	-211	intergenic
+ACTAGTTATGTCCCGGTCGT	ACGACCGGGACATAACTAGT	1	1	scaffold_8	+	582854	Amb	1	1	0	[('scaffold_8:582854:+', 1)]	{'Null:0:+': 0}	15934	intergenic_promoter	-1	-320	intergenic
+ATTATTCCAAGGTGCGTGCG	CGCACGCACCTTGGAATAAT	2	2	scaffold_8	+	582885	Amb	1	2	1	[('scaffold_8:582885:+', 1)]	{'Null:0:+': 0, 'pastEnd:7129:-': 1}	15934	intergenic_promoter	-1	-351	intergenic
+TTCTTGGTTTGCTCAGGCT	AGCCTGAGCAAACCAAGAA	1	1	scaffold_8	-	582994	Amb	1	1	0	[('scaffold_8:582994:-', 1)]	{'Null:0:+': 0}	15935	5_prime_UTR	-1	-243	5_prime_UTR
+CGATTTCAAAGCGGCTCGTT	AACGAGCCGCTTTGAAATCG	1	1	scaffold_8	-	587093	Amb	1	1	0	[('scaffold_8:587093:-', 1)]	{'Null:0:+': 0}	15936	coding_region	84	0	exon
+TCTGTTGATTTCTGTTCCAA	TTGGAACAGAAATCAACAGA	1	1	scaffold_8	+	588749	Amb	1	1	0	[('scaffold_8:588749:+', 1)]	{'Null:0:+': 0}	15936	coding_region	20	0	exon
+GGGCGATTATCTTTGTTT	AAACAAAGATAATCGCCC	8	8	scaffold_8	-	589646	Amb	3	8	5	[('scaffold_8:589646:-', 3)]	{'pastEnd:5704:+': 5, 'Null:0:+': 0}	15936	intergenic_promoter	-1	-367	intergenic
+CCCGTCTGCAATGTCGCAAG	CTTGCGACATTGCAGACGGG	2	1	scaffold_8	+	589801	Amb	1	2	1	[('scaffold_8:589801:+', 1)]	{'Null:0:+': 0, 'pastEnd:7741:-': 1}	15936	intergenic_promoter	-1	-522	intergenic
+TGTAACTCGTTCCTGTCTTT	AAAGACAGGAACGAGTTACA	3	3	scaffold_8	-	589822	Amb	2	3	1	[('scaffold_8:589822:-', 2)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	15936	intergenic_promoter	-1	-543	intergenic
+CAGCTCTCTTGCGGTTGAAG	CTTCAACCGCAAGAGAGCTG	3	3	scaffold_8	-	589992	Amb	3	3	0	[('scaffold_8:589992:-', 3)]	{'Null:0:+': 0}	15936	intergenic_promoter	-1	-713	intergenic
+GTTCTCTCTATTCCTTGAGA	TCTCAAGGAATAGAGAGAAC	4	4	scaffold_8	+	589993	Amb	1	4	3	[('scaffold_8:589993:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0, 'pastEnd:1:+': 1}	15936	intergenic_promoter	-1	-714	intergenic
+TTGGTTTTCATGGTCTAG	CTAGACCATGAAAACCAA	1	1	scaffold_8	+	590148	Amb	1	1	0	[('scaffold_8:590148:+', 1)]	{'Null:0:+': 0}	15937	intergenic_promoter	-1	-867	intergenic
+TGCTCGCATTATTAATACGT	ACGTATTAATAATGCGAGCA	2	0	scaffold_8	+	591232	Amb	2	2	0	[('scaffold_8:591232:+', 2)]	{'Null:0:+': 0}	15937	coding_region	88	0	exon
+ATGCCTATTAATGTGTGGTG	CACCACACATTAATAGGCAT	8	8	scaffold_8	+	593249	Amb	6	8	2	[('scaffold_8:593249:+', 6)]	{'pastEnd:4350:+': 2, 'Null:0:+': 0}	15938	coding_region	19	0	exon
+TACGAGTTTTTAAGACTCAC	GTGAGTCTTAAAAACTCGTA	4	4	scaffold_8	+	978001	Amb	1	4	3	[('scaffold_8:978001:+', 1)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0}	16115	coding_region	43	0	exon
+AATTATGGCACATTGGTGCG	CGCACCAATGTGCCATAATT	3	3	scaffold_8	+	978036	Amb	2	3	1	[('scaffold_8:978036:+', 2)]	{'Null:0:+': 0, 'pastEnd:1:+': 1}	16115	coding_region	44	0	intron
+ATCCATTATGTAGTTTAACC	GGTTAAACTACATAATGGAT	3	3	scaffold_8	+	978275	Amb	3	3	0	[('scaffold_8:978275:+', 3)]	{'Null:0:+': 0}	16115	coding_region	52	0	intron
+ATAGTATTTTGGGTGGTTTC	GAAACCACCCAAAATACTAT	7	5	scaffold_8	+	978284	Amb	2	7	5	[('scaffold_8:978284:+', 2)]	{'pastEnd:5704:+': 3, 'pastEnd:5822:+': 2, 'Null:0:+': 0}	16115	coding_region	52	0	intron
+CCGTAGCGATGCCTAGCGTG	CACGCTAGGCATCGCTACGG	4	4	scaffold_8	+	979076	Amb	2	4	2	[('scaffold_8:979076:+', 2)]	{'Null:0:+': 0, 'pastEnd:1:+': 2}	16115	coding_region	80	0	exon
+TACTGTTCTGTCTTACATGT	ACATGTAAGACAGAACAGTA	1	1	scaffold_8	+	985653	Amb	1	1	0	[('scaffold_8:985653:+', 1)]	{'Null:0:+': 0}	16120	coding_region	65	0	exon
+AAGGCTTGTGACCTGTCAGC	GCTGACAGGTCACAAGCCTT	2	2	scaffold_8	+	985733	Amb	2	2	0	[('scaffold_8:985733:+', 2)]	{'Null:0:+': 0}	16120	coding_region	62	0	exon
+AATGGTTTCGACGAGGTGAA	TTCACCTCGTCGAAACCATT	1	1	scaffold_8	+	986893	Amb	1	1	0	[('scaffold_8:986893:+', 1)]	{'Null:0:+': 0}	16120	coding_region	22	0	exon
+GCAGTTTGTTATCAAGAGGC	GCCTCTTGATAACAAACTGC	1	1	scaffold_8	+	988674	Amb	1	1	0	[('scaffold_8:988674:+', 1)]	{'Null:0:+': 0}	16121	coding_region	90	0	exon
+GGATCTGAGCATGTATATAG	CTATATACATGCTCAGATCC	2	2	scaffold_8	+	1211010	Amb	1	2	1	[('scaffold_8:1211010:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}	16216	intergenic_terminator	-1	2575	intergenic
+TTAGCATTCTTGTAGCTGTG	CACAGCTACAAGAATGCTAA	1	1	scaffold_9	+	169358	Amb	1	1	0	[('scaffold_9:169358:+', 1)]	{'Null:0:+': 0}	16362	intergenic_promoter	-1	-1906	intergenic
+CCTAGCGATATAGTGGGGGT	ACCCCCACTATATCGCTAGG	3	3	scaffold_9	-	224727	Amb	2	3	1	[('scaffold_9:224727:-', 2)]	{'pastEnd:5710:+': 1, 'Null:0:+': 0}	16388	coding_region	3	0	exon
+TTTGATATTGATTTGTTACC	GGTAACAAATCAATATCAAA	2	0	scaffold_9	-	264837	Amb	1	2	0	[('scaffold_9:264837:-', 1), ('scaffold_13:402975:+', 1)]	{'Null:0:+': 0}	16401	intergenic_terminator	-1	7451	intergenic
+GGCTTCTTGTATGGTGGAAG	CTTCCACCATACAAGAAGCC	3	3	scaffold_9	+	664344	Amb	2	3	1	[('scaffold_9:664344:+', 2)]	{'Null:0:+': 0, 'pastEnd:1:+': 1}	16570	intergenic_terminator	-1	2523	intergenic

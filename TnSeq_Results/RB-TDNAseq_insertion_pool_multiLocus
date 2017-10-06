@@ -1,0 +1,281 @@
+barcode	rcbarcode	nTot	n	scaffold	strand	pos	type	nMainLocation	nTot	nPastEnd	All genomic mappings	All pastEnd mappings
+CCTGGGAGTGCGCGATTTCT	AGAAATCGCGCACTCCCAGG	2	2	scaffold_6	+	787890	Multi	1	2	0	[('scaffold_6:787890:+', 1), ('scaffold_7:117371:-', 1)]	{'Null:0:+': 0}
+TTGGAAGCGATACCGACTGT	ACAGTCGGTATCGCTTCCAA	4	4	scaffold_15	-	14534	Multi	2	4	0	[('scaffold_15:14534:-', 2), ('scaffold_15:14638:+', 2)]	{'Null:0:+': 0}
+CATAGATTAATCAATGGAGG	CCTCCATTGATTAATCTATG	11	8	scaffold_12	-	542716	Multi	5	11	4	[('scaffold_12:542716:-', 5), ('scaffold_12:542727:+', 2)]	{'pastEnd:5718:+': 3, 'Null:0:+': 0, 'pastEnd:1:+': 1}
+CAGACTGTATATATGATCAT	ATGATCATATATACAGTCTG	4	4	scaffold_7	+	780599	Multi	3	4	0	[('scaffold_7:780599:+', 3), ('scaffold_7:780588:-', 1)]	{'Null:0:+': 0}
+CGGGTACGTTGGGAAGTGCT	AGCACTTCCCAACGTACCCG	2	2	scaffold_14	+	130522	Multi	1	2	0	[('scaffold_14:130522:+', 1), ('scaffold_14:130511:-', 1)]	{'Null:0:+': 0}
+CACACTGCTTGTATGTCCAT	ATGGACATACAAGCAGTGTG	6	3	scaffold_2	+	1748465	Multi	3	6	2	[('scaffold_2:1748465:+', 3), ('scaffold_2:1748795:+', 1)]	{'Null:0:+': 0, 'pastEnd:5705:+': 2}
+TTTTACTCTGATTAGACAGA	TCTGTCTAATCAGAGTAAAA	19	19	scaffold_5	+	1219848	Multi	3	19	15	[('scaffold_5:1219848:+', 3), ('scaffold_5:1219830:-', 1)]	{'pastEnd:5704:+': 13, 'pastEnd:5726:+': 1, 'Null:0:+': 0, 'pastEnd:5703:-': 1}
+ATTGCGGGTCATTGTTGGT	ACCAACAATGACCCGCAAT	9	9	scaffold_13	-	295920	Multi	4	9	3	[('scaffold_13:295920:-', 4), ('scaffold_13:295935:+', 1), ('scaffold_6:1088772:-', 1)]	{'pastEnd:5706:+': 2, 'Null:0:+': 0, 'pastEnd:5707:+': 1}
+CACCAGATTATACATCGCAC	GTGCGATGTATAATCTGGTG	4	4	scaffold_2	+	935927	Multi	3	4	0	[('scaffold_2:935927:+', 3), ('scaffold_4:276162:+', 1)]	{'Null:0:+': 0}
+TGAAACCTCGTCAACGTAGT	ACTACGTTGACGAGGTTTCA	2	2	scaffold_10	-	152817	Multi	1	2	0	[('scaffold_10:152817:-', 1), ('scaffold_10:152859:+', 1)]	{'Null:0:+': 0}
+TTGACTAAGCGTGTCACTGT	ACAGTGACACGCTTAGTCAA	5	5	scaffold_18	+	154954	Multi	2	5	2	[('scaffold_18:154954:+', 2), ('scaffold_18:154885:-', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}
+AGCGGGCTTGTCTGTTTGCA	TGCAAACAGACAAGCCCGCT	8	6	scaffold_16	-	117919	Multi	3	8	3	[('scaffold_16:117919:-', 3), ('scaffold_16:117934:+', 2)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0}
+GCCGTGAATGTCTGCGGAG	CTCCGCAGACATTCACGGC	9	9	scaffold_15	-	28427	Multi	4	9	0	[('scaffold_15:28427:-', 4), ('scaffold_7:344713:+', 4), ('scaffold_7:344714:-', 1)]	{'Null:0:+': 0}
+ATATGTCTCTCTCGTAAACG	CGTTTACGAGAGAGACATAT	4	3	scaffold_5	-	475932	Multi	2	4	1	[('scaffold_5:475932:-', 2), ('scaffold_5:475952:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+TTGCATTATCTCAGTGTG	CACACTGAGATAATGCAA	3	3	scaffold_2	-	1808326	Multi	2	3	0	[('scaffold_2:1808326:-', 2), ('scaffold_2:1808325:-', 1)]	{'Null:0:+': 0}
+TTTCTGCACCGGCTTATGTG	CACATAAGCCGGTGCAGAAA	6	5	scaffold_10	+	886369	Multi	3	6	2	[('scaffold_10:886369:+', 3), ('scaffold_6:756054:+', 1)]	{'pastEnd:5748:+': 1, 'Null:0:+': 0, 'pastEnd:1403:-': 1}
+TGATGAGCTGGTCGTCCATG	CATGGACGACCAGCTCATCA	3	3	scaffold_9	+	1254633	Multi	2	3	0	[('scaffold_9:1254633:+', 2), ('scaffold_9:1254623:-', 1)]	{'Null:0:+': 0}
+CCTCGAAAAAGTATTCTAGG	CCTAGAATACTTTTTCGAGG	2	2	scaffold_16	+	418666	Multi	1	2	0	[('scaffold_16:418666:+', 1), ('scaffold_16:430555:-', 1)]	{'Null:0:+': 0}
+CTTCCGTGATTGTTTCTCAT	ATGAGAAACAATCACGGAAG	7	6	scaffold_2	-	636069	Multi	1	7	5	[('scaffold_2:636069:-', 1), ('scaffold_16:280627:+', 1)]	{'pastEnd:5704:+': 1, 'pastEnd:5710:+': 2, 'Null:0:+': 0, 'pastEnd:1:+': 1, 'pastEnd:5755:+': 1}
+ACGCTTGCACAACAAATGTG	CACATTTGTTGTGCAAGCGT	6	6	scaffold_16	-	204573	Multi	3	6	2	[('scaffold_16:204573:-', 3), ('scaffold_18:240685:-', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}
+TTAATTATCCAGGTCGGTAG	CTACCGACCTGGATAATTAA	2	2	scaffold_12	-	362758	Multi	1	2	0	[('scaffold_12:362758:-', 1), ('scaffold_12:362769:+', 1)]	{'Null:0:+': 0}
+CGTTGGCTCATATTTTTACG	CGTAAAAATATGAGCCAACG	2	2	scaffold_9	-	548562	Multi	1	2	0	[('scaffold_9:548562:-', 1), ('scaffold_9:548561:-', 1)]	{'Null:0:+': 0}
+ACATTTCACGGGCTCCTCG	CGAGGAGCCCGTGAAATGT	2	1	scaffold_9	-	108411	Multi	1	2	0	[('scaffold_9:108411:-', 1), ('scaffold_9:112758:+', 1)]	{'Null:0:+': 0}
+TTACTTGTTATTCTCTAGTT	AACTAGAGAATAACAAGTAA	4	2	scaffold_10	+	394649	Multi	2	4	1	[('scaffold_10:394649:+', 2), ('scaffold_10:394629:-', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+AGGGCTAGCTTCTCGCGCG	CGCGCGAGAAGCTAGCCCT	15	14	scaffold_12	+	814876	Multi	3	15	11	[('scaffold_12:814876:+', 3), ('scaffold_12:814859:-', 1)]	{'pastEnd:5704:+': 9, 'Null:0:+': 0, 'pastEnd:5727:+': 2}
+ACCGGGTGTCGTAGTATGAA	TTCATACTACGACACCCGGT	3	3	scaffold_10	+	441245	Multi	2	3	0	[('scaffold_10:441245:+', 2), ('scaffold_2:93286:+', 1)]	{'Null:0:+': 0}
+GTGGTTAGGCTGGGAGGGAT	ATCCCTCCCAGCCTAACCAC	9	9	scaffold_6	+	765079	Multi	2	9	6	[('scaffold_6:765079:+', 2), ('scaffold_6:765062:-', 1)]	{'pastEnd:5704:+': 5, 'pastEnd:5666:-': 1, 'Null:0:+': 0}
+GTTCTGAACGTTCAGGCCC	GGGCCTGAACGTTCAGAAC	2	2	scaffold_2	+	296472	Multi	1	2	0	[('scaffold_2:296472:+', 1), ('scaffold_2:296462:-', 1)]	{'Null:0:+': 0}
+TCGTGCGGGACTATAGCTTG	CAAGCTATAGTCCCGCACGA	2	2	scaffold_4	+	404108	Multi	1	2	0	[('scaffold_4:404108:+', 1), ('scaffold_4:404109:+', 1)]	{'Null:0:+': 0}
+TCACTTTACTTATGCGCATA	TATGCGCATAAGTAAAGTGA	9	9	scaffold_11	-	388044	Multi	2	9	6	[('scaffold_11:388044:-', 2), ('scaffold_11:388065:+', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 6}
+AACGGGAACCCTCTAGTTAG	CTAACTAGAGGGTTCCCGTT	6	6	scaffold_2	-	836847	Multi	3	6	2	[('scaffold_2:836847:-', 3), ('scaffold_2:832949:+', 1)]	{'Null:0:+': 0, 'pastEnd:5703:-': 1, 'pastEnd:1:+': 1}
+TCTATGTTACGCCCAGATAT	ATATCTGGGCGTAACATAGA	6	6	scaffold_3	-	879457	Multi	2	6	3	[('scaffold_3:879457:-', 2), ('scaffold_3:879470:+', 1)]	{'pastEnd:5713:+': 3, 'Null:0:+': 0}
+GTGGGTGAGGCTACTCCATG	CATGGAGTAGCCTCACCCAC	3	2	scaffold_3	+	1561024	Multi	2	3	0	[('scaffold_3:1561024:+', 2), ('scaffold_3:1561031:+', 1)]	{'Null:0:+': 0}
+TATATATATAGGGTTCTAGA	TCTAGAACCCTATATATATA	3	3	scaffold_13	-	109306	Multi	2	3	0	[('scaffold_13:109306:-', 2), ('scaffold_13:286187:-', 1)]	{'Null:0:+': 0}
+CGCCAAATTTATCTGATATA	TATATCAGATAAATTTGGCG	5	5	scaffold_11	-	904241	Multi	1	5	3	[('scaffold_11:904241:-', 1), ('scaffold_11:904255:+', 1)]	{'pastEnd:5701:+': 2, 'Null:0:+': 0, 'pastEnd:1:+': 1}
+TACTTCCAACTTTCAATCT	AGATTGAAAGTTGGAAGTA	3	2	scaffold_12	-	216131	Multi	1	3	1	[('scaffold_12:216131:-', 1), ('scaffold_12:279307:-', 1)]	{'Null:0:+': 0, 'pastEnd:5707:+': 1}
+GAGCGCCATCACCCCAATCA	TGATTGGGGTGATGGCGCTC	8	8	scaffold_12	+	453719	Multi	2	8	5	[('scaffold_12:453719:+', 2), ('scaffold_16:283558:+', 1)]	{'pastEnd:5704:+': 4, 'pastEnd:5703:+': 1, 'Null:0:+': 0}
+TTTGAACCGATGACTTTCC	GGAAAGTCATCGGTTCAAA	4	4	scaffold_9	+	548691	Multi	1	4	2	[('scaffold_9:548691:+', 1), ('scaffold_9:548677:-', 1)]	{'Null:0:+': 0, 'pastEnd:5711:+': 2}
+ATAATTCATTTACCAGGGGC	GCCCCTGGTAAATGAATTAT	2	1	scaffold_14	+	307235	Multi	1	2	0	[('scaffold_14:307235:+', 1), ('scaffold_15:80687:+', 1)]	{'Null:0:+': 0}
+CTTTTGGGAAGCATTAGCGC	GCGCTAATGCTTCCCAAAAG	3	3	scaffold_12	+	322334	Multi	2	3	0	[('scaffold_12:322334:+', 2), ('scaffold_12:322324:-', 1)]	{'Null:0:+': 0}
+TCAAGAATCAGTGCTAAGTG	CACTTAGCACTGATTCTTGA	3	3	scaffold_11	-	745816	Multi	2	3	0	[('scaffold_11:745816:-', 2), ('scaffold_11:745833:+', 1)]	{'Null:0:+': 0}
+AGATATTTCCGGCTGATCCT	AGGATCAGCCGGAAATATCT	3	3	scaffold_1	+	625885	Multi	1	3	1	[('scaffold_1:625885:+', 1), ('scaffold_1:625884:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+CAAAGTTCTTACTCTGGATA	TATCCAGAGTAAGAACTTTG	4	4	scaffold_5	+	1149135	Multi	2	4	1	[('scaffold_5:1149135:+', 2), ('scaffold_5:1149123:-', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+TTGTGGTCAGCGAGTGTAAA	TTTACACTCGCTGACCACAA	7	7	scaffold_2	-	954024	Multi	4	7	0	[('scaffold_2:954024:-', 4), ('scaffold_2:761641:-', 3)]	{'Null:0:+': 0}
+AGTGAGTGGATGTTATACCC	GGGTATAACATCCACTCACT	4	4	scaffold_3	-	1718596	Multi	3	4	0	[('scaffold_3:1718596:-', 3), ('scaffold_3:1718610:+', 1)]	{'Null:0:+': 0}
+CGCACACATGTCTTGTGCCT	AGGCACAAGACATGTGTGCG	5	5	scaffold_10	-	212138	Multi	3	5	0	[('scaffold_10:212138:-', 3), ('scaffold_10:212177:+', 2)]	{'Null:0:+': 0}
+AACATCCATATATGGCGTGA	TCACGCCATATATGGATGTT	4	4	scaffold_8	+	339209	Multi	2	4	1	[('scaffold_8:339209:+', 2), ('scaffold_8:339196:-', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 1}
+CGAATCTTGTGTTGTAACCG	CGGTTACAACACAAGATTCG	5	5	scaffold_1	-	500685	Multi	3	5	1	[('scaffold_1:500685:-', 3), ('scaffold_1:500695:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+TCGCGTATGGCAGCTTACAA	TTGTAAGCTGCCATACGCGA	9	9	scaffold_18	+	62264	Multi	3	9	5	[('scaffold_18:62264:+', 3), ('scaffold_18:62253:-', 1)]	{'pastEnd:5704:+': 1, 'pastEnd:148:+': 1, 'Null:0:+': 0, 'pastEnd:1:+': 3}
+AGTCTCCCATTTTTTCCGTT	AACGGAAAAAATGGGAGACT	9	7	scaffold_15	-	516596	Multi	2	9	6	[('scaffold_15:516596:-', 2), ('scaffold_15:523809:+', 1)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0, 'pastEnd:5711:+': 3}
+TCTGGTTTAAGTGCAAGTAT	ATACTTGCACTTAAACCAGA	2	2	scaffold_1	+	1712173	Multi	1	2	0	[('scaffold_1:1712173:+', 1), ('scaffold_1:1716988:-', 1)]	{'Null:0:+': 0}
+AGTTTCGACGCCCAGGTAAT	ATTACCTGGGCGTCGAAACT	4	2	scaffold_5	-	632792	Multi	2	4	1	[('scaffold_5:632792:-', 2), ('scaffold_5:632822:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+TATGACGCGTGCTACCATAT	ATATGGTAGCACGCGTCATA	5	5	scaffold_5	+	1219986	Multi	2	5	2	[('scaffold_5:1219986:+', 2), ('scaffold_8:1106760:-', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 2}
+ACGCCGTTATGTTTTTGTTC	GAACAAAAACATAACGGCGT	4	4	scaffold_1	-	22314	Multi	1	4	2	[('scaffold_1:22314:-', 1), ('scaffold_1:22313:-', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}
+ATGGTAATTCTTCATGCTTG	CAAGCATGAAGAATTACCAT	9	9	scaffold_6	-	1161239	Multi	2	9	6	[('scaffold_6:1161239:-', 2), ('scaffold_12:579917:-', 1)]	{'pastEnd:5704:+': 4, 'pastEnd:143:+': 1, 'Null:0:+': 0, 'pastEnd:1:+': 1}
+TCGCGCTTTGTAATTGTTTA	TAAACAATTACAAAGCGCGA	3	2	scaffold_1	+	1866243	Multi	2	3	0	[('scaffold_1:1866243:+', 2), ('scaffold_1:1866231:-', 1)]	{'Null:0:+': 0}
+GATTTAGGTATGCGGCGTCC	GGACGCCGCATACCTAAATC	8	8	scaffold_7	+	860928	Multi	2	8	5	[('scaffold_7:860928:+', 2), ('scaffold_3:91694:+', 1)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0, 'pastEnd:1:+': 2}
+ATCTTGACCGAGTTAATGCA	TGCATTAACTCGGTCAAGAT	5	5	scaffold_6	+	1046315	Multi	3	5	0	[('scaffold_6:1046315:+', 3), ('scaffold_4:465285:-', 2)]	{'Null:0:+': 0}
+ATACGGTTCATATATACACA	TGTGTATATATGAACCGTAT	13	11	scaffold_2	+	179025	Multi	3	13	9	[('scaffold_2:179025:+', 3), ('scaffold_9:356567:+', 1)]	{'pastEnd:5704:+': 6, 'Null:0:+': 0, 'pastEnd:7741:-': 1, 'pastEnd:5727:+': 2}
+CGACTCGTTATGTTAATCCG	CGGATTAACATAACGAGTCG	3	3	scaffold_5	-	110614	Multi	2	3	0	[('scaffold_5:110614:-', 2), ('scaffold_6:1438380:+', 1)]	{'Null:0:+': 0}
+TATCATTGCGTACCTTTTGA	TCAAAAGGTACGCAATGATA	3	3	scaffold_11	-	405932	Multi	1	3	1	[('scaffold_11:405932:-', 1), ('scaffold_11:720942:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+CAATGGGAGGATTTATAGGG	CCCTATAAATCCTCCCATTG	13	12	scaffold_17	+	265367	Multi	4	13	6	[('scaffold_17:265367:+', 4), ('scaffold_17:265351:-', 3)]	{'pastEnd:5704:+': 2, 'pastEnd:234:+': 2, 'Null:0:+': 0, 'pastEnd:5703:-': 1, 'pastEnd:7754:-': 1}
+TGGGTCTTTCGATTGTGGTT	AACCACAATCGAAAGACCCA	5	5	scaffold_5	-	412557	Multi	3	5	1	[('scaffold_5:412557:-', 3), ('scaffold_5:412572:+', 1)]	{'pastEnd:5710:+': 1, 'Null:0:+': 0}
+TGTCGTGAATCTGGCATCCT	AGGATGCCAGATTCACGACA	3	3	scaffold_8	-	658934	Multi	1	3	1	[('scaffold_8:658934:-', 1), ('scaffold_8:658957:+', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 1}
+AATTGATAAAAGATTATCTC	GAGATAATCTTTTATCAATT	12	12	scaffold_11	+	620143	Multi	2	12	9	[('scaffold_11:620143:+', 2), ('scaffold_11:572965:+', 1)]	{'pastEnd:5712:+': 3, 'pastEnd:5708:+': 2, 'pastEnd:7939:-': 1, 'pastEnd:1:+': 1, 'pastEnd:5714:+': 2, 'Null:0:+': 0}
+TATTGGGGAGCACCGGGG	CCCCGGTGCTCCCCAATA	10	6	scaffold_2	+	1409612	Multi	4	10	4	[('scaffold_2:1409612:+', 4), ('scaffold_2:1409590:-', 2)]	{'Null:0:+': 0, 'pastEnd:1:+': 4}
+TCTGTGTTGTTAGCGGCAGA	TCTGCCGCTAACAACACAGA	5	5	scaffold_6	-	1388783	Multi	2	5	2	[('scaffold_6:1388783:-', 2), ('scaffold_6:1388797:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}
+TTCCGACTCTGACGTTGAG	CTCAACGTCAGAGTCGGAA	2	2	scaffold_18	+	319070	Multi	1	2	0	[('scaffold_18:319070:+', 1), ('scaffold_18:319047:-', 1)]	{'Null:0:+': 0}
+GTTTTGTGTAAAGATATAAT	ATTATATCTTTACACAAAAC	8	8	scaffold_7	+	264393	Multi	2	8	5	[('scaffold_7:264393:+', 2), ('scaffold_15:405179:+', 1)]	{'pastEnd:5704:+': 5, 'Null:0:+': 0}
+AGCTGTTTCCAGCGGCAAAT	ATTTGCCGCTGGAAACAGCT	3	3	scaffold_3	-	746211	Multi	2	3	0	[('scaffold_3:746211:-', 2), ('scaffold_3:746226:+', 1)]	{'Null:0:+': 0}
+GCCACCGCGTTCAGTTCTGT	ACAGAACTGAACGCGGTGGC	10	10	scaffold_11	-	858092	Multi	3	10	6	[('scaffold_11:858092:-', 3), ('scaffold_12:107733:-', 1)]	{'pastEnd:5704:+': 6, 'Null:0:+': 0}
+TGAAGTTTTTGGTACGCTTC	GAAGCGTACCAAAAACTTCA	8	8	scaffold_16	-	261934	Multi	3	8	3	[('scaffold_16:261934:-', 3), ('scaffold_16:230150:+', 2)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0, 'pastEnd:1:+': 2}
+AGAAGGCTGCTGCACCCCTG	CAGGGGTGCAGCAGCCTTCT	4	4	scaffold_1	-	1678507	Multi	2	4	0	[('scaffold_1:1678507:-', 2), ('scaffold_1:1678522:+', 2)]	{'Null:0:+': 0}
+TAAGGATTTAGGATTCTATT	AATAGAATCCTAAATCCTTA	2	1	scaffold_14	+	121294	Multi	1	2	0	[('scaffold_14:121294:+', 1), ('scaffold_14:168533:+', 1)]	{'Null:0:+': 0}
+GGTAATATGTGGATGTTGGC	GCCAACATCCACATATTACC	3	3	scaffold_16	-	344283	Multi	2	3	0	[('scaffold_16:344283:-', 2), ('scaffold_16:344302:+', 1)]	{'Null:0:+': 0}
+CTAGTTCTGTTTAACAGTT	AACTGTTAAACAGAACTAG	3	3	scaffold_1	-	2011398	Multi	1	3	1	[('scaffold_1:2011398:-', 1), ('scaffold_3:879625:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+GCGAATCTGTTATCGAATGA	TCATTCGATAACAGATTCGC	4	4	scaffold_15	-	97330	Multi	2	4	0	[('scaffold_15:97330:-', 2), ('scaffold_6:1335198:-', 1), ('scaffold_15:97331:+', 1)]	{'Null:0:+': 0}
+GCTTGTGTAAAAATCCCAGA	TCTGGGATTTTTACACAAGC	4	4	scaffold_9	-	11628	Multi	3	4	0	[('scaffold_9:11628:-', 3), ('scaffold_9:11657:+', 1)]	{'Null:0:+': 0}
+GATTGCCACCCTGTGACTAC	GTAGTCACAGGGTGGCAATC	4	3	scaffold_15	-	62409	Multi	2	4	1	[('scaffold_15:62409:-', 2), ('scaffold_15:62403:-', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 1}
+TTTTAAATCACACAATGGCG	CGCCATTGTGTGATTTAAAA	3	2	scaffold_5	-	124165	Multi	2	3	0	[('scaffold_5:124165:-', 2), ('scaffold_5:1056952:-', 1)]	{'Null:0:+': 0}
+TGTGGCTTTCATGCCGGCT	AGCCGGCATGAAAGCCACA	21	21	scaffold_3	-	1537729	Multi	4	21	15	[('scaffold_3:1537729:-', 4), ('scaffold_3:1537745:+', 2)]	{'Null:0:+': 0, 'pastEnd:1:+': 15}
+GTGTACGGCCCTTACGGGAC	GTCCCGTAAGGGCCGTACAC	6	5	scaffold_3	-	236356	Multi	2	6	2	[('scaffold_3:236356:-', 2), ('scaffold_3:237842:-', 1), ('scaffold_3:236345:-', 1)]	{'pastEnd:5772:+': 2, 'Null:0:+': 0}
+GCCTGTCATTGCGTGTTGCT	AGCAACACGCAATGACAGGC	11	11	scaffold_2	+	1731360	Multi	7	11	0	[('scaffold_2:1731360:+', 7), ('scaffold_10:371087:+', 3), ('scaffold_2:1731360:-', 1)]	{'Null:0:+': 0}
+AAAATCTTGTTAGTTCGGT	ACCGAACTAACAAGATTTT	3	3	scaffold_13	-	352991	Multi	2	3	0	[('scaffold_13:352991:-', 2), ('scaffold_12:157044:-', 1)]	{'Null:0:+': 0}
+CCTTCTCTTGTCTGATTTGT	ACAAATCAGACAAGAGAAGG	2	2	scaffold_1	-	2099023	Multi	1	2	0	[('scaffold_1:2099023:-', 1), ('scaffold_1:2099022:-', 1)]	{'Null:0:+': 0}
+GCCTGAATCCTAATGGGGGC	GCCCCCATTAGGATTCAGGC	12	12	scaffold_10	+	54760	Multi	5	12	3	[('scaffold_10:54760:+', 5), ('scaffold_10:54749:-', 4)]	{'pastEnd:4620:+': 1, 'pastEnd:5708:+': 2, 'Null:0:+': 0}
+TGGGCGTGTATGACGGAGAC	GTCTCCGTCATACACGCCCA	7	7	scaffold_7	-	653864	Multi	2	7	3	[('scaffold_7:653864:-', 2), ('scaffold_7:653873:+', 1), ('scaffold_11:73086:-', 1)]	{'pastEnd:5704:+': 2, 'pastEnd:5706:+': 1, 'Null:0:+': 0}
+CGACACATGACTGTCATTCA	TGAATGACAGTCATGTGTCG	4	3	scaffold_6	+	864704	Multi	3	4	0	[('scaffold_6:864704:+', 3), ('scaffold_2:822538:-', 1)]	{'Null:0:+': 0}
+ACCATATCCTGACCCATCTC	GAGATGGGTCAGGATATGGT	10	9	scaffold_8	-	57091	Multi	2	10	7	[('scaffold_8:57091:-', 2), ('scaffold_8:57086:-', 1)]	{'pastEnd:5704:+': 2, 'pastEnd:3937:+': 2, 'pastEnd:7611:-': 3, 'Null:0:+': 0}
+TATAATATGTCCCTCTGAAT	ATTCAGAGGGACATATTATA	6	5	scaffold_14	+	506629	Multi	1	6	3	[('scaffold_14:506629:+', 1), ('scaffold_14:506628:-', 1), ('scaffold_14:202297:-', 1)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0}
+TGGTGAGTAGCCGAAAATTC	GAATTTTCGGCTACTCACCA	2	2	scaffold_14	+	694548	Multi	1	2	0	[('scaffold_14:694548:+', 1), ('scaffold_16:270595:+', 1)]	{'Null:0:+': 0}
+CTCCGATGAATTAAAGCTCC	GGAGCTTTAATTCATCGGAG	2	2	scaffold_6	+	1292712	Multi	1	2	0	[('scaffold_6:1292712:+', 1), ('scaffold_6:1292693:-', 1)]	{'Null:0:+': 0}
+TTCTTCTCGGCGTGTGTCCG	CGGACACACGCCGAGAAGAA	3	3	scaffold_3	+	1498148	Multi	2	3	0	[('scaffold_3:1498148:+', 2), ('scaffold_3:1498458:+', 1)]	{'Null:0:+': 0}
+CCGTCTGATTTGAAGTTAGC	GCTAACTTCAAATCAGACGG	5	5	scaffold_16	+	402587	Multi	1	5	3	[('scaffold_16:402587:+', 1), ('scaffold_10:60621:-', 1)]	{'pastEnd:5781:+': 3, 'Null:0:+': 0}
+GCGTTAGCAGTCTGCGACGC	GCGTCGCAGACTGCTAACGC	9	8	scaffold_2	+	941778	Multi	1	9	6	[('scaffold_2:941778:+', 1), ('scaffold_3:136193:+', 1), ('scaffold_2:941771:+', 1)]	{'pastEnd:5704:+': 6, 'Null:0:+': 0}
+CATACGACCGTTGGGGAGTG	CACTCCCCAACGGTCGTATG	4	2	scaffold_2	-	151116	Multi	2	4	0	[('scaffold_2:151116:-', 2), ('scaffold_15:456118:+', 2)]	{'Null:0:+': 0}
+TAATACTCGCAGGGATTGTT	AACAATCCCTGCGAGTATTA	9	9	scaffold_1	-	1201766	Multi	3	9	4	[('scaffold_1:1201766:-', 3), ('scaffold_1:1201780:+', 2)]	{'pastEnd:5704:+': 4, 'Null:0:+': 0}
+CAACAGAATGCTAGCTTTGA	TCAAAGCTAGCATTCTGTTG	6	6	scaffold_1	-	1432445	Multi	3	6	1	[('scaffold_1:1432445:-', 3), ('scaffold_3:1340475:+', 2)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+ACGGTTCTTTTGTGTGAATG	CATTCACACAAAAGAACCGT	5	3	scaffold_2	-	1259260	Multi	1	5	3	[('scaffold_2:1259260:-', 1), ('scaffold_2:1259263:-', 1)]	{'Null:0:+': 0, 'pastEnd:7782:-': 1, 'pastEnd:1:+': 1, 'pastEnd:6030:+': 1}
+TGCATTAACGTCACAAGGCA	TGCCTTGTGACGTTAATGCA	5	5	scaffold_3	+	246486	Multi	2	5	2	[('scaffold_3:246486:+', 2), ('scaffold_17:283:-', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 2}
+CGACTGGCAAGATGGTAAAG	CTTTACCATCTTGCCAGTCG	4	4	scaffold_14	+	130027	Multi	3	4	0	[('scaffold_14:130027:+', 3), ('scaffold_14:130016:-', 1)]	{'Null:0:+': 0}
+CTTTTGTGGAGTAGTTGCGT	ACGCAACTACTCCACAAAAG	10	6	scaffold_17	+	468442	Multi	2	10	7	[('scaffold_17:468442:+', 2), ('scaffold_17:468426:-', 1)]	{'pastEnd:5721:+': 3, 'Null:0:+': 0, 'pastEnd:1:+': 3, 'pastEnd:5725:+': 1}
+TGAATTCTTATCGTCGGTTC	GAACCGACGATAAGAATTCA	3	3	scaffold_11	-	331899	Multi	2	3	0	[('scaffold_11:331899:-', 2), ('scaffold_11:51881:+', 1)]	{'Null:0:+': 0}
+TAACAAGGCTACGGGACTTA	TAAGTCCCGTAGCCTTGTTA	18	17	scaffold_12	+	509957	Multi	3	18	13	[('scaffold_12:509957:+', 3), ('scaffold_12:509944:-', 2)]	{'pastEnd:5704:+': 9, 'Null:0:+': 0, 'pastEnd:7741:-': 1, 'pastEnd:1:+': 3}
+GGTACGTTATTGTCTTCATG	CATGAAGACAATAACGTACC	4	4	scaffold_4	-	87876	Multi	3	4	0	[('scaffold_4:87876:-', 3), ('scaffold_13:588734:-', 1)]	{'Null:0:+': 0}
+GTCCGCGCAGCGTTCCGTAT	ATACGGAACGCTGCGCGGAC	2	2	scaffold_9	+	973004	Multi	1	2	0	[('scaffold_9:973004:+', 1), ('scaffold_9:973200:-', 1)]	{'Null:0:+': 0}
+ACGTAGGTTGAGGTGTAGAC	GTCTACACCTCAACCTACGT	7	7	scaffold_3	+	793703	Multi	2	7	4	[('scaffold_3:793703:+', 2), ('scaffold_3:793684:-', 1)]	{'pastEnd:5704:+': 4, 'Null:0:+': 0}
+TGTGCCCCAAGAAAAGAGTA	TACTCTTTTCTTGGGGCACA	2	2	scaffold_1	-	1204041	Multi	1	2	0	[('scaffold_1:1204041:-', 1), ('scaffold_1:1147999:+', 1)]	{'Null:0:+': 0}
+TTTCGAGAACTACCGTCTAC	GTAGACGGTAGTTCTCGAAA	11	11	scaffold_7	+	1274669	Multi	3	11	6	[('scaffold_7:1274669:+', 3), ('scaffold_7:1277988:-', 1), ('scaffold_7:1273170:+', 1)]	{'Null:0:+': 0, 'pastEnd:5703:-': 1, 'pastEnd:1:+': 5}
+ACCGCTTAGGCTTTATGCAT	ATGCATAAAGCCTAAGCGGT	3	2	scaffold_15	+	171478	Multi	1	3	1	[('scaffold_15:171478:+', 1), ('scaffold_15:514485:-', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+GACGTCCGTCGATAGTTTTG	CAAAACTATCGACGGACGTC	10	10	scaffold_16	-	504	Multi	3	10	6	[('scaffold_16:504:-', 3), ('scaffold_17:431427:+', 1)]	{'pastEnd:5704:+': 6, 'Null:0:+': 0}
+AACATTTTAGTGTGCTAG	CTAGCACACTAAAATGTT	3	3	scaffold_2	+	1251482	Multi	2	3	0	[('scaffold_2:1251482:+', 2), ('scaffold_2:1251459:-', 1)]	{'Null:0:+': 0}
+CAGCTATATTATAACAAGA	TCTTGTTATAATATAGCTG	5	5	scaffold_17	-	318533	Multi	2	5	2	[('scaffold_17:318533:-', 2), ('scaffold_2:188120:-', 1)]	{'pastEnd:7582:+': 1, 'Null:0:+': 0, 'pastEnd:1:+': 1}
+TGAGGCAGACTTGTAACTTG	CAAGTTACAAGTCTGCCTCA	5	5	scaffold_2	-	73303	Multi	3	5	0	[('scaffold_2:73303:-', 3), ('scaffold_2:68682:+', 1), ('scaffold_2:73301:+', 1)]	{'Null:0:+': 0}
+TTTGTCGTTGGGAAGACCC	GGGTCTTCCCAACGACAAA	2	2	scaffold_9	-	160487	Multi	1	2	0	[('scaffold_9:160487:-', 1), ('scaffold_9:160497:+', 1)]	{'Null:0:+': 0}
+TTGCCTGGACGGGCGTTGGT	ACCAACGCCCGTCCAGGCAA	5	5	scaffold_2	+	745296	Multi	2	5	2	[('scaffold_2:745296:+', 2), ('scaffold_1:1558146:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}
+CAAAACAGTAACTGTTTTTT	AAAAAACAGTTACTGTTTTG	2	2	scaffold_11	+	723471	Multi	1	2	0	[('scaffold_11:723471:+', 1), ('scaffold_11:634564:-', 1)]	{'Null:0:+': 0}
+TGTGCATTCATTTCTATT	AATAGAAATGAATGCACA	5	5	scaffold_1	+	704699	Multi	3	5	0	[('scaffold_1:704699:+', 3), ('scaffold_1:704670:-', 2)]	{'Null:0:+': 0}
+CAGCTGCCAAAATCTGTACT	AGTACAGATTTTGGCAGCTG	3	3	scaffold_14	+	40475	Multi	2	3	0	[('scaffold_14:40475:+', 2), ('scaffold_17:229350:+', 1)]	{'Null:0:+': 0}
+CTTCCTCTAAACCGTTCTGC	GCAGAACGGTTTAGAGGAAG	2	2	scaffold_1	-	1042791	Multi	1	2	0	[('scaffold_1:1042791:-', 1), ('scaffold_1:2209405:+', 1)]	{'Null:0:+': 0}
+GTATCGACCGTGCTGTGGCG	CGCCACAGCACGGTCGATAC	6	6	scaffold_16	-	437620	Multi	4	6	0	[('scaffold_16:437620:-', 4), ('scaffold_16:437630:+', 2)]	{'Null:0:+': 0}
+ACTTCTTAAGACCCATATCT	AGATATGGGTCTTAAGAAGT	2	2	scaffold_17	+	419248	Multi	1	2	0	[('scaffold_17:419248:+', 1), ('scaffold_17:419508:-', 1)]	{'Null:0:+': 0}
+GTTCACGTCGTTTTATCTCC	GGAGATAAAACGACGTGAAC	8	8	scaffold_1	+	1569870	Multi	2	8	4	[('scaffold_1:1569870:+', 2), ('scaffold_1:1569860:-', 2)]	{'pastEnd:5704:+': 4, 'Null:0:+': 0}
+TATATTCTTCTTACAATGCA	TGCATTGTAAGAAGAATATA	6	5	scaffold_8	-	72684	Multi	2	6	3	[('scaffold_8:72684:-', 2), ('scaffold_6:1546737:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0, 'pastEnd:1:+': 1}
+GGAGATACCTTCAGGCTCG	CGAGCCTGAAGGTATCTCC	2	2	scaffold_2	-	1723148	Multi	1	2	0	[('scaffold_2:1723148:-', 1), ('scaffold_2:1374283:-', 1)]	{'Null:0:+': 0}
+TAGTGGGAGAGCCGCTCGAG	CTCGAGCGGCTCTCCCACTA	3	3	scaffold_1	-	2035932	Multi	2	3	0	[('scaffold_1:2035932:-', 2), ('scaffold_1:2035953:+', 1)]	{'Null:0:+': 0}
+GTGGTGTTTGACTTTGATCG	CGATCAAAGTCAAACACCAC	5	5	scaffold_2	-	314198	Multi	2	5	2	[('scaffold_2:314198:-', 2), ('scaffold_2:314215:+', 1)]	{'Null:0:+': 0, 'pastEnd:5705:+': 2}
+TATTTAGGTTGAGTACATTT	AAATGTACTCAACCTAAATA	21	21	scaffold_7	-	1177081	Multi	5	21	13	[('scaffold_7:1177081:-', 5), ('scaffold_6:64646:+', 3)]	{'pastEnd:5704:+': 12, 'pastEnd:6121:+': 1, 'Null:0:+': 0}
+GGAGTGACAGGAGCTCGGGT	ACCCGAGCTCCTGTCACTCC	3	3	scaffold_7	-	779067	Multi	1	3	1	[('scaffold_7:779067:-', 1), ('scaffold_2:1387335:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+TGCCTTGAATGTGTTAATC	GATTAACACATTCAAGGCA	5	5	scaffold_7	-	602665	Multi	2	5	2	[('scaffold_7:602665:-', 2), ('scaffold_7:602831:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}
+AGTGCGCATCTTTGTCATGG	CCATGACAAAGATGCGCACT	5	5	scaffold_14	+	146715	Multi	2	5	1	[('scaffold_14:146715:+', 2), ('scaffold_14:146682:-', 2)]	{'Null:0:+': 0, 'pastEnd:1:+': 1}
+TAGCGATGCTCCGTCTATTC	GAATAGACGGAGCATCGCTA	2	1	scaffold_14	+	129601	Multi	1	2	0	[('scaffold_14:129601:+', 1), ('scaffold_8:1062733:+', 1)]	{'Null:0:+': 0}
+ACTATCTTGACCTTGTTG	CAACAAGGTCAAGATAGT	2	2	scaffold_17	-	94553	Multi	1	2	0	[('scaffold_17:94553:-', 1), ('scaffold_17:94572:+', 1)]	{'Null:0:+': 0}
+GCTAGACGGGTATCTTAGGC	GCCTAAGATACCCGTCTAGC	5	5	scaffold_14	+	719119	Multi	3	5	1	[('scaffold_14:719119:+', 3), ('scaffold_14:719108:-', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+CGGCTTGACTGTGAAGGGAA	TTCCCTTCACAGTCAAGCCG	5	5	scaffold_14	-	722161	Multi	2	5	2	[('scaffold_14:722161:-', 2), ('scaffold_8:247852:+', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 2}
+CCTCGTTTTTAATTGTTTTG	CAAAACAATTAAAAACGAGG	4	4	scaffold_1	-	1352447	Multi	2	4	1	[('scaffold_1:1352447:-', 2), ('scaffold_17:127655:-', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+TAGAACGAGATGATTGTGGA	TCCACAATCATCTCGTTCTA	3	3	scaffold_12	+	140349	Multi	2	3	0	[('scaffold_12:140349:+', 2), ('scaffold_3:501143:-', 1)]	{'Null:0:+': 0}
+GTTAGCCTAGCAGCACCTGT	ACAGGTGCTGCTAGGCTAAC	5	5	scaffold_1	-	612146	Multi	3	5	1	[('scaffold_1:612146:-', 3), ('scaffold_2:319258:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+AGGGTTATTAACTTGTGGC	GCCACAAGTTAATAACCCT	3	3	scaffold_13	+	630592	Multi	1	3	1	[('scaffold_13:630592:+', 1), ('scaffold_13:630578:-', 1)]	{'pastEnd:3474:+': 1, 'Null:0:+': 0}
+ATATTTGCTAATATGTTATC	GATAACATATTAGCAAATAT	2	2	scaffold_4	+	543944	Multi	1	2	0	[('scaffold_4:543944:+', 1), ('scaffold_4:137323:-', 1)]	{'Null:0:+': 0}
+CACACCGAATGTCTCTTAAT	ATTAAGAGACATTCGGTGTG	9	7	scaffold_7	+	633702	Multi	2	9	6	[('scaffold_7:633702:+', 2), ('scaffold_7:633692:-', 1)]	{'pastEnd:5704:+': 5, 'pastEnd:5703:+': 1, 'Null:0:+': 0}
+TTTACGGGTGCTCGAGCGAT	ATCGCTCGAGCACCCGTAAA	6	6	scaffold_9	+	573159	Multi	3	6	2	[('scaffold_9:573159:+', 3), ('scaffold_9:573137:-', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 2}
+TTTATCAATTTGCTTTTCCT	AGGAAAAGCAAATTGATAAA	2	2	scaffold_2	-	947433	Multi	1	2	0	[('scaffold_2:947433:-', 1), ('scaffold_1:937400:+', 1)]	{'Null:0:+': 0}
+CTGAGGGCCACTGGAGAGGG	CCCTCTCCAGTGGCCCTCAG	11	11	scaffold_1	+	1593164	Multi	6	11	0	[('scaffold_1:1593164:+', 6), ('scaffold_7:1303700:-', 5)]	{'Null:0:+': 0}
+TGACACTTCCTCCCCTTGA	TCAAGGGGAGGAAGTGTCA	2	2	scaffold_8	+	1331887	Multi	1	2	0	[('scaffold_8:1331887:+', 1), ('scaffold_8:1331869:-', 1)]	{'Null:0:+': 0}
+ATTAACTCATGTTATTAC	GTAATAACATGAGTTAAT	4	4	scaffold_5	+	1666241	Multi	2	4	1	[('scaffold_5:1666241:+', 2), ('scaffold_3:1457650:-', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+AGTACTCACCTTACGGCTTA	TAAGCCGTAAGGTGAGTACT	2	2	scaffold_9	+	1155466	Multi	1	2	0	[('scaffold_9:1155466:+', 1), ('scaffold_9:1155317:-', 1)]	{'Null:0:+': 0}
+CCTGAAGATGACCCAAAAGT	ACTTTTGGGTCATCTTCAGG	7	5	scaffold_1	+	116957	Multi	3	7	0	[('scaffold_1:116957:+', 3), ('scaffold_16:273411:-', 2), ('scaffold_16:273406:+', 2)]	{'Null:0:+': 0}
+TTACGAGGTTCATGGTTCGT	ACGAACCATGAACCTCGTAA	2	2	scaffold_1	-	777032	Multi	1	2	0	[('scaffold_1:777032:-', 1), ('scaffold_16:437842:-', 1)]	{'Null:0:+': 0}
+TGGCATCATAAGTCTGATAA	TTATCAGACTTATGATGCCA	5	4	scaffold_9	+	401874	Multi	2	5	2	[('scaffold_9:401874:+', 2), ('scaffold_9:401841:-', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}
+CGCCGATGATTGAAACGTTG	CAACGTTTCAATCATCGGCG	3	2	scaffold_6	+	200147	Multi	2	3	0	[('scaffold_6:200147:+', 2), ('scaffold_7:1286105:-', 1)]	{'Null:0:+': 0}
+GGGGCTAAAGTTGATCGCGT	ACGCGATCAACTTTAGCCCC	4	4	scaffold_11	-	275930	Multi	2	4	0	[('scaffold_11:275930:-', 2), ('scaffold_11:352296:-', 2)]	{'Null:0:+': 0}
+GGTATATGCTGGTGTCGGGT	ACCCGACACCAGCATATACC	2	2	scaffold_6	-	1334569	Multi	1	2	0	[('scaffold_6:1334569:-', 1), ('scaffold_6:1334612:+', 1)]	{'Null:0:+': 0}
+CTCGTATTCTTTAATGTGC	GCACATTAAAGAATACGAG	3	2	scaffold_1	+	2065548	Multi	2	3	0	[('scaffold_1:2065548:+', 2), ('scaffold_1:2065554:+', 1)]	{'Null:0:+': 0}
+CTTGAGCTTGCGTTATAAGT	ACTTATAACGCAAGCTCAAG	3	3	scaffold_1	-	1921010	Multi	2	3	0	[('scaffold_1:1921010:-', 2), ('scaffold_5:240385:+', 1)]	{'Null:0:+': 0}
+ACTAAGTAGAATGAAGAGAC	GTCTCTTCATTCTACTTAGT	2	1	scaffold_5	-	1442122	Multi	1	2	0	[('scaffold_5:1442122:-', 1), ('scaffold_5:1442149:+', 1)]	{'Null:0:+': 0}
+AGTATTGTATGCCTTGCCGT	ACGGCAAGGCATACAATACT	14	14	scaffold_9	+	983723	Multi	4	14	6	[('scaffold_9:983723:+', 4), ('scaffold_9:983711:-', 4)]	{'pastEnd:5704:+': 4, 'pastEnd:5717:+': 2, 'Null:0:+': 0}
+TTCACTTGGCCTCAGCTTGG	CCAAGCTGAGGCCAAGTGAA	6	5	scaffold_3	+	512315	Multi	3	6	2	[('scaffold_3:512315:+', 3), ('scaffold_1:1125255:+', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}
+TACGGTGAGATCGAGCTAGT	ACTAGCTCGATCTCACCGTA	7	3	scaffold_15	+	50986	Multi	4	7	0	[('scaffold_15:50986:+', 4), ('scaffold_15:50803:-', 3)]	{'Null:0:+': 0}
+AGTTTTCCTCTTCAGCAGTG	CACTGCTGAAGAGGAAAACT	3	3	scaffold_13	+	268267	Multi	2	3	0	[('scaffold_13:268267:+', 2), ('scaffold_13:268244:-', 1)]	{'Null:0:+': 0}
+TGTATTTAATTTTATTGATA	TATCAATAAAATTAAATACA	24	24	scaffold_2	-	287407	Multi	5	24	12	[('scaffold_2:287407:-', 5), ('scaffold_2:1347569:-', 5), ('scaffold_2:287408:+', 2)]	{'pastEnd:5706:+': 4, 'Null:0:+': 0, 'pastEnd:5705:+': 8}
+GGTTTTAGCATTCGTGTGCT	AGCACACGAATGCTAAAACC	2	2	scaffold_8	+	1134796	Multi	1	2	0	[('scaffold_8:1134796:+', 1), ('scaffold_8:1133540:-', 1)]	{'Null:0:+': 0}
+AGCGCATGCTATGTACTCAA	TTGAGTACATAGCATGCGCT	3	2	scaffold_3	+	46956	Multi	2	3	0	[('scaffold_3:46956:+', 2), ('scaffold_3:46940:-', 1)]	{'Null:0:+': 0}
+CACGATTCATCTTGTCCTTAT	ATAAGGACAAGATGAATCGTG	9	9	scaffold_3	-	1502965	Multi	3	9	5	[('scaffold_3:1502965:-', 3), ('scaffold_14:246390:-', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 5}
+TGTGCAATGGTTAAGGGCTA	TAGCCCTTAACCATTGCACA	12	10	scaffold_6	-	561157	Multi	5	12	5	[('scaffold_6:561157:-', 5), ('scaffold_6:561172:+', 2)]	{'pastEnd:5775:+': 2, 'Null:0:+': 0, 'pastEnd:7759:-': 1, 'pastEnd:1:+': 2}
+TTTGCATTTATTGTCACGAG	CTCGTGACAATAAATGCAAA	11	11	scaffold_9	+	374573	Multi	3	11	4	[('scaffold_9:374573:+', 3), ('scaffold_8:1155392:+', 3), ('scaffold_16:375137:-', 1)]	{'pastEnd:5704:+': 1, 'pastEnd:5751:+': 1, 'Null:0:+': 0, 'pastEnd:5705:+': 2}
+TGCTTGGTGATATCATGCAG	CTGCATGATATCACCAAGCA	3	3	scaffold_15	+	157019	Multi	2	3	0	[('scaffold_15:157019:+', 2), ('scaffold_15:157009:-', 1)]	{'Null:0:+': 0}
+ATTCTTGAGGAATGTAACAT	ATGTTACATTCCTCAAGAAT	3	2	scaffold_3	-	1358369	Multi	1	3	1	[('scaffold_3:1358369:-', 1), ('scaffold_4:640652:-', 1)]	{'pastEnd:5710:+': 1, 'Null:0:+': 0}
+GACTTCAACGCAAGTTGCGT	ACGCAACTTGCGTTGAAGTC	6	5	scaffold_1	-	1510346	Multi	2	6	3	[('scaffold_1:1510346:-', 2), ('scaffold_1:1510364:+', 1)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0}
+GTTAGGTCCAGGTCTGTGTT	AACACAGACCTGGACCTAAC	6	6	scaffold_2	-	1705329	Multi	2	6	3	[('scaffold_2:1705329:-', 2), ('scaffold_28:7233:+', 1)]	{'pastEnd:5704:+': 2, 'pastEnd:4767:+': 1, 'Null:0:+': 0}
+GCTCAATAGATTCGGGGCTC	GAGCCCCGAATCTATTGAGC	7	7	scaffold_15	-	216911	Multi	2	7	4	[('scaffold_15:216911:-', 2), ('scaffold_9:715532:-', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0, 'pastEnd:1:+': 2}
+TTCCATGGTAAATCCGTC	GACGGATTTACCATGGAA	2	2	scaffold_3	+	856190	Multi	1	2	0	[('scaffold_3:856190:+', 1), ('scaffold_3:856174:-', 1)]	{'Null:0:+': 0}
+GATCTGTGCAAGTGCACAGT	ACTGTGCACTTGCACAGATC	4	4	scaffold_10	-	357544	Multi	3	4	0	[('scaffold_10:357544:-', 3), ('scaffold_10:381344:+', 1)]	{'Null:0:+': 0}
+GGTTAGGGCGGTCGAATTCG	CGAATTCGACCGCCCTAACC	7	6	scaffold_8	+	250669	Multi	2	7	3	[('scaffold_8:250669:+', 2), ('scaffold_8:250679:+', 1), ('scaffold_17:488189:-', 1)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0}
+TATCGCAATGGCCGAAACTT	AAGTTTCGGCCATTGCGATA	6	4	scaffold_2	+	1900088	Multi	2	6	2	[('scaffold_2:1900088:+', 2), ('scaffold_2:1900078:-', 2)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0, 'pastEnd:1:+': 1}
+ATCTCGTTCCGTCAAACTTA	TAAGTTTGACGGAACGAGAT	2	2	scaffold_12	-	267358	Multi	1	2	0	[('scaffold_12:267358:-', 1), ('scaffold_12:266930:+', 1)]	{'Null:0:+': 0}
+CGTGTGATAGCATGCATGGG	CCCATGCATGCTATCACACG	3	3	scaffold_11	+	148681	Multi	2	3	0	[('scaffold_11:148681:+', 2), ('scaffold_11:148665:-', 1)]	{'Null:0:+': 0}
+TAGATTGTCTACTTTCGGAT	ATCCGAAAGTAGACAATCTA	13	13	scaffold_8	-	777624	Multi	3	13	9	[('scaffold_8:777624:-', 3), ('scaffold_9:970224:+', 1)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0, 'pastEnd:5711:+': 6}
+TTCTGAAAAACTTGATGGTG	CACCATCAAGTTTTTCAGAA	3	3	scaffold_6	-	992753	Multi	2	3	0	[('scaffold_6:992753:-', 2), ('scaffold_6:992771:+', 1)]	{'Null:0:+': 0}
+ATCTTTCAGTTTGGGTGTC	GACACCCAAACTGAAAGAT	8	8	scaffold_2	-	1510351	Multi	3	8	4	[('scaffold_2:1510351:-', 3), ('scaffold_2:1510371:+', 1)]	{'pastEnd:5704:+': 3, 'pastEnd:6128:+': 1, 'Null:0:+': 0}
+ACGGTTCGGGCAATATATAT	ATATATATTGCCCGAACCGT	3	3	scaffold_9	+	1013339	Multi	2	3	0	[('scaffold_9:1013339:+', 2), ('scaffold_9:1013329:-', 1)]	{'Null:0:+': 0}
+ATATTGCGCGTGCATCTAT	ATAGATGCACGCGCAATAT	7	7	scaffold_7	-	1390674	Multi	2	7	4	[('scaffold_7:1390674:-', 2), ('scaffold_8:634502:+', 1)]	{'Null:0:+': 0, 'pastEnd:5707:+': 4}
+TGCCGTGTAGTAGAAGTTCG	CGAACTTCTACTACACGGCA	2	2	scaffold_2	-	1956337	Multi	1	2	0	[('scaffold_2:1956337:-', 1), ('scaffold_2:1878850:+', 1)]	{'Null:0:+': 0}
+ATAATTTATCGCTATTGCTC	GAGCAATAGCGATAAATTAT	2	2	scaffold_8	+	533699	Multi	1	2	0	[('scaffold_8:533699:+', 1), ('scaffold_2:530197:-', 1)]	{'Null:0:+': 0}
+TAACTAGCATGGTTACTCTA	TAGAGTAACCATGCTAGTTA	4	4	scaffold_11	+	925243	Multi	2	4	0	[('scaffold_11:925243:+', 2), ('scaffold_11:925233:-', 2)]	{'Null:0:+': 0}
+CTTGCTGATTTTTTATTACG	CGTAATAAAAAATCAGCAAG	7	7	scaffold_4	-	518219	Multi	3	7	2	[('scaffold_4:518219:-', 3), ('scaffold_4:518234:+', 2)]	{'pastEnd:5734:+': 1, 'Null:0:+': 0, 'pastEnd:5791:+': 1}
+GTTGATGCGGGGGGATCCTT	AAGGATCCCCCCGCATCAAC	2	1	scaffold_1	-	1277485	Multi	1	2	0	[('scaffold_1:1277485:-', 1), ('scaffold_1:1277495:+', 1)]	{'Null:0:+': 0}
+CATCTATTGTTTCCCCGTCG	CGACGGGGAAACAATAGATG	4	4	scaffold_6	-	200492	Multi	2	4	0	[('scaffold_6:200492:-', 2), ('scaffold_6:189279:+', 2)]	{'Null:0:+': 0}
+AGGATGTGGGTTCTTTATGG	CCATAAAGAACCCACATCCT	3	3	scaffold_7	+	18663	Multi	2	3	0	[('scaffold_7:18663:+', 2), ('scaffold_7:18652:-', 1)]	{'Null:0:+': 0}
+AGAGTAAATACCATGTTTCA	TGAAACATGGTATTTACTCT	8	8	scaffold_9	-	19839	Multi	4	8	2	[('scaffold_9:19839:-', 4), ('scaffold_9:8674:-', 2)]	{'Null:0:+': 0, 'pastEnd:1:+': 2}
+GTGTGGAGATTTGTCTGTTC	GAACAGACAAATCTCCACAC	5	5	scaffold_1	-	1920545	Multi	3	5	0	[('scaffold_1:1920545:-', 3), ('scaffold_1:1920555:+', 2)]	{'Null:0:+': 0}
+TAGAATGAGTGTTAGATCCC	GGGATCTAACACTCATTCTA	8	7	scaffold_6	+	798822	Multi	1	8	6	[('scaffold_6:798822:+', 1), ('scaffold_13:114146:+', 1)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0, 'pastEnd:5727:+': 2, 'pastEnd:5703:-': 1}
+GCTTAAATTTGTTAAAGTCA	TGACTTTAACAAATTTAAGC	4	4	scaffold_8	+	454525	Multi	2	4	1	[('scaffold_8:454525:+', 2), ('scaffold_16:25572:+', 1)]	{'Null:0:+': 0, 'pastEnd:5716:+': 1}
+CGATGTATTGTGATGTAAGG	CCTTACATCACAATACATCG	10	10	scaffold_3	+	1387588	Multi	4	10	3	[('scaffold_3:1387588:+', 4), ('scaffold_3:1465165:+', 3)]	{'Null:0:+': 0, 'pastEnd:1:+': 3}
+TTCATCTATCACTCTGTCTT	AAGACAGAGTGATAGATGAA	4	4	scaffold_17	+	312316	Multi	3	4	0	[('scaffold_17:312316:+', 3), ('scaffold_17:312305:-', 1)]	{'Null:0:+': 0}
+AATTTTGTTTTACCGAGTGT	ACACTCGGTAAAACAAAATT	6	6	scaffold_12	-	148348	Multi	2	6	2	[('scaffold_12:148348:-', 2), ('scaffold_12:148461:+', 2)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}
+CGCGATGGAGAGAGAGGCTT	AAGCCTCTCTCTCCATCGCG	2	2	scaffold_1	-	1061313	Multi	1	2	0	[('scaffold_1:1061313:-', 1), ('scaffold_1:1061804:-', 1)]	{'Null:0:+': 0}
+CGGGCGTTTCCCCTTCTATG	CATAGAAGGGGAAACGCCCG	4	4	scaffold_16	-	261411	Multi	3	4	0	[('scaffold_16:261411:-', 3), ('scaffold_11:728809:+', 1)]	{'Null:0:+': 0}
+GTCCTCAATTGAGTGCTCTA	TAGAGCACTCAATTGAGGAC	4	4	scaffold_8	-	1141975	Multi	1	4	2	[('scaffold_8:1141975:-', 1), ('scaffold_8:1141986:+', 1)]	{'pastEnd:5704:+': 1, 'pastEnd:7638:-': 1, 'Null:0:+': 0}
+TGGGTGTCGTTAAGGCGGGT	ACCCGCCTTAACGACACCCA	7	5	scaffold_14	+	218389	Multi	2	7	4	[('scaffold_14:218389:+', 2), ('scaffold_14:218373:-', 1)]	{'pastEnd:5704:+': 2, 'pastEnd:7944:-': 2, 'Null:0:+': 0}
+TGTAATCAGCATGGCGGTG	CACCGCCATGCTGATTACA	6	6	scaffold_7	-	581560	Multi	2	6	3	[('scaffold_7:581560:-', 2), ('scaffold_7:581573:+', 1)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0}
+CAGCCATCTTGTCGTCGGAG	CTCCGACGACAAGATGGCTG	3	3	scaffold_5	+	124131	Multi	2	3	0	[('scaffold_5:124131:+', 2), ('scaffold_1:9918:-', 1)]	{'Null:0:+': 0}
+TGATAATGCTAGGACGGGGT	ACCCCGTCCTAGCATTATCA	4	4	scaffold_11	-	515205	Multi	3	4	0	[('scaffold_11:515205:-', 3), ('scaffold_3:46191:+', 1)]	{'Null:0:+': 0}
+AATATCAGAGCTACTAGTT	AACTAGTAGCTCTGATATT	4	4	scaffold_2	-	122332	Multi	3	4	0	[('scaffold_2:122332:-', 3), ('scaffold_14:634682:+', 1)]	{'Null:0:+': 0}
+AACGGTTCTACGTCATTTAT	ATAAATGACGTAGAACCGTT	6	6	scaffold_7	-	192401	Multi	4	6	0	[('scaffold_7:192401:-', 4), ('scaffold_7:192419:+', 2)]	{'Null:0:+': 0}
+GGTTCTGGTACAAAGAATCT	AGATTCTTTGTACCAGAACC	6	6	scaffold_1	+	821049	Multi	1	6	4	[('scaffold_1:821049:+', 1), ('scaffold_1:821037:-', 1)]	{'pastEnd:5704:+': 4, 'Null:0:+': 0}
+CGGGAAGGTGGATTTGAGTG	CACTCAAATCCACCTTCCCG	6	6	scaffold_2	-	1154788	Multi	2	6	3	[('scaffold_2:1154788:-', 2), ('scaffold_2:1154783:-', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0, 'pastEnd:1:+': 2}
+CAAGAAAAGGTGAAAGAAGC	GCTTCTTTCACCTTTTCTTG	2	2	scaffold_7	+	644699	Multi	1	2	0	[('scaffold_7:644699:+', 1), ('scaffold_7:644686:-', 1)]	{'Null:0:+': 0}
+ATAACCCCAGCTCATGTATA	TATACATGAGCTGGGGTTAT	2	2	scaffold_12	+	142953	Multi	1	2	0	[('scaffold_12:142953:+', 1), ('scaffold_12:142919:-', 1)]	{'Null:0:+': 0}
+TCCCCTCCTACGTTTAGAT	ATCTAAACGTAGGAGGGGA	11	11	scaffold_10	-	116738	Multi	2	11	8	[('scaffold_10:116738:-', 2), ('scaffold_10:116761:+', 1)]	{'pastEnd:5704:+': 5, 'pastEnd:5708:+': 2, 'Null:0:+': 0, 'pastEnd:1:+': 1}
+CGTTTAAGTCCAACTTCGGG	CCCGAAGTTGGACTTAAACG	7	7	scaffold_6	+	1012103	Multi	3	7	3	[('scaffold_6:1012103:+', 3), ('scaffold_6:1012089:-', 1)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0}
+ATTGGCATGAGTTGATTTTT	AAAAATCAACTCATGCCAAT	2	2	scaffold_5	-	465080	Multi	1	2	0	[('scaffold_5:465080:-', 1), ('scaffold_12:177045:+', 1)]	{'Null:0:+': 0}
+CTATCGCGTCGGCCAACTCG	CGAGTTGGCCGACGCGATAG	8	8	scaffold_15	-	124188	Multi	3	8	4	[('scaffold_15:124188:-', 3), ('scaffold_15:124202:+', 1)]	{'pastEnd:5708:+': 4, 'Null:0:+': 0}
+CTATTTCCGTCGGAAGAAGG	CCTTCTTCCGACGGAAATAG	13	13	scaffold_2	-	1075472	Multi	5	13	6	[('scaffold_2:1075472:-', 5), ('scaffold_11:920446:-', 2)]	{'pastEnd:5704:+': 6, 'Null:0:+': 0}
+CTGTATTGAGATCGAGACTA	TAGTCTCGATCTCAATACAG	9	9	scaffold_18	+	314971	Multi	2	9	6	[('scaffold_18:314971:+', 2), ('scaffold_18:314961:-', 1)]	{'pastEnd:5704:+': 6, 'Null:0:+': 0}
+AATCTCCTGGGTTATCTGGG	CCCAGATAACCCAGGAGATT	2	2	scaffold_12	+	483837	Multi	1	2	0	[('scaffold_12:483837:+', 1), ('scaffold_2:453110:+', 1)]	{'Null:0:+': 0}
+CGCCGTAATGATAGATGGGA	TCCCATCTATCATTACGGCG	11	9	scaffold_12	+	345489	Multi	5	11	1	[('scaffold_12:345489:+', 5), ('scaffold_11:555571:+', 3), ('scaffold_11:555555:-', 2)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+CTTTGGGGAATGGGTGTTCT	AGAACACCCATTCCCCAAAG	8	8	scaffold_12	-	94583	Multi	3	8	3	[('scaffold_12:94583:-', 3), ('scaffold_12:94596:+', 2)]	{'Null:0:+': 0, 'pastEnd:5714:+': 3}
+GAGCGACATGAGGTATCCGT	ACGGATACCTCATGTCGCTC	8	8	scaffold_8	-	645989	Multi	2	8	5	[('scaffold_8:645989:-', 2), ('scaffold_8:536163:-', 1)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0, 'pastEnd:1:+': 2}
+CCATTGTTTCGAGTTACAT	ATGTAACTCGAAACAATGG	4	4	scaffold_8	+	147318	Multi	2	4	1	[('scaffold_8:147318:+', 2), ('scaffold_8:147308:-', 1)]	{'Null:0:+': 0, 'pastEnd:5703:-': 1}
+GAGAAGGCAATCTTTGTCGT	ACGACAAAGATTGCCTTCTC	4	4	scaffold_5	-	737015	Multi	2	4	0	[('scaffold_5:737015:-', 2), ('scaffold_5:740324:+', 2)]	{'Null:0:+': 0}
+AACGTCTTGAGCCGGATGCT	AGCATCCGGCTCAAGACGTT	2	2	scaffold_2	+	985003	Multi	1	2	0	[('scaffold_2:985003:+', 1), ('scaffold_2:984992:-', 1)]	{'Null:0:+': 0}
+GCTGCTGGATCTTGGAAGGA	TCCTTCCAAGATCCAGCAGC	4	4	scaffold_4	+	183068	Multi	2	4	1	[('scaffold_4:183068:+', 2), ('scaffold_4:183057:-', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 1}
+GTATTTATCGTTGAAAGGAC	GTCCTTTCAACGATAAATAC	5	5	scaffold_2	+	331733	Multi	2	5	2	[('scaffold_2:331733:+', 2), ('scaffold_16:319161:+', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 1, 'pastEnd:5707:+': 1}
+GATTTTGTCCTTTATGCATT	AATGCATAAAGGACAAAATC	2	2	scaffold_11	-	669512	Multi	1	2	0	[('scaffold_11:669512:-', 1), ('scaffold_4:207559:-', 1)]	{'Null:0:+': 0}
+TGTTACCATAGGACATAGAC	GTCTATGTCCTATGGTAACA	7	4	scaffold_12	+	455963	Multi	2	7	4	[('scaffold_12:455963:+', 2), ('scaffold_12:455964:+', 1)]	{'pastEnd:5704:+': 4, 'Null:0:+': 0}
+GTCGAGAAGTGAATGGTGGG	CCCACCATTCACTTCTCGAC	2	1	scaffold_4	-	557276	Multi	1	2	0	[('scaffold_4:557276:-', 1), ('scaffold_4:557288:+', 1)]	{'Null:0:+': 0}
+TCTCCTGATCATAGGTCTTA	TAAGACCTATGATCAGGAGA	8	8	scaffold_16	-	234025	Multi	3	8	2	[('scaffold_16:234025:-', 3), ('scaffold_16:234052:+', 3)]	{'Null:0:+': 0, 'pastEnd:1:+': 2}
+GTGGTGTGAGCGTGGCGGCC	GGCCGCCACGCTCACACCAC	2	2	scaffold_10	-	559280	Multi	1	2	0	[('scaffold_10:559280:-', 1), ('scaffold_3:1690631:-', 1)]	{'Null:0:+': 0}
+AAATCTGTTTCCTAAATACT	AGTATTTAGGAAACAGATTT	6	6	scaffold_1	-	1652038	Multi	3	6	1	[('scaffold_1:1652038:-', 3), ('scaffold_1:1652068:+', 2)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+GTGAATAGAGATAATTCTAC	GTAGAATTATCTCTATTCAC	4	4	scaffold_9	-	998739	Multi	3	4	0	[('scaffold_9:998739:-', 3), ('scaffold_9:998752:+', 1)]	{'Null:0:+': 0}
+GTGTTATTAGCCTGCAGCCT	AGGCTGCAGGCTAATAACAC	9	9	scaffold_6	-	407976	Multi	5	9	1	[('scaffold_6:407976:-', 5), ('scaffold_6:407544:-', 3)]	{'pastEnd:5703:+': 1, 'Null:0:+': 0}
+ACTTTCATGCTTCCACCTAT	ATAGGTGGAAGCATGAAAGT	4	4	scaffold_3	-	977064	Multi	3	4	0	[('scaffold_3:977064:-', 3), ('scaffold_3:977082:+', 1)]	{'Null:0:+': 0}
+CTGTGGCTTCATAATATCCA	TGGATATTATGAAGCCACAG	2	2	scaffold_6	-	1335250	Multi	1	2	0	[('scaffold_6:1335250:-', 1), ('scaffold_6:1335260:+', 1)]	{'Null:0:+': 0}
+AGTAAAGTGTGTACGTCGCT	AGCGACGTACACACTTTACT	7	5	scaffold_6	-	1027854	Multi	2	7	4	[('scaffold_6:1027854:-', 2), ('scaffold_6:1027877:+', 1)]	{'pastEnd:5704:+': 3, 'pastEnd:5706:+': 1, 'Null:0:+': 0}
+CATTTATGATGTAATACAGG	CCTGTATTACATCATAAATG	4	4	scaffold_5	+	672452	Multi	1	4	2	[('scaffold_5:672452:+', 1), ('scaffold_5:672441:-', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}
+CATTTTTGCTATATTTTCAC	GTGAAAATATAGCAAAAATG	2	1	scaffold_17	+	208324	Multi	1	2	0	[('scaffold_17:208324:+', 1), ('scaffold_17:208320:+', 1)]	{'Null:0:+': 0}
+TTCTGGTAAACATTCTTGCT	AGCAAGAATGTTTACCAGAA	3	3	scaffold_13	-	373614	Multi	1	3	1	[('scaffold_13:373614:-', 1), ('scaffold_13:373906:+', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+ATCTTGCACGCTATAATGAT	ATCATTATAGCGTGCAAGAT	2	2	scaffold_14	-	625382	Multi	1	2	0	[('scaffold_14:625382:-', 1), ('scaffold_14:625500:+', 1)]	{'Null:0:+': 0}
+TGAATCACTACCCTTACAG	CTGTAAGGGTAGTGATTCA	2	2	scaffold_9	+	1021077	Multi	1	2	0	[('scaffold_9:1021077:+', 1), ('scaffold_9:1021066:-', 1)]	{'Null:0:+': 0}
+TCAGTCGAGAAGCAACGGAT	ATCCGTTGCTTCTCGACTGA	2	2	scaffold_8	-	1115120	Multi	1	2	0	[('scaffold_8:1115120:-', 1), ('scaffold_8:1115130:+', 1)]	{'Null:0:+': 0}
+AGATATCAAGAGCGAGCGCG	CGCGCTCGCTCTTGATATCT	4	4	scaffold_2	+	1229910	Multi	3	4	0	[('scaffold_2:1229910:+', 3), ('scaffold_2:1229900:-', 1)]	{'Null:0:+': 0}
+TCTCATAAGATCTAATTCAG	CTGAATTAGATCTTATGAGA	3	3	scaffold_3	-	39456	Multi	2	3	0	[('scaffold_3:39456:-', 2), ('scaffold_6:833754:-', 1)]	{'Null:0:+': 0}
+TACTTCCGGTTTCTCAAATT	AATTTGAGAAACCGGAAGTA	3	2	scaffold_8	-	665674	Multi	2	3	0	[('scaffold_8:665674:-', 2), ('scaffold_7:580850:-', 1)]	{'Null:0:+': 0}
+TTTTTATATATATCAGTATC	GATACTGATATATATAAAAA	6	6	scaffold_17	+	514147	Multi	2	6	3	[('scaffold_17:514147:+', 2), ('scaffold_17:514137:-', 1)]	{'Null:0:+': 0, 'pastEnd:5716:+': 3}
+TAATCCGGGTTTTCTTTGCT	AGCAAAGAAAACCCGGATTA	3	3	scaffold_15	-	412315	Multi	2	3	0	[('scaffold_15:412315:-', 2), ('scaffold_15:434996:-', 1)]	{'Null:0:+': 0}
+TTCCTACCGGGTGGCTTAAC	GTTAAGCCACCCGGTAGGAA	4	4	scaffold_14	-	568970	Multi	3	4	0	[('scaffold_14:568970:-', 3), ('scaffold_8:1243815:+', 1)]	{'Null:0:+': 0}
+TGTGAACTCTCTGTTGATAA	TTATCAACAGAGAGTTCACA	7	7	scaffold_1	+	973277	Multi	3	7	3	[('scaffold_1:973277:+', 3), ('scaffold_15:439272:+', 1)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0}
+ATATAAGATCTCCTTCCATA	TATGGAAGGAGATCTTATAT	2	2	scaffold_1	-	1846725	Multi	1	2	0	[('scaffold_1:1846725:-', 1), ('scaffold_1:1846738:+', 1)]	{'Null:0:+': 0}
+TAAGGTCCCTCCGGTTCGGT	ACCGAACCGGAGGGACCTTA	7	7	scaffold_7	+	15845	Multi	3	7	3	[('scaffold_7:15845:+', 3), ('scaffold_1:164908:-', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0, 'pastEnd:1:+': 1}
+GCCTTCGGAACGATTTACAC	GTGTAAATCGTTCCGAAGGC	2	2	scaffold_13	+	107444	Multi	1	2	0	[('scaffold_13:107444:+', 1), ('scaffold_13:107445:+', 1)]	{'Null:0:+': 0}
+TTATTATTACGAGCCGGATT	AATCCGGCTCGTAATAATAA	7	7	scaffold_14	+	31066	Multi	4	7	1	[('scaffold_14:31066:+', 4), ('scaffold_14:62522:-', 2)]	{'Null:0:+': 0, 'pastEnd:7783:+': 1}
+GTGTCTTTTTGTCGGGGCCT	AGGCCCCGACAAAAAGACAC	3	3	scaffold_2	+	1310314	Multi	2	3	0	[('scaffold_2:1310314:+', 2), ('scaffold_1:505085:+', 1)]	{'Null:0:+': 0}
+ACAGGTGGAGATTGACTTCG	CGAAGTCAATCTCCACCTGT	3	3	scaffold_4	+	511953	Multi	1	3	1	[('scaffold_4:511953:+', 1), ('scaffold_4:511924:-', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 1}
+AAACAGCTACAGGAGGAAGG	CCTTCCTCCTGTAGCTGTTT	9	9	scaffold_1	+	248501	Multi	2	9	5	[('scaffold_1:248501:+', 2), ('scaffold_1:248478:-', 2)]	{'Null:0:+': 0, 'pastEnd:1:+': 5}
+ATATTGCCAATTAAGTATAA	TTATACTTAATTGGCAATAT	2	2	scaffold_16	-	367326	Multi	1	2	0	[('scaffold_16:367326:-', 1), ('scaffold_16:367342:+', 1)]	{'Null:0:+': 0}
+TTGGCTCGCCCAGTATATG	CATATACTGGGCGAGCCAA	7	7	scaffold_4	+	641430	Multi	1	7	5	[('scaffold_4:641430:+', 1), ('scaffold_16:15125:-', 1)]	{'pastEnd:5704:+': 5, 'Null:0:+': 0}
+CGTCTTAACTTAGATGTAGT	ACTACATCTAAGTTAAGACG	2	2	scaffold_8	+	200421	Multi	1	2	0	[('scaffold_8:200421:+', 1), ('scaffold_8:200409:-', 1)]	{'Null:0:+': 0}
+GGTAGGTTGAGATTAACGAG	CTCGTTAATCTCAACCTACC	5	2	scaffold_13	-	186018	Multi	3	5	0	[('scaffold_13:186018:-', 3), ('scaffold_13:186038:+', 2)]	{'Null:0:+': 0}
+ACGCATTCAAACCCGGGTGG	CCACCCGGGTTTGAATGCGT	5	5	scaffold_6	+	1529091	Multi	3	5	1	[('scaffold_6:1529091:+', 3), ('scaffold_6:1153522:+', 1)]	{'pastEnd:5703:+': 1, 'Null:0:+': 0}
+TTCAGTCGCATGAGTTTGGT	ACCAAACTCATGCGACTGAA	10	10	scaffold_13	-	300678	Multi	3	10	6	[('scaffold_13:300678:-', 3), ('scaffold_13:300688:+', 1)]	{'pastEnd:5703:+': 1, 'Null:0:+': 0, 'pastEnd:5705:+': 1, 'pastEnd:1:+': 4}
+CTCATGAGTAGTTCGTATGG	CCATACGAACTACTCATGAG	7	7	scaffold_10	+	250845	Multi	2	7	4	[('scaffold_10:250845:+', 2), ('scaffold_10:250819:-', 1)]	{'pastEnd:5704:+': 1, 'pastEnd:3336:+': 1, 'Null:0:+': 0, 'pastEnd:1:+': 2}
+CCTTCACTGTTCCACCTCG	CGAGGTGGAACAGTGAAGG	5	5	scaffold_9	+	75591	Multi	3	5	1	[('scaffold_9:75591:+', 3), ('scaffold_9:75573:-', 1)]	{'Null:0:+': 0, 'pastEnd:1:+': 1}
+TGGCTCTCTTTAAACTATTG	CAATAGTTTAAAGAGAGCCA	5	5	scaffold_6	+	1123523	Multi	3	5	1	[('scaffold_6:1123523:+', 3), ('scaffold_6:1123505:-', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+GTAAACCGAGAGTCAAGG	CCTTGACTCTCGGTTTAC	9	9	scaffold_10	+	71445	Multi	2	9	5	[('scaffold_10:71445:+', 2), ('scaffold_10:71435:-', 2)]	{'pastEnd:5704:+': 1, 'pastEnd:5722:+': 1, 'Null:0:+': 0, 'pastEnd:5705:+': 3}
+GTCTAGCTTTGGAGGTCTAG	CTAGACCTCCAAAGCTAGAC	21	21	scaffold_1	-	965347	Multi	3	21	16	[('scaffold_1:965347:-', 3), ('scaffold_1:965371:+', 2)]	{'pastEnd:7888:+': 3, 'pastEnd:5274:-': 5, 'pastEnd:5705:+': 2, 'pastEnd:1:+': 3, 'pastEnd:5704:+': 3, 'Null:0:+': 0}
+TATTCACGTCTCATTGTCA	TGACAATGAGACGTGAATA	4	4	scaffold_16	-	168414	Multi	2	4	1	[('scaffold_16:168414:-', 2), ('scaffold_16:168426:+', 1)]	{'Null:0:+': 0, 'pastEnd:5703:-': 1}
+GCTAGGAGAGCTGACCACAA	TTGTGGTCAGCTCTCCTAGC	2	2	scaffold_3	-	1494456	Multi	1	2	0	[('scaffold_3:1494456:-', 1), ('scaffold_3:1494478:+', 1)]	{'Null:0:+': 0}
+TTTTAATCTGTGCTTCACCC	GGGTGAAGCACAGATTAAAA	2	2	scaffold_12	-	702349	Multi	1	2	0	[('scaffold_12:702349:-', 1), ('scaffold_12:702386:+', 1)]	{'Null:0:+': 0}
+GGATTACTGGTATCTATCGA	TCGATAGATACCAGTAATCC	4	4	scaffold_13	-	437820	Multi	3	4	0	[('scaffold_13:437820:-', 3), ('scaffold_13:437841:+', 1)]	{'Null:0:+': 0}
+ATACAGTAGTGACACCACTA	TAGTGGTGTCACTACTGTAT	7	7	scaffold_9	+	278912	Multi	3	7	3	[('scaffold_9:278912:+', 3), ('scaffold_9:278901:-', 1)]	{'Null:0:+': 0, 'pastEnd:5716:+': 3}
+TCGAGCCGCTTTGCGATACA	TGTATCGCAAAGCGGCTCGA	2	2	scaffold_1	+	1586059	Multi	1	2	0	[('scaffold_1:1586059:+', 1), ('scaffold_1:1586039:-', 1)]	{'Null:0:+': 0}
+ATTCCTCGTTAGAGGGGGGC	GCCCCCCTCTAACGAGGAAT	4	4	scaffold_18	-	175408	Multi	3	4	0	[('scaffold_18:175408:-', 3), ('scaffold_18:176040:+', 1)]	{'Null:0:+': 0}
+TGGACACCACCTTGGATTTT	AAAATCCAAGGTGGTGTCCA	3	3	scaffold_2	-	513364	Multi	2	3	0	[('scaffold_2:513364:-', 2), ('scaffold_2:513386:+', 1)]	{'Null:0:+': 0}
+TCGTAAGCAAAAATTTCACG	CGTGAAATTTTTGCTTACGA	5	5	scaffold_4	+	255082	Multi	2	5	2	[('scaffold_4:255082:+', 2), ('scaffold_4:255057:-', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0}
+TGTTTTGTAACCGTCATCTT	AAGATGACGGTTACAAAACA	12	12	scaffold_16	-	443229	Multi	5	12	5	[('scaffold_16:443229:-', 5), ('scaffold_2:582084:+', 2)]	{'pastEnd:5704:+': 3, 'Null:0:+': 0, 'pastEnd:1:+': 2}
+GCGTAGGGGTGGAGAAGTGT	ACACTTCTCCACCCCTACGC	8	7	scaffold_6	-	1495444	Multi	3	8	4	[('scaffold_6:1495444:-', 3), ('scaffold_6:1495454:+', 1)]	{'pastEnd:5704:+': 4, 'Null:0:+': 0}
+GGCCCTATTAACCAGTGATG	CATCACTGGTTAATAGGGCC	3	2	scaffold_14	-	505671	Multi	1	3	1	[('scaffold_14:505671:-', 1), ('scaffold_15:165246:-', 1)]	{'pastEnd:5704:+': 1, 'Null:0:+': 0}
+ACGTACCCTGTTGCAATACC	GGTATTGCAACAGGGTACGT	4	4	scaffold_4	+	324316	Multi	2	4	1	[('scaffold_4:324316:+', 2), ('scaffold_4:324295:-', 1)]	{'Null:0:+': 0, 'pastEnd:5746:+': 1}
+TTATAACGCAAGGGATCCCA	TGGGATCCCTTGCGTTATAA	14	14	scaffold_5	+	846943	Multi	2	14	11	[('scaffold_5:846943:+', 2), ('scaffold_8:772001:-', 1)]	{'pastEnd:5704:+': 2, 'Null:0:+': 0, 'pastEnd:1:+': 9}
