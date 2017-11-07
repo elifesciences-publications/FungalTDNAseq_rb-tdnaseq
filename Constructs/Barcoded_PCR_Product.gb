@@ -1,0 +1,43 @@
+LOCUS       Exported                 150 bp ds-DNA     linear   UNA 06-NOV-2017
+DEFINITION  natural linear DNA.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      natural DNA sequence
+  ORGANISM  unspecified
+REFERENCE   1  (bases 1 to 150)
+  AUTHORS   Jeffrey Skerker
+  TITLE     Direct Submission
+  JOURNAL   Exported Nov 6, 2017 from SnapGene 4.0.8
+            http://www.snapgene.com
+FEATURES             Location/Qualifiers
+     source          1..150
+                     /organism="unspecified"
+                     /mol_type="genomic DNA"
+     misc_feature    38..44
+                     /label=SapI recognition site
+     misc_feature    46..48
+                     /label=ccc overhang
+     primer_bind     49..66
+                     /label=BarSeq primer P2 site
+                     /label=BarSeq primer site U1
+                     /label=U1
+     primer_bind     49..64
+                     /label=TnSeq primer site
+     gap             67..86
+                     /estimated_length="20"
+     misc_feature    67..86
+                     /label=Random Sequence Barcode
+     primer_bind     complement(87..104)
+                     /label=BarSeq primer P1 site
+                     /label=BarSeq Primer Site U2
+                     /label=U2
+     misc_feature    105..107
+                     /label=tta overhang
+     misc_feature    109..115
+                     /label=SapI recognition site
+ORIGIN
+        1 tcacacaagt ttgtacaaaa aagcaggctg gagctcggct cttcgcccga tgtccacgag
+       61 gtctctnnnn nnnnnnnnnn nnnnnncgta cgctgcaggt cgacaattga agagcggatc
+      121 cacccagctt tcttgtacaa agtggttgag
+//
