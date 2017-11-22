@@ -1,0 +1,23 @@
+#Directorys for scripts and reference files
+anaconda_path="/usr2/people/scorad/anaconda2/bin/python"
+RB_TDNAseq_dir="/usr2/people/scorad/ElifeSubmission2017/BitBucket/RB-TDNAseq/"
+ref_files=$RB_TDNAseq_dir"Reference_Files/"
+codebase=$RB_TDNAseq_dir"Code/"
+primerFile=$ref_files"TDNAmodels/model_pDP11BC"
+genomeSequence=$ref_files"RTO4_scaffolds.fasta"
+genesGFF=$ref_files"RTO4_genes.gff3"
+
+
+#Files and prefixes for outputs
+#TnSeq example data is available at https://www.ncbi.nlm.nih.gov/sra/?term=SRP116146
+fastqDir=$RB_TDNAseq_dir"Sequence_Data/TnSeq_data/"
+tnseqSuffix="_R1_001.fastq"
+resultsDir=$RB_TDNAseq_dir"TnSeq_Results/"
+poolBaseName="RB-TDNAseq_insertion_pool"
+
+##
+##Produce summary stats on the distribution of useful T-DNA insertions with InsertBias.py 
+##Note: event thought this script only saves figures as PDFs it may still throw and error when running on server unless you start the ssh session with the -X flag
+##
+
+/usr2/people/scorad/anaconda2/bin/python "$codebase"RB-TDNAseq_scripts/InsertBias.py --input "$resultsDir$poolBaseName"_genes.txt --fasta "$genomeSequence" --genes "$genesGFF"

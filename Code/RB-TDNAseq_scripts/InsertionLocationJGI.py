@@ -19,7 +19,7 @@ def main(argv):
     parser.add_option("-p", "--pool_file", dest="pool_file", help="Poolfile produced by RandomPoolConcatamers.py")
     parser.add_option("-g", "--gff", dest="gff", help="GFF3 with feature locations")
     parser.add_option("-o", "--output", dest="outputbase", help="Basename for output files", default="pool")
-    #parser.add_option("-i", "--identifier", dest="identifier", help="gene identifier name, eg. for fields annotated as 'orf_end=7629; gene_name gene_1.2', the identifier could be 'orf_end=' or 'gene_name'", default='gene_name')
+
 
     (options, args) = parser.parse_args()
 
@@ -58,7 +58,7 @@ def main(argv):
 
 
     #Sort pool by location
-    poolFrame.sort_values(['scaffold','pos'],ascending=[1,1],inplace=1)
+    poolFrame.sort_values(['scaffold','pos'],ascending=[1,1],inplace=True)
     timestamp = "["+datetime.now().time().strftime('%X')+"]"
     print(timestamp, "Sorted pool entries by location")
     
@@ -139,7 +139,7 @@ def main(argv):
                               index=protIDs)
 
 
-    geneFrame.sort_values(['scaffold','CDS_begin'],ascending=[1,1],inplace=1)
+    geneFrame.sort_values(['scaffold','CDS_begin'],ascending=[1,1],inplace=True)
     geneFrame.to_csv('geneFrame.txt',sep="\t")
         
     timestamp = "["+datetime.now().time().strftime('%X')+"]"
